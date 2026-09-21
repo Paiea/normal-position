@@ -40,19 +40,19 @@ Promote repeated behavior after rehearsal.
 Every major character needs:
 - work
 - obligation
-- relationship outside Mara
+- relationship outside Malia
 - problem unrelated to the haunting
-- competence Mara does not own
-- something Mara finds boring
+- competence Malia does not own
+- something Malia finds boring
 
-If Mara vanished for a week, each major character must still have something to do.
+If Malia vanished for a week, each major character must still have something to do.
 
 ## Frame-breaker
 
 Working frame-breaker:
-**Tomas Orlan**.
+**Keoni Kealoha**.
 
-He understands practical island systems Mara does not:
+He understands practical island systems Malia does not:
 - engines
 - boats
 - storm preparation
@@ -66,12 +66,12 @@ He should sometimes be right about an object or structure for boring professiona
 
 ## Present-tense danger
 
-At least one loved / understandable character must make a current choice Mara would not make and refuse to retract it.
+At least one loved / understandable character must make a current choice Malia would not make and refuse to retract it.
 
 Working candidate:
-**Inez**.
+**Kalei**.
 
-Her care for Adela and the compound must have sharpened into a willingness to use invasive household knowledge for protection / control.
+Her care for Lehua and the compound must have sharpened into a willingness to use invasive household knowledge for protection / control.
 
 Do not make her secretly evil.
 
