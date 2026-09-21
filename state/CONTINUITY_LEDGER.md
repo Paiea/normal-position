@@ -1,77 +1,98 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 09.
+Status: ACTIVE THROUGH CHAPTER 10.
 
 ## Time
 Current:
-end of Day 10 after Tūtū Lehua's death.
+Day 11 after Tūtū Lehua's death.
 
-## Chapter 09 false-negative state
+## Supernatural state
+No clean supernatural confirmation through Chapter 10.
 
-Tūtū Lehua's slippers:
-still gone.
+Chapter 10 contains no anomaly.
 
-Comb:
-still in normal ceramic dish.
+## Keoni's workshop baseline
 
-Front key:
-used by visible household members and returned normally.
+The workshop is not visually standardized.
 
-Kitchen cups:
-remain in current arrangement.
+Order operates through:
 
-No older arrangement emerges.
+### Job state
+Current jobs cluster at main bench.
 
-No new anomaly occurs.
+### Functional zone
+Electrical, fuel, pump, hardware, rope, salvage, and current repair zones overlap but are legible to Keoni.
 
-## Keoni current-life continuity
+### Sequence
+Disassembled parts may be laid out in removal order so reassembly reverses the sequence.
 
-Chapter 09:
-- Kimo's trailer winch ratchet is stripped
-- Keoni helps stabilize / reseat the boat using a come-along and safety chain
-- replacement ratchet does not fit
-- proper winch repair deferred
-- helping Kimo causes Keoni to miss / postpone a paid outboard job
-- Kimo gives frozen akule as reciprocal gesture
-- Kalei plans to use fish for next day's dinner
+### Material condition
+Rust / cosmetic damage does not equal useless.
+A clean-looking part may be unusable because dimensions are wrong.
 
-Keoni's work is materially connected to community reciprocity, not only family haunting.
+### Future use
+Broken parts may remain as:
+- templates
+- donor parts
+- rebuild candidates
+- drip protection
+- known-good salvage
 
-## Koa
-Chapter 09:
-working with school friends on a history presentation under the lanai.
+### Local markings
+Blue tape / paint marks carry job-specific information.
 
-Current-life thread remains active.
+This system is not fully transferable to Malia without instruction.
 
-## Malia
+## Chapter 10 human-residue event
 
-Chapter 09:
-- leaves house for several hours
-- performs useful present-tense work at boat ramp
-- returns and checks for anomaly
-- finds none
-- admits she wanted something to happen
+Missing object:
+Keoni's long-nose pliers.
 
-Important:
-this is embarrassment / self-recognition, not cure.
+Evidence:
+- fresh crimped wire
+- bright exposed copper
+- poor crimp quality
+- recent porch-light problem
+
+Keoni infers:
+Aunty Nani borrowed them.
+
+Aunty Nani confirms by phone.
+Pliers are in her kitchen and due back.
+
+No supernatural implication.
+
+## Koa tool behavior
+
+Chapter 10:
+Koa uses side cutters and zip ties for school-poster frame repair.
+He had previously failed to return the cutters.
+He returns them correctly after current use.
+
+## Nohea ordinary memory
+
+Keoni remembers Nohea borrowing / taking one of his screwdrivers to open Malia's plastic unicorn battery / sound compartment.
+
+She returned the screwdriver to the kitchen towel drawer.
+
+This memory is ordinary, irritating, and non-storm-related.
 
 ## Relationships
 
 ### Malia / Keoni
-Deepened.
-Keoni becomes clearer as frame-breaker:
-he can help without converting every obligation into a moral theory and can acknowledge weirdness without making it his job.
+Malia now explicitly recognizes Keoni as an expert whose object system she cannot read automatically.
 
-### Malia / Kalei
-Kalei continues challenging Malia's desire for one answer.
+Keoni continues resisting Malia's attempts to reduce every normal position to one universal rule.
 
-## Supernatural baseline
-Still no clean supernatural confirmation through Chapter 09.
+### Malia / Nohea memory
+Nohea appears through cousin / sibling nuisance rather than tragedy.
 
 ## Next pressure
 
-Chapter 10 must:
-- establish Keoni's tool system
-- make Malia's expertise locally insufficient
-- use human residue, not supernatural movement
-- prepare readers to trust Keoni's spatial / material judgment before preference phase begins.
+Chapter 11 begins preference phase.
+
+The shift must be:
+object pattern -> spatial route.
+
+Every component of the old route remains human-plausible.
+No autonomous movement.
