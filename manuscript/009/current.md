@@ -878,7 +878,47 @@ Somebody knew how to fix it.
 
 That was enough for the morning.
 
-When they got back, Koa was sitting under the lanai with three other teenagers and a pile of poster board.
+When they got back, Keoni carried the fish into the cookhouse first.
+
+Kalei looked inside the bag.
+
+"Kimo?"
+
+"Yeah."
+
+"Winch?"
+
+"Yeah."
+
+She did not ask whether Keoni had been paid.
+
+She took the fish.
+
+"Good. Dinner tomorrow."
+
+That was apparently enough accounting for both of them.
+
+Koa called from the lanai, "What fish?"
+
+"Not yours," Kalei said.
+
+"Then why tell me?"
+
+"I didn't."
+
+Malia smiled.
+
+The thing had already moved again.
+
+Kimo's broken winch had become Keoni's lost morning, then Kimo's fish, then tomorrow's dinner.
+
+Not equal.
+
+Not settled.
+
+Still moving.
+
+Koa was sitting under the lanai with three other teenagers and a pile of poster board.
 
 Malia looked at him.
 
