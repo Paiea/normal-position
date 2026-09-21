@@ -1,60 +1,87 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 04.
+Status: ACTIVE THROUGH CHAPTER 05.
 
 ## Time
 Current:
-end of Day 5 after Lehua's death.
+Day 6 after Tūtū Lehua's death.
 
-## Kitchen shelf history
+## Tūtū Lehua's room
 
-Current normal:
-- lower shelf: everyday household cups
-- middle shelf: metal / work cups
-- top shelf: white visitor cups
+Current physical baseline:
+- east-side room in main house
+- narrow bed
+- washstand
+- low dresser with three drawers
+- one chair
+- built-in shelf
+- two framed photographs
+- box fan
+- folded towels
+- windows actively opened / aired by Kalei
+- room is maintained, not sealed
 
-Historical childhood normal:
-- top shelf previously held everyday family cups
-- Malia's side was left
-- Nohea's side was far right
-- Nohea's childhood cup was yellow with painted flowers
-- exact full historical shelf map remains only partially specified
+### Comb
+Dark horn comb.
+Wide teeth.
+One end tooth worn shorter.
+Normal location:
+shallow ceramic dish beside washstand.
+Kalei cleaned the comb / dish during caregiving.
+Reader baseline established in Chapter 05.
 
-Chapter 04:
-blue current cup appears on far-right top shelf.
-Human explanation remains plausible.
-Later, a visitor incorrectly puts a pale everyday cup high and Koa moves it down without comment, proving ordinary misplacement occurs.
+### Dresser
+Top drawer:
+underclothes, nightshirts, cloth pouch, old medication blister packs.
 
-## Nohea memory
+Second drawer:
+handkerchiefs, receipts, sewing kits, old warranty papers, batteries, flashlight, folded bag, and temporarily Koa's charging cable.
 
-Malia remembers:
-- Nohea's yellow cup
-- painted flowers
-- Nohea insisting one flower looked like a chicken
-- ordinary sibling argument about it
+Bottom drawer:
+towels, sheets, two folded pāʻū.
+Drawer sticks and must be lifted slightly before pulling.
 
-No supernatural interpretation attached.
+### Bedside drawer
+Reading glasses, lip balm, nail clippers, lotion, cough drops.
+Washcloth removed by Kalei for cleaning and laundry in Chapter 05.
+
+## Ownership / access canon
+
+Kalei:
+long-term caregiving access and practical knowledge.
+Owns some objects kept in Lehua's room, including sewing kits.
+
+Koa:
+white charging cable with blue tape is his.
+Lehua had used it for roughly nine months.
+Koa reclaims it in Chapter 05.
+
+Nalani:
+pursuing estate inventory.
+Learns that physical location inside Lehua's room does not prove ownership.
+
+Malia:
+now explicitly distinguishes legal ownership, practical access, and moral permission.
 
 ## Relationships
 
 ### Malia / Nalani
-Nalani reacts sharply to Nohea's old shelf position, then resists explanation.
+Malia resists Nalani's instinct to let the estate category decide ambiguous ownership.
 
 ### Malia / Kalei
-Kalei confirms Nohea's old cup color and shelf side.
-She frames the high shelf partly as a spill-control rule.
+Malia increasingly respects Kalei's caregiving knowledge while noticing how naturally Kalei assumes practical access.
 
 ### Nalani / Kalei
-Different interpretation of Lehua's cup rule appears:
-Kalei sees practical control.
-Nalani sees surveillance.
+Conflict deepens around whether staying / caregiving creates authority over the room and its objects.
 
 ## Supernatural baseline
 
-Still no confirmed supernatural event through Chapter 04.
+No confirmed supernatural event through Chapter 05.
 
-The blue cup discrepancy is unresolved but completely compatible with living-person movement.
+No movement in Chapter 05 requires a supernatural explanation.
 
 ## Next pressure
 
-Chapter 05 enters Lehua's room and shifts from shared-object position to privacy, access, and caregiver authority.
+Chapter 06 returns to the front key.
+Because household traffic is thinning, Malia begins believing custody should be easier to track.
+That belief will be tested without closing all human explanations.
