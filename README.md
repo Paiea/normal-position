@@ -2,13 +2,13 @@
 
 A culture-first horror novel about routine, objects, family, and the slow contamination of ordinary life.
 
-Working mode:
+Current mode:
 - secondary-world island horror
 - object-first dread
 - interpersonal uncertainty
 - family compound
 - no cheap haunted-object catalog
-- no Chapter One until the cultural, character, horror, and continuity engines are executable
+- Chapter One published after the cultural, character, horror, and continuity engines passed readiness
 
 Public reader:
 https://paiea.github.io/normal-position/
