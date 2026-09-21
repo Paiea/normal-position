@@ -608,7 +608,7 @@ TARGET:
 ## Chapter 12 — The Clear Way
 
 STATUS:
-READY AFTER CHAPTER 11.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Make the present-day yard layout repeatedly lose to the older route through independent practical choices.
@@ -839,32 +839,93 @@ TARGET:
 ## Chapter 15 — The Comb
 
 STATUS:
-STRUCTURAL LOCK / FIRST CLEAN CONFIRMATION.
+READY AFTER CHAPTER 14 / FIRST CLEAN CONFIRMATION.
 
 DRAMATIC JOB:
-Collapse ordinary handoff explanations for the first time.
+Collapse ordinary handoff explanations for the first time without changing the book's governing horror language.
 
 OBJECT:
 Tūtū Lehua's established dark horn comb.
 
+BASELINE:
+- dark horn
+- wide teeth
+- one shortened worn tooth
+- normal location: shallow ceramic dish beside washstand in Lehua's room
+- Kalei historically cleaned comb / dish during caregiving
+- reader has known this baseline since Chapter 05
+
+OPENING PRESSURE:
+After Chapters 11-14, Malia and at least one other family member agree that the comb can be used for a clean absence check only because they are now openly discussing the pattern.
+
+ETHICAL RULE:
+This is NOT a secret test.
+No one is unknowingly surveilled.
+
+REMOVAL:
+- comb is deliberately removed from Lehua's room
+- at least two people witness removal
+- comb is placed somewhere outside the family place under controlled custody
+- its absence from the ceramic dish is independently verified
+
+CUSTODY:
+Ordinary return paths must be genuinely closed.
+Use a simple, believable custody chain rather than puzzle-box theatrics.
+
+Working option:
+Nalani carries the comb off-property in a sealed ordinary container / bag while Malia and Kalei remain at the family place.
+
+Exact blocking may mutate in rehearsal.
+
+HORROR MOVEMENT:
+Later, the comb is back in its exact normal dish beside the washstand.
+
+No one claims to have returned it.
+
+The off-property custodian still has the container / wrapping / evidence that should make an ordinary return impossible.
+
 REQUIRED:
-- deliberate removal
-- observed custody
-- verified absence
-- return to exact normal ceramic dish
-- ordinary paths genuinely closed
+- no teleportation spectacle on-page
+- no sound cue
+- no apparition
+- no voice
+- no new supernatural ability
+- no Hawaiian spiritual explanation
+- no claim that Lehua herself returned it
+
+RELATIONSHIP MOVEMENT:
+- Malia loses the comfort of "probably human"
+- Keoni must be allowed to inspect the custody / physical facts rather than simply believe Malia
+- Kalei and Nalani respond differently to confirmation
+- nobody gets a satisfying explanation
+
+CULTURE MOVEMENT:
+The confirmation must not collapse family responsibility into "the house did it."
+Human choices, ownership, and kuleana remain morally active after proof.
+
+THREAD MOVEMENT:
+T1 object return becomes confirmed
+T2 Malia interpretation changes
+T3 Nalani / Kalei response diverges
+T5 Lehua's order becomes materially active
+T6 Keoni skeptical witness crosses threshold
+T10 human interference remains relevant but insufficient
+T11 preference phase converts to confirmed impossible normality
 
 PAYOFF:
-All earlier ambiguity remains useful because the book has trained the reader to look for human movement first.
+All prior ambiguity matters because the novel trained both characters and reader to search for human hands first.
 
 EXIT:
-first clean supernatural confirmation.
+First clean supernatural confirmation.
 
-The question changes from:
+The central question changes from:
 **Is something happening?**
 
 to:
 **What exactly has been choosing?**
+
+TARGET:
+2,900-3,600 words.
 
 ## Chapters 16-31
 
