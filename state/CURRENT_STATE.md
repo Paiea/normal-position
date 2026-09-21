@@ -31,4 +31,7 @@ Current author truth:
 the family place restores / reasserts repeated household arrangements; exact cosmology unresolved.
 
 Next plain **continue**:
-run rolling audit, then draft Chapter 08 — Throw It Away.
+draft Chapter 08 — Throw It Away.
+
+Pre-confirmation pacing lock:
+Chapters 11-14 now form the preference phase, escalating from obsolete route to repeated convergence before Chapter 15 provides first clean supernatural confirmation.
