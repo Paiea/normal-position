@@ -1,6 +1,6 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 01.
+Status: ACTIVE THROUGH CHAPTER 02.
 
 Do not inventory the compound.
 Track recurring objects whose ownership, placement, handling, or history matters.
@@ -15,7 +15,7 @@ shared adult household custody.
 Inez currently carries most closure responsibility during Keeping Days, but the key is not exclusively hers.
 
 Normal location:
-iron hook just inside the main-house front door when nobody is carrying it.
+high iron hook just inside the main-house front door when nobody is carrying it.
 
 Normal orientation:
 key hangs straight against stone.
@@ -38,10 +38,10 @@ Adela placed it with exact orientation every night.
 Mara repeats the same motion automatically in Chapter 01.
 
 Last confirmed:
-Chapter 01 ending.
+Chapter 02 morning / active Keeping Days use.
 
 Current:
-on normal iron hook inside locked main house.
+normal hook when not in use.
 
 Condition:
 old, heavy iron key with smooth oval bow and leather loop.
@@ -49,8 +49,25 @@ old, heavy iron key with smooth oval bow and leather loop.
 Known deviations:
 none.
 
-Current explanations:
-not applicable.
+Supernatural status:
+none.
+
+Reader normal established:
+yes.
+
+## West key
+
+Owner:
+compound.
+
+Normal location:
+small lower hook beneath front key when not carried.
+
+Normal user:
+household / work access to west service opening.
+
+Known Chapter 02 behavior:
+Tomas retrieves it from normal hook for work after apparently returning it following late access the previous night.
 
 Supernatural status:
 none.
@@ -63,23 +80,67 @@ yes.
 Owner:
 compound.
 
-Keeper:
-household.
-
-Normal location:
-wooden bar and wall brackets at west service opening.
-
 Normal use:
 opening available for work / gear movement by day; barred from inside during night closure.
 
-Who notices change:
-Inez, Tomas, likely Lio.
+Supernatural status:
+none.
 
-Last confirmed:
-Chapter 01 ending.
+## Kitchen cups
 
-Current:
-set in wall brackets, west service opening barred.
+Owner:
+household, with habitual individual use but porous ownership.
+
+Current normal:
+- lower shelf: everyday glazed household cups
+- middle shelf: metal cups / larger drinking vessels used for yard / work
+- top shelf: six matched white visitor cups
+
+Known lower-shelf cups:
+- brown
+- blue
+- two pale chipped cups
+- green cracked cup
+
+Green cup rule:
+crack faces outward so nobody accidentally gives it to a visitor.
+Still functional.
+Adela liked it.
+
+Brown cup:
+Celina often uses it though it is not exclusively hers.
+
+White cups:
+used for visitors such as Tessa.
+
+Reader normal established:
+yes, strongly in Chapter 02.
+
+Supernatural status:
+none.
+
+## Return rack
+
+Owner:
+household system.
+
+Location:
+beside kitchen-house door.
+
+Current normal:
+- top: covered tins
+- middle: baskets
+- bottom: pots / heavy dishes
+- owner marks remain with container
+- urgency / return timing can override pure category
+
+Who knows system:
+Inez fully.
+Lio substantially.
+Mara partly after Chapter 02.
+
+Function:
+Keeping Days hospitality / return logistics.
 
 Supernatural status:
 none.
@@ -87,56 +148,32 @@ none.
 ## Adela's comb
 
 Owner:
-Adela before death; inheritance unresolved during Keeping Days.
+Adela before death; inheritance unresolved.
 
 Normal location:
 Adela's sleeping area.
 
-Touch rule:
-personal grooming object; casual use by others would feel invasive.
-
 Reader normal established:
 no.
 
-Story requirement:
-may become first object confirmed discarded / relocated and later correctly returned.
-
-Do not use as anomaly before normal placement and family attitude are established.
-
-## Kitchen cups
-
-Owner:
-household, with some habitual individual use.
-
-Known baseline:
-Inez has a brown cup Celina casually uses in Chapter 01.
-Exact full shelf arrangement must be established in Chapter 02 before Chapter 04 uses a cup position.
-
-Normal location:
-kitchen house shelving when clean and dry.
-
-Touch rule:
-ordinary shared household use, but habitual cups may still be recognizable.
-
-Supernatural status:
-none.
+Do not use as anomaly yet.
 
 ## Mara's travel bag
 
 Owner:
 Mara.
 
-Normal location:
-back / north sleeping room during stay.
+Starting normal:
+beside wall in Mara's north / rear sleeping room, zipped and not fully unpacked.
+
+Chapter 02 movement:
+Tessa moves bag under Mara's bed with Inez's permission so the passage remains clear for guest bedding.
 
 Current:
-zipped and not fully unpacked at end of Chapter 01.
+under Mara's bed, still zipped.
 
-Function:
-shows whether Mara considers herself visitor or resident.
-
-Known deviations:
-none.
+Interpretation:
+fully human and practical.
 
 Supernatural status:
 none.
@@ -146,20 +183,10 @@ none.
 Owner:
 Tomas.
 
-Normal location:
-gear house / boat depending workday.
-
-Function:
-establish different object-order system from Mara's.
-
 Reader normal established:
 not yet sufficiently.
 
-Important:
-Mara may initially perceive his functional order as disorder.
-Tomas can locate everything.
-
-Do not turn into clue unless naturally earned.
+Do not turn into clue yet.
 
 ## Inez's repair basket
 
@@ -169,22 +196,8 @@ Inez.
 Normal use:
 ordinary household mending / repair work.
 
-First appearance:
-Chapter 01 in kitchen house while Inez repairs a serving cloth.
-
-Function:
-care through maintenance.
-
-Current:
-ordinary working object; exact end location not narratively material yet.
-
 Supernatural status:
 none.
-
-Potential danger:
-may later contain evidence of what Inez has repaired, altered, or entered.
-
-Do not make it suspicious on introduction.
 
 ## Borrowed chairs
 
@@ -192,9 +205,10 @@ Owner:
 Mrs. Aren.
 
 Current:
-temporarily at Orlan compound after Lio exchanges them so Mrs. Aren can borrow Orlan chairs for visitors the next day.
+temporarily at Orlan compound while Orlan chairs circulate for visitors.
 
 Status:
-ordinary circulation object.
+ordinary household / village exchange.
 
-Do not promote to clue unless story later earns it.
+Supernatural status:
+none.
