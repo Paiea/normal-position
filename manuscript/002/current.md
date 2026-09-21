@@ -614,9 +614,9 @@ Celina crossed out the line with enough pressure to nearly tear the page.
 
 Mara picked up the fruit knife again.
 
-The dead did not need to haunt a house when their daughters could do this unassisted.
+Adela had managed to keep both daughters arguing over furniture without being alive to supervise it.
 
-She did not say that.
+Mara did not say that.
 
 Mostly because Inez would hear her.
 
@@ -930,7 +930,7 @@ From the next room came Tessa's voice.
 
 Mara looked toward the wall.
 
-Tessa added, "We needed the floor for the bedding."
+Tessa added, "We needed the passage clear for the bedding."
 
 There was a pause.
 
