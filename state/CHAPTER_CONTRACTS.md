@@ -425,7 +425,7 @@ TARGET:
 ## Chapter 09 — Nothing Happened
 
 STATUS:
-READY AFTER CHAPTER 08.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Give the novel a genuine false-negative / lived-time chapter and make Malia feel the cost of expecting the house to perform.
