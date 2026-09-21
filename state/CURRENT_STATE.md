@@ -1,15 +1,15 @@
 # NORMAL POSITION — CURRENT STATE
 
-Status: DRAFTING / CHAPTER 07 PUBLISHED.
+Status: DRAFTING / CHAPTER 08 PUBLISHED.
 
 Current manuscript frontier:
-07 — The Old Shelf.
-
-Next executable chapter:
 08 — Throw It Away.
 
+Next executable chapter:
+09 — Nothing Happened.
+
 Current day:
-Day 8 after Tūtū Lehua's death.
+Day 10 after Tūtū Lehua's death, morning.
 
 Current supernatural confirmation:
 none.
@@ -17,21 +17,26 @@ none.
 Current reader-facing pattern:
 - Chapter 04 blue cup occupies Nohea's old shelf position
 - Chapter 06 front-key custody gap remains human-plausible
-- Chapter 07 multiple current kitchen objects collectively recreate an older household arrangement while each individual movement remains human-plausible
+- Chapter 07 multiple current kitchen objects collectively recreate an older household arrangement
+- Chapter 08 deliberate removal of Tūtū Lehua's slippers produces no return
 
-Chapter Seven establishes:
-- Malia's private key test fails because Koa used and rehung the key normally
-- old shelf arrangement: children high, adults middle, work cups lower in the relevant era
-- Malia high-left, Nohea high-right
-- family members confirm the old pattern from different memories
-- Nohea used to steal Malia's cup because she claimed water tasted colder from it
-- Malia adopts working phrase: **wrong in time**
+Chapter Eight establishes:
+- Tūtū Lehua's old rubber slippers were worn, ordinary, and clearly hers
+- Kalei's attachment comes from caregiving routine, not sacred significance
+- Nalani removes them as worn-out personal items
+- Keoni transports them away with actual trash
+- they remain gone through the next morning
+- Malia realizes she is disappointed by the negative result
+- family-place responsibility includes money, maintenance, labor, driving, and ongoing care
 
-Current author truth:
-the family place restores / reasserts repeated household arrangements; exact cosmology unresolved.
+Structural audit through Chapter 08:
+PASS.
+
+Locked pacing:
+09 false negative
+10 expertise limit
+11-14 preference phase
+15 first clean supernatural confirmation
 
 Next plain **continue**:
-draft Chapter 08 — Throw It Away.
-
-Pre-confirmation pacing lock:
-Chapters 11-14 now form the preference phase, escalating from obsolete route to repeated convergence before Chapter 15 provides first clean supernatural confirmation.
+draft Chapter 09 — Nothing Happened.
