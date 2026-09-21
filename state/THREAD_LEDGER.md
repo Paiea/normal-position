@@ -1,134 +1,134 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 04.
+Status: ACTIVE THROUGH CHAPTER 05.
 
 ## T1 — OBJECT RETURNS
 State:
-first older-position discrepancy visible, not supernatural.
-
-Last moved:
-Chapter 04.
+one older-position discrepancy, still unresolved.
 
 Pressure:
 2/5.
 
 Next:
-do not escalate immediately. Chapter 05 should focus human access / privacy.
+Chapter 06 creates first key-custody puzzle without supernatural proof.
 
-## T2 — MARA AS RESETTER
+## T2 — MALIA AS RESETTER
 State:
-active.
+active and beginning to change.
 
 Last moved:
-Chapter 04.
+Chapter 05.
 
 What changed:
-Malia restores blue cup to current lower shelf after learning its older position.
-She now knows restoring current normal can erase historical information.
-
-Pressure:
-3/5.
-
-## T3 — CELINA / INEZ
-State:
-history beginning to surface through objects.
-
-Last moved:
-Chapter 04.
-
-What changed:
-they disagree about whether Lehua's old shelf rule was practical care or monitoring.
+Malia does not automatically close the dresser drawer.
+She asks the current user what state the room needs.
 
 Pressure:
 3/5.
 
 Next:
-Chapter 05 turns disagreement toward access and ownership.
+Chapter 06 reverses this growth slightly by having her privately test the key.
 
-## T4 — LEA
+## T3 — NALANI / KALEI
 State:
-materially present through ordinary memory, not horror.
+ownership / caregiving conflict active.
 
 Last moved:
-Chapter 04.
+Chapter 05.
 
 What changed:
-yellow flowered cup and chicken-flower argument enter canon.
+Nalani's estate categories fail against Kalei's years of practical use and mixed ownership.
+
+Pressure:
+4/5.
+
+Next:
+hold below open rupture.
+
+## T4 — NOHEA
+State:
+ordinary memory established, not active in Chapter 05.
 
 Pressure:
 2/5.
 
 Next:
-hold. Do not turn Nohea into phenomenon.
+hold until Chapter 07.
 
-## T5 — ADELA'S ORDER
+## T5 — TŪTŪ LEHUA'S ORDER
 State:
-care/control duality increasingly explicit.
+care / control duality active.
 
 Last moved:
-Chapter 04.
+Chapter 05.
+
+What changed:
+Lehua's room reveals a life maintained through Kalei's labor rather than a frozen archive.
 
 Pressure:
 3/5.
 
 Next:
-Lehua's room should show useful systems and invasive systems coexisting.
+front-key habits begin pushing Malia toward Lehua-style monitoring.
 
-## T6 — TOMAS'S LIFE
+## T6 — KEONI'S LIFE
 State:
 active.
+
+Last moved:
+Chapter 05 background.
+
+What changed:
+Keoni leaves early for boat-ramp work.
 
 Pressure:
 1/5.
 
-Next:
-continue independent work.
-
-## T7 — LIO'S CURRENT NORMAL
-State:
-strong.
-
-Last moved:
-Chapter 04.
-
-What changed:
-casually corrects visitor cup misplacement, proving present normal is maintained socially.
-
-Pressure:
-3/5.
-
-## T8 — ESTATE / HOUSE FUTURE
+## T7 — KOA'S CURRENT NORMAL
 State:
 active.
 
+Last moved:
+Chapter 05.
+
+What changed:
+Koa asserts current ownership of his charging cable despite Lehua's long use.
+
 Pressure:
 3/5.
 
-Next:
-Chapter 05 estate access intensifies.
+## T8 — ESTATE / FAMILY PLACE FUTURE
+State:
+active.
+
+Last moved:
+Chapter 05.
+
+What changed:
+inventory becomes materially harder because household use and ownership overlap.
+
+Pressure:
+4/5.
 
 ## T9 — WEATHER
 State:
-routine preparedness active.
+routine background.
 
 Pressure:
 2/5.
 
-Next:
-hold.
-
 ## T10 — HUMAN INTERFERENCE
 State:
-very strong.
+strong.
 
 Last moved:
-Chapter 04.
+Chapter 05.
 
 What changed:
-book demonstrates ordinary visitors mis-shelve household cups.
+living people openly move, clean, borrow, retain, and reclaim objects in Lehua's room.
 
 Pressure:
 3/5.
 
 Next:
-preserve this plausibility as anomalies grow.
+this must remain strong enough to support key-custody ambiguity.
