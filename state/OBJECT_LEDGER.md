@@ -1,6 +1,6 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 08.
+Status: ACTIVE THROUGH CHAPTER 09.
 
 ## Front key
 Normal:
@@ -8,72 +8,45 @@ high hook beside main-house front door.
 Straight against wall.
 Leather loop behind.
 
-Chapter 06 test:
-failed as evidence because Koa used and rehung it normally.
-
-Supernatural status:
-none confirmed.
+Current:
+normal.
+No anomaly Chapter 09.
 
 ## Kitchen shelf
-
-Current normal:
-- lower everyday cups
-- middle work / metal cups
-- top white visitor cups
-
-Older pattern:
-collectively reproduced in Chapter 07 through individually plausible human movements.
-
-Supernatural status:
-pattern supported, agency unconfirmed.
+Current:
+normal current arrangement.
+No anomaly Chapter 09.
 
 ## Tūtū Lehua's comb
 Current:
-normal ceramic dish beside washstand.
-
-No anomaly.
+normal ceramic dish.
+No anomaly Chapter 09.
 
 Reserved:
 Chapter 15 first clean confirmation if structure still holds.
 
 ## Tūtū Lehua's slippers
-
-Object:
-worn gray rubber house slippers.
-
-Details:
-- heel wear flattened
-- left strap beginning to split
-- ordinary position beside Lehua's chair / bed
-- no sacred significance
-- Kalei used to help Lehua put them on
-
-Chapter 08:
-discarded deliberately by Nalani after discussion.
-Transported away by Keoni with trash.
-
 Current:
 gone.
-
-Known deviations:
-none.
-
-Supernatural status:
-none.
-
-Do not return these later merely for a scare.
+No return Chapter 09.
 
 ## Spare storm lantern
 Current:
 main-house front shelf.
-Old:
-workshop top peg.
-Human relocation history established.
+No change.
 
-## Malia's key timeline
-Private surveillance artifact.
-No supernatural evidentiary value.
+## Keoni's tool bag
+Chapter 09 practical use only.
+Contains mixed tools arranged according to Keoni's working habits.
+Malia cannot identify correct socket by visual order.
+Do not treat this as full workshop baseline yet.
 
-## Chapter 09 object rule
-Prefer no new recurring object.
-Use existing states and Keoni's practical work.
+## Trailer winch ratchet
+Human mechanical failure.
+Stripped through repeated forced use.
+Replacement deferred.
+Not supernatural evidence.
+
+## Chapter 10 object rule
+Establish Keoni's workshop as a functional system.
+Any moved tool / part must have mundane cause that Keoni can read better than Malia.
