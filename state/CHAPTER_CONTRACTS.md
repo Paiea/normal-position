@@ -42,7 +42,7 @@ TARGET:
 ## Chapter 02 — Keeping Days
 
 STATUS:
-READY.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Make mourning, hospitality, estate pressure, and household labor feel like present-tense life rather than setup for haunting.
