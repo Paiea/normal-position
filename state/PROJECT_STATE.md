@@ -6,9 +6,9 @@ Working title: **Normal Position**
 
 ## North star
 
-A family returns to an island ancestral compound after the death of its matriarch.
+A Native Hawaiian family regathers at a multigenerational family place on windward Hawaiʻi Island after the death of its matriarch.
 
-Malia Kealoha, 34, notices where things belong for a living. She supervises housekeeping at an off-island hotel and is unusually good at seeing when a room has been used, reset badly, or altered by inches.
+Malia Kealoha, 34, notices where things belong for a living. She supervises housekeeping at a Waikīkī hotel and is unusually good at seeing when a room has been used, reset badly, or altered by inches.
 
 At her grandmother's house, ordinary objects begin returning to older positions:
 - a key back on its hook
@@ -81,22 +81,29 @@ It is:
 
 ## Setting
 
-Working island: **Veyra Island**.
+Contemporary Hawaiʻi.
 
-Working village: **Salen**.
+Malia currently lives on Oʻahu for work.
 
 Primary location:
-the Kealoha family compound.
+the Kealoha family place on windward Hawaiʻi Island, north of Hilo.
+
+The property is contemporary and multigenerational, not a museum reconstruction of a traditional kauhale.
 
 Working layout:
-1. stone living / sleeping house
-2. detached kitchen and food-storage house
-3. gear / tool house
-4. small yard, cistern, boundary wall, storm shutters, footpath
+1. older main family house
+2. detached cookhouse / outside kitchen
+3. workshop / boat-and-tool shed
+4. covered lanai / yard
+5. rain-catchment system
+6. gate / road access
 
-Architecture is secondary-world but informed by Ivatan/Batanes domestic and climate logic.
+The functional separation echoes the broader Hawaiian logic of household spaces serving different work, while the present buildings reflect generations of rebuilding and adaptation.
 
-Exact map must be built before Chapter One.
+Culture authority:
+see CULTURAL_SUBSTRATE.md.
+
+Do not use the ʻāina, Hawaiian culture, or ancestral identity itself as the source of evil.
 
 ## Dead matriarch
 
