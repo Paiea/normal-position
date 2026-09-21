@@ -11,7 +11,7 @@ PUBLIC:
 Competent, controlled, useful, dry.
 
 PRIVATE WANT:
-Get through the Keeping Days, settle the estate, and leave without becoming a daughter of the house again.
+Get through the the days around Tūtū Lehua's service, settle the estate, and leave without becoming a daughter of the house again.
 
 STRENGTH:
 Can see when a room has changed.
@@ -83,7 +83,7 @@ PUBLIC:
 Capable, hospitable, exhausted, knows every household procedure.
 
 PRIVATE WANT:
-For the years she spent keeping the compound alive to count as something more than being trapped.
+For the years she spent keeping the family place functioning to count as something more than being trapped.
 
 STRENGTH:
 Sustained care.
@@ -179,7 +179,7 @@ DO NOT:
 make her ghost narrator, villain monologue, or all-knowing elder.
 
 LIVED TRUTH:
-She was genuinely good at keeping a difficult island household functioning.
+She was genuinely good at keeping a multigenerational Hawaiʻi household functioning.
 
 She also used order to know:
 - who came home
