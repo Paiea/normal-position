@@ -1,6 +1,6 @@
 # NORMAL POSITION — FAMILY PLACE MAP
 
-Status: ACTIVE PHYSICAL CANON THROUGH CHAPTER 04.
+Status: ACTIVE PHYSICAL CANON THROUGH CHAPTER 10.
 
 ## Setting
 
@@ -71,6 +71,15 @@ Functions:
 Current structure was substantially rebuilt after the Nohea storm.
 
 It occupies approximately the same working area as the older detached cookhouse.
+
+Current access:
+- west-facing main door is the normal everyday approach from the yard / lanai
+- narrow north-side service access remains usable but is not the ordinary food / visitor entrance
+
+Historical route:
+the older cookhouse was commonly approached more directly from the main house across a diagonal line toward the north side.
+
+The rebuilt north-side service access sits close enough to that former approach zone that the old route can still be physically walked, even though it is no longer the household's normal route.
 
 This matters.
 
