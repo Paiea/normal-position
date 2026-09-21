@@ -948,6 +948,8 @@ That should have made the empty patch beside the chair easier.
 
 It did, a little.
 
+The chair did not look abandoned without them. It looked like a chair beside a bed, with clean floor underneath and enough room for somebody living to stand.
+
 At sunset, the slippers were still gone.
 
 After the front door was locked and the key returned to its hook, gone.
