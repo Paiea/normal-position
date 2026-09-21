@@ -9,20 +9,20 @@
 06 — Back on the Hook
 07 — The Old Shelf
 08 — Throw It Away
-
-## READY
 09 — Nothing Happened
 
-## UPCOMING
+## READY
 10 — Keoni's Tools
+
+## UPCOMING
 11 — The Old Path
 12 — The Clear Way
+13 — Nohea's Place
 
 ## LOCKED PACING
-09 — genuine false negative
 10 — expertise limit
 11-14 — preference phase
 15 — first clean supernatural confirmation
 
 ## Manuscript frontier
-008 — Throw It Away
+009 — Nothing Happened
