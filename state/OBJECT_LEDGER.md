@@ -1,72 +1,67 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 07.
+Status: ACTIVE THROUGH CHAPTER 08.
 
 ## Front key
-
 Normal:
 high hook beside main-house front door.
 Straight against wall.
 Leather loop behind.
 
 Chapter 06 test:
-Malia left it leaning right with loop forward.
-
-Chapter 07 result:
-Koa used it later and rehung it in normal orientation.
-
-Interpretation:
-test failed to produce anomalous evidence.
+failed as evidence because Koa used and rehung it normally.
 
 Supernatural status:
 none confirmed.
 
 ## Kitchen shelf
 
-### Current normal
-- lower: everyday glazed cups
-- middle: metal / work vessels
-- top: white visitor cups
+Current normal:
+- lower everyday cups
+- middle work / metal cups
+- top white visitor cups
 
-### Older childhood grammar
-Approximate:
-- children high
-  - Malia left
-  - Nohea right
-- adults middle
-- work / metal lower in the relevant period
-
-Exact adult positions vary by era.
-
-### Chapter 07 event
-Current objects collectively occupy older grammar:
-- pale chipped cup top-left
-- blue cup top-right
-- brown cup middle-left
-- pale cup near middle-center
-- green cracked cup middle-right
-- multiple metal cups lower
-- white visitor cups displaced downward / inward
-
-Known human movements explain several individual placements.
-
-No known person claims to have arranged the whole pattern intentionally.
-
-Malia restores current shelf afterward.
+Older pattern:
+collectively reproduced in Chapter 07 through individually plausible human movements.
 
 Supernatural status:
 pattern supported, agency unconfirmed.
 
-## Blue cup
-Current normal:
-lower shelf.
-Historical position association:
-Chapter 04 / 07 top-right corresponds to Nohea's old side.
-
 ## Tūtū Lehua's comb
 Current:
-normal dish beside washstand.
+normal ceramic dish beside washstand.
+
 No anomaly.
+
+Reserved:
+Chapter 15 first clean confirmation if structure still holds.
+
+## Tūtū Lehua's slippers
+
+Object:
+worn gray rubber house slippers.
+
+Details:
+- heel wear flattened
+- left strap beginning to split
+- ordinary position beside Lehua's chair / bed
+- no sacred significance
+- Kalei used to help Lehua put them on
+
+Chapter 08:
+discarded deliberately by Nalani after discussion.
+Transported away by Keoni with trash.
+
+Current:
+gone.
+
+Known deviations:
+none.
+
+Supernatural status:
+none.
+
+Do not return these later merely for a scare.
 
 ## Spare storm lantern
 Current:
@@ -76,14 +71,9 @@ workshop top peg.
 Human relocation history established.
 
 ## Malia's key timeline
-Folded paper under inventory stack.
-Evidence of Malia's surveillance tendency, not supernatural evidence.
+Private surveillance artifact.
+No supernatural evidentiary value.
 
-## Next Chapter 08 object
-Choose a Lehua-owned ordinary item with:
-- clear ownership
-- no sacred / culturally loaded significance
-- plausible reason Nalani wants it removed
-- no need to return
-
-Do NOT use comb yet.
+## Chapter 09 object rule
+Prefer no new recurring object.
+Use existing states and Keoni's practical work.
