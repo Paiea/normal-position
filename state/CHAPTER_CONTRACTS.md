@@ -12,29 +12,29 @@ STATUS:
 COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
-Establish Mara, compound, Keeping Days, family friction, and object-reading competence without overt haunting.
+Establish Malia, compound, Keeping Days, family friction, and object-reading competence without overt haunting.
 
 OPENING PRESSURE:
-Mara arrives carrying travel fatigue and the expectation that she is temporary.
+Malia arrives carrying travel fatigue and the expectation that she is temporary.
 
 REQUIRED:
 - front key normal position
 - three-structure compound introduced through movement
-- Inez doing real work
-- Tomas has off-plot obligation
-- Lio current-life beat
-- Celina wants practical estate progress
-- one Mara reset that feels useful
-- Adela remembered through task, not eulogy
+- Kalei doing real work
+- Keoni has off-plot obligation
+- Koa current-life beat
+- Nalani wants practical estate progress
+- one Malia reset that feels useful
+- Lehua remembered through task, not eulogy
 
 FORBIDDEN:
 - moving object with no human explanation
-- spooky-child Lea imagery
+- spooky-child Nohea imagery
 - supernatural exposition
 - house personification
 
 EXIT:
-Mara catches herself performing one of Adela's exact placement habits.
+Malia catches herself performing one of Lehua's exact placement habits.
 
 TARGET:
 2,500-3,200 words.
@@ -48,7 +48,7 @@ DRAMATIC JOB:
 Make mourning, hospitality, estate pressure, and household labor feel like present-tense life rather than setup for haunting.
 
 OPENING PRESSURE:
-Morning after Mara's arrival. The compound must receive more visitors while Celina wants to begin inventory and Inez has actual work that cannot wait.
+Morning after Malia's arrival. The compound must receive more visitors while Nalani wants to begin inventory and Kalei has actual work that cannot wait.
 
 OBJECT BASELINE:
 - establish current kitchen cup-shelf arrangement naturally through washing / serving
@@ -60,20 +60,20 @@ none required.
 One object may end somewhere unexpected only if the explanation is immediately plausible and human.
 
 RELATIONSHIP MOVEMENT:
-- Celina and Inez disagree about pace without detonating into Lea history
-- Mara is pulled between helping Inez and helping Celina inventory
-- Lio's present-life knowledge should matter in a small practical way
-- Tomas appears around an off-plot obligation rather than waiting for family scenes
+- Nalani and Kalei disagree about pace without detonating into Nohea history
+- Malia is pulled between helping Kalei and helping Nalani inventory
+- Koa's present-life knowledge should matter in a small practical way
+- Keoni appears around an off-plot obligation rather than waiting for family scenes
 
 CULTURE MOVEMENT:
 show hospitality creating food, cleanup, containers, chairs, bedding, and information flow.
 Keeping Days should constrain distribution but not stop ordinary work.
 
 THREAD MOVEMENT:
-T2 Mara as resetter
-T3 Celina / Inez
-T5 Adela's order
-T7 Lio current normal
+T2 Malia as resetter
+T3 Nalani / Kalei
+T5 Lehua's order
+T7 Koa current normal
 T8 estate / house future
 T10 human object movement
 
@@ -82,8 +82,8 @@ current cup shelf must be legible enough for Chapter 04's wrong placement to reg
 
 FORBIDDEN:
 - supernatural confirmation
-- creepy framing of Adela's room
-- Lea reveal
+- creepy framing of Lehua's room
+- Nohea reveal
 - every visitor delivering exposition
 - object spotlighting that announces future clues
 
@@ -103,29 +103,29 @@ DRAMATIC JOB:
 Prove normal position changes over time even without supernatural interference.
 
 OPENING PRESSURE:
-Mara begins treating remembered layout as reliable while helping with a practical household task.
+Malia begins treating remembered layout as reliable while helping with a practical household task.
 
 OBJECT BASELINE:
-use one object whose location changed during Adela's later years for a legitimate reason.
+use one object whose location changed during Lehua's later years for a legitimate reason.
 Working candidate:
-the spare storm lantern now kept in the main house rather than the gear house because Adela's mobility declined.
+the spare storm lantern now kept in the main house rather than the gear house because Lehua's mobility declined.
 
 HORROR MOVEMENT:
 none required.
-The discomfort comes from Mara being confidently wrong.
+The discomfort comes from Malia being confidently wrong.
 
 RELATIONSHIP MOVEMENT:
-Lio correctly identifies current normal.
-Mara must accept that he knows the present compound better than she does.
-Do not turn Lio into a smug exposition device.
+Koa correctly identifies current normal.
+Malia must accept that he knows the present compound better than she does.
+Do not turn Koa into a smug exposition device.
 
 CULTURE MOVEMENT:
 show how weather preparedness changes object placement and how current household needs can override inherited arrangement.
 
 THREAD MOVEMENT:
-T2 Mara as resetter
-T5 Adela's order
-T7 Lio current normal
+T2 Malia as resetter
+T5 Lehua's order
+T7 Koa current normal
 T9 weather
 
 REQUIRED SETUP:
@@ -133,11 +133,11 @@ make explicit through action that an older remembered normal can be genuine and 
 
 FORBIDDEN:
 - haunting confirmation
-- treating Mara's memory as mysteriously corrupted
-- making Lio's knowledge secretly supernatural
+- treating Malia's memory as mysteriously corrupted
+- making Koa's knowledge secretly supernatural
 
 EXIT:
-Mara holds two legitimate versions of where one thing belongs.
+Malia holds two legitimate versions of where one thing belongs.
 
 TARGET:
 2,300-3,000 words.
@@ -151,12 +151,12 @@ DRAMATIC JOB:
 Create the first object placement that feels wrong specifically because the reader now knows the current arrangement.
 
 OPENING PRESSURE:
-ordinary kitchen work after enough repetition that Mara no longer consciously checks the cup shelf.
+ordinary kitchen work after enough repetition that Malia no longer consciously checks the cup shelf.
 
 OBJECT:
-a current household cup appears in a shelf position associated with Mara's childhood.
+a current household cup appears in a shelf position associated with Malia's childhood.
 The cup itself is ordinary and current.
-Do not resurrect Lea's original cup.
+Do not resurrect Nohea's original cup.
 
 HORROR MOVEMENT:
 small.
@@ -164,18 +164,18 @@ The placement is older, not physically impossible.
 Human movement remains completely plausible.
 
 RELATIONSHIP MOVEMENT:
-Celina reacts before Mara understands why.
-Inez knows the older arrangement but does not volunteer full context.
-Mara notices the adults are responding to different histories.
+Nalani reacts before Malia understands why.
+Kalei knows the older arrangement but does not volunteer full context.
+Malia notices the adults are responding to different histories.
 
 CULTURE MOVEMENT:
 cup ownership remains porous enough that movement is normal, while habitual shelf position is still recognizable.
 
 THREAD MOVEMENT:
 T1 object returns / older normal begins
-T3 Celina / Inez
-T4 Lea
-T5 Adela's order
+T3 Nalani / Kalei
+T4 Nohea
+T5 Lehua's order
 T10 human interference
 
 REQUIRED SETUP:
@@ -183,17 +183,17 @@ Chapter 02 current cup shelf must remain clear and unchanged until this deviatio
 
 FORBIDDEN:
 - proof the house moved it
-- Lea ghost implication
-- discovering Lea's preserved childhood cup
+- Nohea ghost implication
+- discovering Nohea's preserved childhood cup
 - dramatic horror language
 
 EXIT:
-Celina begins to say Lea's name or refer to her place, then redirects before fully explaining.
+Nalani begins to say Nohea's name or refer to her place, then redirects before fully explaining.
 
 TARGET:
 2,400-3,100 words.
 
-## Chapter 05 — Adela's Room
+## Chapter 05 — Lehua's Room
 
 STATUS:
 READY.
@@ -202,47 +202,47 @@ DRAMATIC JOB:
 Move the object engine from shared household space into privacy.
 
 OPENING PRESSURE:
-Celina insists the east room must finally enter the estate inventory.
-Inez agrees to open it but rejects the idea that the room has been untouched since Adela died.
+Nalani insists the east room must finally enter the estate inventory.
+Kalei agrees to open it but rejects the idea that the room has been untouched since Lehua died.
 
 OBJECT BASELINE:
-- establish Adela's dark horn comb on a shallow ceramic dish beside the washstand
+- establish Lehua's dark horn comb on a shallow ceramic dish beside the washstand
 - establish the bedside drawer / personal-storage logic
-- establish which objects Inez routinely handled as caregiver and which she did not
+- establish which objects Kalei routinely handled as caregiver and which she did not
 
 HUMAN EVENT:
-Mara notices evidence that something has already been moved in the room.
-Inez openly explains that she moved it for a practical caregiving / post-death reason.
+Malia notices evidence that something has already been moved in the room.
+Kalei openly explains that she moved it for a practical caregiving / post-death reason.
 No mystery payoff.
 
 RELATIONSHIP MOVEMENT:
-- Celina treats legal family ownership as grounds for inventory access
-- Inez treats years of caregiving access as continuing practical authority
-- Mara sees both claims as partly legitimate
-- Mara becomes uncomfortable with how naturally Inez opens drawers / handles belongings without asking anyone
+- Nalani treats legal family ownership as grounds for inventory access
+- Kalei treats years of caregiving access as continuing practical authority
+- Malia sees both claims as partly legitimate
+- Malia becomes uncomfortable with how naturally Kalei opens drawers / handles belongings without asking anyone
 
 CULTURE MOVEMENT:
 Keeping Days may delay distribution without freezing maintenance.
 A dead person's room remains part of a functioning household.
 
 THREAD MOVEMENT:
-T3 Celina / Inez
-T5 Adela's order
+T3 Nalani / Kalei
+T5 Lehua's order
 T8 estate / house future
 T10 human interference
 
 REQUIRED:
-Adela's comb must become an ordinary, reader-known object before any later return event.
+Lehua's comb must become an ordinary, reader-known object before any later return event.
 
 FORBIDDEN:
 - creepy preserved bedroom
 - supernatural event
-- Adela diary that explains plot
+- Lehua diary that explains plot
 - secret occult object
-- making Inez suspicious merely because she has access
+- making Kalei suspicious merely because she has access
 
 EXIT:
-Mara understands that practical access, legal ownership, and moral permission are three different things.
+Malia understands that practical access, legal ownership, and moral permission are three different things.
 
 TARGET:
 2,500-3,200 words.
@@ -262,24 +262,24 @@ OBJECT:
 front key.
 
 CUSTODY EVENT:
-Mara believes one person currently has the front key.
+Malia believes one person currently has the front key.
 Later it is back on the hook before she sees that person return / hand it off.
 
 RULE:
-Mara's knowledge must contain a gap.
+Malia's knowledge must contain a gap.
 At least two living-person transfer paths remain possible.
 
 RELATIONSHIP MOVEMENT:
-Mara begins quietly tracking household behavior without telling everyone.
-That is an early step toward Adela-like surveillance.
+Malia begins quietly tracking household behavior without telling everyone.
+That is an early step toward Lehua-like surveillance.
 
 CULTURE MOVEMENT:
 shared household access makes perfect custody tracking socially unnatural.
 
 THREAD MOVEMENT:
 T1 object returns
-T2 Mara as resetter
-T5 Adela's order
+T2 Malia as resetter
+T5 Lehua's order
 T10 human interference
 
 REQUIRED:
@@ -292,7 +292,7 @@ FORBIDDEN:
 - anyone lying solely to manufacture mystery
 
 EXIT:
-Mara deliberately returns the key slightly wrong:
+Malia deliberately returns the key slightly wrong:
 leaning right and leather loop forward.
 She tells nobody.
 It is a private test.
@@ -309,7 +309,7 @@ DRAMATIC JOB:
 Strengthen the older-normal pattern without confirming supernatural agency.
 
 OPENING PRESSURE:
-Mara checks her private key test while trying not to admit to herself that she made one.
+Malia checks her private key test while trying not to admit to herself that she made one.
 
 OBJECT MOVEMENT:
 - key orientation may have been corrected, but any household member could have done it
@@ -323,7 +323,7 @@ include one ordinary memory that makes her more human:
 preference, complaint, theft, joke, chore avoidance, or sibling irritation.
 
 RELATIONSHIP MOVEMENT:
-Mara asks Inez / Celina about the old arrangement rather than treating her own memory as authority.
+Malia asks Kalei / Nalani about the old arrangement rather than treating her own memory as authority.
 The adults disagree about why the arrangement existed, but agree that it did.
 
 CULTURE MOVEMENT:
@@ -331,9 +331,9 @@ show that household arrangements can encode age, permission, work role, and acce
 
 THREAD MOVEMENT:
 T1 object returns
-T2 Mara surveillance tendency
-T4 Lea
-T5 Adela's order
+T2 Malia surveillance tendency
+T4 Nohea
+T5 Lehua's order
 T10 human plausibility
 
 REQUIRED:
@@ -341,12 +341,12 @@ at least one living-person explanation remains possible for each movement consid
 
 FORBIDDEN:
 - proof of ghost
-- original Lea cup magically returning
+- original Nohea cup magically returning
 - expanding supernatural rules
 - dramatic apparition / sound cue
 
 EXIT:
-Mara can no longer dismiss the pattern as merely "wrong shelf."
+Malia can no longer dismiss the pattern as merely "wrong shelf."
 Her working phrase becomes:
 **wrong in time.**
 
@@ -359,7 +359,7 @@ JOB:
 Test whether removal matters.
 
 REQUIRED:
-Celina discards / removes one Adela object for human reasons.
+Nalani discards / removes one Lehua object for human reasons.
 Conflict about inheritance.
 
 EXIT:
@@ -372,28 +372,28 @@ JOB:
 False negative and lived-time expansion.
 
 PRIMARY:
-Tomas work / weather / community obligation.
+Keoni work / weather / community obligation.
 
 HORROR:
 none or near-none.
 
 EXIT:
-Mara becomes embarrassed by her own anticipation.
+Malia becomes embarrassed by her own anticipation.
 
-## Chapter 10 — Tomas's Tools
+## Chapter 10 — Keoni's Tools
 
 JOB:
 Differentiate valid object systems.
 
 REQUIRED:
-Mara initially reads gear house as disorder.
-Tomas proves functional order.
+Malia initially reads gear house as disorder.
+Keoni proves functional order.
 
 HUMAN RESIDUE:
 someone entered / moved something for mundane reason.
 
 EXIT:
-Mara's expertise becomes locally limited.
+Malia's expertise becomes locally limited.
 
 ## Chapters 11-31
 
