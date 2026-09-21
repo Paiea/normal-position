@@ -8,7 +8,7 @@ prove the cast produces different behavior under the same pressure.
 
 ## Audition A — A cup is in the wrong place
 
-### Mara
+### Malia
 First move:
 checks whether the shelf was cleaned / reset.
 
@@ -18,7 +18,7 @@ Question:
 Risk:
 turns uncertainty into procedure.
 
-### Celina
+### Nalani
 First move:
 moves cup somewhere else.
 
@@ -28,7 +28,7 @@ Question:
 Risk:
 destroys evidence because she hates the premise.
 
-### Inez
+### Kalei
 First move:
 identifies whether the position is old or current.
 
@@ -38,7 +38,7 @@ Question:
 Risk:
 her knowledge feels invasive.
 
-### Tomas
+### Keoni
 First move:
 asks whether anything else moved.
 
@@ -48,7 +48,7 @@ Question:
 Risk:
 can over-dismiss emotional meaning.
 
-### Lio
+### Koa
 First move:
 says whose current cup it actually is.
 
@@ -61,21 +61,21 @@ experiments because adults are being opaque.
 VERDICT:
 Distinct enough to draft.
 
-## Audition B — Someone opened Mara's bag
+## Audition B — Someone opened Malia's bag
 
-### Mara
+### Malia
 closes it, inventories contents, does not immediately accuse.
 
-### Celina
+### Nalani
 assumes family nosiness before supernatural explanation.
 
-### Inez
+### Kalei
 believes household emergency can justify access under some conditions.
 
-### Tomas
+### Keoni
 asks what is missing / moved and whether bag was actually closed.
 
-### Lio
+### Koa
 is offended adults assume he did it.
 
 VERDICT:
@@ -87,19 +87,19 @@ Useful human-horror engine.
 Scenario:
 wind has risen; one person is outside; opening has real physical cost.
 
-### Mara
+### Malia
 wants current data, timing, and shared decision.
 
-### Celina
-moves toward door before debate finishes because Lea history overrides procedure.
+### Nalani
+moves toward door before debate finishes because Nohea history overrides procedure.
 
-### Inez
+### Kalei
 will physically stop somebody if she believes opening creates greater collective danger.
 
-### Tomas
+### Keoni
 provides weather / structural assessment but refuses to pretend it resolves morality.
 
-### Lio
+### Koa
 resents being counted as cargo rather than decision-maker.
 
 VERDICT:
@@ -108,10 +108,10 @@ Characters reach different answers from values and expertise, not vocabulary.
 ## Lock discoveries
 
 Promote:
-- Mara inventories before accusing.
-- Celina destroys / moves evidence when she thinks obsession is becoming harmful.
-- Inez distinguishes old normal from current normal instinctively.
-- Tomas separates physical risk assessment from moral authorization.
-- Lio knows present household baseline and hates being treated as historical furniture.
+- Malia inventories before accusing.
+- Nalani destroys / moves evidence when she thinks obsession is becoming harmful.
+- Kalei distinguishes old normal from current normal instinctively.
+- Keoni separates physical risk assessment from moral authorization.
+- Koa knows present household baseline and hates being treated as historical furniture.
 
 Do not promote every audition line as dialogue canon.
