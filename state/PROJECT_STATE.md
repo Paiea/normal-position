@@ -1,6 +1,6 @@
 # NORMAL POSITION — PROJECT STATE
 
-Status: DRAFTING / CHAPTER 08 PUBLISHED
+Status: DRAFTING / CHAPTER 09 PUBLISHED
 
 Working title: **Normal Position**
 
@@ -206,9 +206,9 @@ Pre-draft readiness audit:
 **PASS.**
 
 Published frontier:
-Chapter 08 — Throw It Away.
+Chapter 09 — Nothing Happened.
 
 Next action:
-Chapter 09 — Nothing Happened.
+Chapter 10 — Keoni's Tools.
 
 A plain **continue** executes the full chapter pipeline.
