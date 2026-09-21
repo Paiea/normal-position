@@ -1,161 +1,206 @@
-# NORMAL POSITION — COMPOUND MAP
+# NORMAL POSITION — FAMILY PLACE MAP
 
-Status: WORKING PHYSICAL CANON.
-Lock exact geometry before Chapter One.
+Status: ACTIVE PHYSICAL CANON THROUGH CHAPTER 04.
+
+## Setting
+
+Windward Hawaiʻi Island, north of Hilo.
+
+The Kealoha place is multigenerational family property.
+
+It is contemporary.
+
+It is NOT a reconstructed traditional kauhale.
+
+Its separate-use spaces echo a long Hawaiian logic of different household structures serving different functions, but every current building has its own modern construction and repair history.
 
 ## Orientation
 
-North:
-windward rise / higher ground.
+Uphill / mauka:
+north side of property.
 
-South:
-village footpath and main gate.
+Downhill / makai:
+road and main gate to south.
 
-The compound is enclosed enough to feel like one household but not isolated from Salen.
+The property is open enough to remain part of a lived neighborhood rather than an isolated gothic estate.
 
 ## Approximate footprint
 
-Outer compound:
-about 36m east-west x 28m north-south.
+Primary family-use area:
+about 120 ft east-west x 95 ft mauka-makai.
 
-### MAIN HOUSE — north center
+## MAIN HOUSE — mauka / north center
 
-Stone lower walls, heavy shutters, primary sleeping / receiving structure.
+Older wood-frame family house with corrugated metal roof.
 
-Approx. 16m x 10m.
+Approx. 50 ft x 32 ft.
 
-South-facing main storm door opens into yard.
+Functions:
+- sleeping
+- family gathering
+- visitors
+- personal storage
+- estate papers
+- front-key / access routines
 
 Working interior:
-- central receiving / work room
-- Adela's room east
-- Inez's habitual sleeping room west
-- two flexible family sleeping rooms north / rear
-- storage niches / chests
-- shuttered windows
+- central receiving / dining room
+- Tūtū Lehua's room east
+- Kalei's habitual room west
+- two flexible rear / mauka sleeping rooms
+- storage chests / built-ins
+- front shelf with current spare storm lantern position
 
-Do not overcomplicate internal corridors.
-The house should be physically learnable.
+Storm protection:
+removable / closable window protection appropriate to the existing house.
+Do not turn this into a fortress.
 
-### KITCHEN HOUSE — southeast
+## DETACHED COOKHOUSE / OUTSIDE KITCHEN — southeast
 
-Detached.
+Approx. 30 ft x 22 ft.
 
-Approx. 10m x 7m.
-
-Contains:
-- hearth / cooking
+Functions:
+- large-family cooking
+- food prep
+- dishwashing
+- overflow during gatherings
+- cup shelves
+- return rack
 - food storage
-- water vessels
-- eating work
-- shelves
-- storm-secure provisions
 
-Current structure was substantially rebuilt after the Lea storm.
+Current structure was substantially rebuilt after the Nohea storm.
 
-It occupies approximately the same footprint as the older kitchen house.
+It occupies approximately the same working area as the older detached cookhouse.
 
 This matters.
 
-### GEAR HOUSE — southwest
+## WORKSHOP / BOAT SHED — southwest
 
-Approx. 9m x 6m.
+Approx. 28 ft x 20 ft.
 
-Contains:
+Functions:
 - tools
 - rope
-- repair parts
-- fishing / boat gear
-- storm equipment
-- Tomas's working storage
+- engine / boat repair parts
+- fishing / marine gear
+- storm supplies
+- Keoni's working storage
 
-Its object order is functional and may look messy to Mara.
+Its object order is functional and may look messy to Malia.
 
-### YARD — center
+## COVERED LANAI / CENTRAL YARD
 
-Contains:
-- cistern
-- work surface / wash area
-- clothes / drying line when weather permits
-- paths connecting all three structures
+Functions:
+- folding tables
+- visitors
+- drying
+- food overflow
+- maintenance
+- work
+- movement between structures
 
-The routes are important.
+The routes matter.
 
-### MAIN GATE — south center
+## RAIN-CATCHMENT SYSTEM
 
-Connects compound to village path.
+Large covered tank positioned behind / to the side of the main house, connected to roof gutters and household-use plumbing / spigot.
 
-Not a magical threshold by default.
+Track:
+- tank cover
+- gutters
+- filters
+- pump / spigot
+- maintenance tools
+- water-use pressure during large family gatherings
 
-### SIDE SERVICE OPENING — west wall
+Catchment is practical infrastructure, not spooky machinery.
 
-Small working access used for gear / repair movement.
+If water quality becomes plot-relevant:
+research exact Hawaiʻi catchment guidance before drafting.
 
-Exact lock / permission status must be established in Chapter One baseline.
+## MAIN GATE — makai / south
+
+Connects family place to local road.
+
+Not a magical threshold.
+
+## WEST WORK ACCESS
+
+Practical side access used for workshop / gear movement.
+
+At night:
+secured by ordinary household procedure.
 
 ## Approximate distances
 
-Main house door -> kitchen house door:
-10-12m across exposed yard.
+Main house -> cookhouse:
+30-40 ft across yard.
 
-Main house door -> gear house:
-9-11m.
+Main house -> workshop:
+30-35 ft.
 
-Main gate -> main house door:
-12-14m.
+Main gate -> main house:
+40-45 ft.
 
-Kitchen -> gear:
-14-16m across yard.
+Cookhouse -> workshop:
+45-55 ft.
 
-These distances are short in ordinary weather and consequential in severe wind / debris.
+Short distances in ordinary weather.
+Consequential when wind, rain, debris, or darkness become severe.
 
-## Lea storm geography
+## Nohea storm geography
 
-Lea leaves main house during a lull.
+Twenty-four years before Chapter One:
 
-She crosses to the older kitchen structure.
+Nohea leaves the main house during a temporary lull.
 
-The main house is secured again before the next gust cycle.
+She crosses the yard to the older detached cookhouse to retrieve her hidden tin whistle.
 
-Adela later realizes Lea is outside.
+The main house is secured again as the weather worsens.
 
-At peak gust, opening the main door risks:
-- losing control of door
-- debris entry
-- injury to people clustered inside
-- pressure and shutter failure
+Tūtū Lehua realizes Nohea is outside.
 
-Before the next safer lull:
-the kitchen structure partially fails.
+Opening / controlling the main door in the strongest gust cycle carries real risk from:
+- wind force on the door
+- flying debris
+- exposure of people gathered inside
+- loss of a controlled secure interior
 
-Exact injury mechanism:
-structural debris / collapse, not supernatural attack.
+Lehua chooses to wait for the next safer lull.
 
-Do not change this to drowning or disappearance later.
+Before it comes:
+the older cookhouse partially fails.
+
+Nohea is fatally injured by structural debris.
+
+No supernatural event causes her death.
 
 ## Horror geography
 
-The compound should become frightening through learned routes.
+The property becomes frightening through learned routes.
 
-Useful progression:
+Progression may include:
 - ordinary walking
-- weather changes route
-- objects appear along old routes
-- doors / furniture make one route easier
-- characters realize arrangement is directing movement
-- final act uses deliberate rerouting
+- rain / wind changing which route is practical
+- household objects appearing along older routes
+- doors / furniture making one route easier
+- people realizing arrangements are directing movement
+- final act deliberately changing routes and uses
 
 No secret tunnels.
-No late hidden room needed.
+No hidden temple.
+No sacred-site reveal.
+No late underground room.
 
 ## Reader rule
 
 By Chapter 6, readers should understand:
-- where the three structures sit
+- where the three main structures sit
 - which work belongs where
-- how long it takes to cross yard
-- which route Lea would have taken
+- how long the yard crossings take
+- where catchment maintenance happens
+- which route Nohea would have taken
 
-Do not deliver this as map exposition.
+Teach through chores and conflict.
 
-Teach through chores.
+Do not deliver map exposition.
