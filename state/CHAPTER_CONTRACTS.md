@@ -12,14 +12,14 @@ STATUS:
 COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
-Establish Malia, compound, Keeping Days, family friction, and object-reading competence without overt haunting.
+Establish Malia, family place, the days around Tūtū Lehua's service, family friction, and object-reading competence without overt haunting.
 
 OPENING PRESSURE:
 Malia arrives carrying travel fatigue and the expectation that she is temporary.
 
 REQUIRED:
 - front key normal position
-- three-structure compound introduced through movement
+- three-structure family place introduced through movement
 - Kalei doing real work
 - Keoni has off-plot obligation
 - Koa current-life beat
@@ -39,7 +39,7 @@ Malia catches herself performing one of Lehua's exact placement habits.
 TARGET:
 2,500-3,200 words.
 
-## Chapter 02 — Keeping Days
+## Chapter 02 — the days around Tūtū Lehua's service
 
 STATUS:
 COMPLETE / PUBLISHED.
@@ -48,12 +48,12 @@ DRAMATIC JOB:
 Make mourning, hospitality, estate pressure, and household labor feel like present-tense life rather than setup for haunting.
 
 OPENING PRESSURE:
-Morning after Malia's arrival. The compound must receive more visitors while Nalani wants to begin inventory and Kalei has actual work that cannot wait.
+Morning after Malia's arrival. The family place must receive more visitors while Nalani wants to begin inventory and Kalei has actual work that cannot wait.
 
 OBJECT BASELINE:
 - establish current kitchen cup-shelf arrangement naturally through washing / serving
 - re-establish front-key normal without making it ominous
-- allow one additional practical object normal tied to Keeping Days labor
+- allow one additional practical object normal tied to the days around Tūtū Lehua's service labor
 
 HORROR MOVEMENT:
 none required.
@@ -67,7 +67,7 @@ RELATIONSHIP MOVEMENT:
 
 CULTURE MOVEMENT:
 show hospitality creating food, cleanup, containers, chairs, bedding, and information flow.
-Keeping Days should constrain distribution but not stop ordinary work.
+the days around Tūtū Lehua's service should constrain distribution but not stop ordinary work.
 
 THREAD MOVEMENT:
 T2 Malia as resetter
@@ -116,7 +116,7 @@ The discomfort comes from Malia being confidently wrong.
 
 RELATIONSHIP MOVEMENT:
 Koa correctly identifies current normal.
-Malia must accept that he knows the present compound better than she does.
+Malia must accept that he knows the present family place better than she does.
 Do not turn Koa into a smug exposition device.
 
 CULTURE MOVEMENT:
@@ -193,10 +193,10 @@ Nalani begins to say Nohea's name or refer to her place, then redirects before f
 TARGET:
 2,400-3,100 words.
 
-## Chapter 05 — Lehua's Room
+## Chapter 05 — Tūtū Lehua's Room
 
 STATUS:
-READY.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Move the object engine from shared household space into privacy.
@@ -222,7 +222,7 @@ RELATIONSHIP MOVEMENT:
 - Malia becomes uncomfortable with how naturally Kalei opens drawers / handles belongings without asking anyone
 
 CULTURE MOVEMENT:
-Keeping Days may delay distribution without freezing maintenance.
+the days around Tūtū Lehua's service may delay distribution without freezing maintenance.
 A dead person's room remains part of a functioning household.
 
 THREAD MOVEMENT:
@@ -256,7 +256,7 @@ DRAMATIC JOB:
 Turn the fully established front-key routine into the first custody puzzle.
 
 OPENING PRESSURE:
-Keeping Days traffic is thinning, which should make object custody easier to track, not harder.
+the days around Tūtū Lehua's service traffic is thinning, which should make object custody easier to track, not harder.
 
 OBJECT:
 front key.
