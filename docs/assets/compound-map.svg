@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-labelledby="t d">
+<title id="t">Working map of the Orlan family compound</title>
+<desc id="d">Main stone house to the north, detached kitchen to the southeast, gear house to the southwest, central yard and cistern, main gate to the south.</desc>
+<style>
+text{font-family:Arial,sans-serif;fill:#ded9cc} .small{font-size:15px;letter-spacing:1.5px}.label{font-size:22px;font-weight:700}.sub{font-size:15px;fill:#9da398}.wall{fill:none;stroke:#747d72;stroke-width:5}.b{fill:#171c18;stroke:#8e9589;stroke-width:3}.path{fill:none;stroke:#766455;stroke-width:8;stroke-dasharray:11 10}.door{stroke:#c18b70;stroke-width:8}.water{fill:#202b29;stroke:#78908b;stroke-width:3}.note{fill:#b77b62}
+</style>
+<rect width="1000" height="760" fill="#0f1310"/>
+<rect x="90" y="70" width="820" height="610" rx="6" class="wall"/>
+<text x="90" y="44" class="small">NORTH / WINDWARD RISE</text>
+
+<rect x="280" y="115" width="440" height="190" class="b"/>
+<text x="500" y="180" text-anchor="middle" class="label">MAIN HOUSE</text>
+<text x="500" y="210" text-anchor="middle" class="sub">sleeping · receiving · household storage</text>
+<line x1="480" y1="305" x2="520" y2="305" class="door"/>
+
+<rect x="650" y="430" width="200" height="140" class="b"/>
+<text x="750" y="485" text-anchor="middle" class="label">KITCHEN</text>
+<text x="750" y="513" text-anchor="middle" class="sub">rebuilt after Lea storm</text>
+<line x1="650" y1="482" x2="650" y2="520" class="door"/>
+
+<rect x="150" y="440" width="190" height="125" class="b"/>
+<text x="245" y="493" text-anchor="middle" class="label">GEAR HOUSE</text>
+<text x="245" y="520" text-anchor="middle" class="sub">tools · rope · repair</text>
+<line x1="340" y1="480" x2="340" y2="518" class="door"/>
+
+<circle cx="505" cy="430" r="42" class="water"/>
+<text x="505" y="436" text-anchor="middle" class="small">CISTERN</text>
+
+<path d="M500 305 L500 430 L650 500" class="path"/>
+<path d="M500 430 L340 500" class="path"/>
+<path d="M500 430 L500 665" class="path"/>
+
+<line x1="470" y1="680" x2="530" y2="680" class="door"/>
+<text x="500" y="718" text-anchor="middle" class="label">MAIN GATE</text>
+
+<line x1="90" y1="480" x2="90" y2="530" class="door"/>
+<text x="105" y="595" class="small">WEST SERVICE OPENING</text>
+
+<path d="M500 310 Q615 365 690 430" fill="none" stroke="#b77b62" stroke-width="3"/>
+<text x="630" y="350" class="small note">LEA'S WORKING ROUTE</text>
+
+<text x="875" y="735" text-anchor="end" class="small">WORKING GEOMETRY · PRE-CHAPTER ONE</text>
+</svg>
