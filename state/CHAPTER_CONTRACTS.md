@@ -526,7 +526,163 @@ Malia understands:
 TARGET:
 2,500-3,200 words.
 
-## Chapters 11-31
+## Chapter 11 — The Old Path
+
+STATUS:
+STRUCTURAL LOCK / DETAILS FLEXIBLE.
+
+DRAMATIC JOB:
+Escalate from object arrangement to spatial arrangement.
+
+PRESSURE:
+Ordinary household activity leaves a continuous, usable path corresponding to an older route between the main house and the pre-rebuild cookhouse.
+
+RULE:
+Every object / clearing in the route must have an ordinary human explanation.
+
+REQUIRED:
+No one person intentionally builds the route.
+
+EXIT:
+Malia can physically walk the obsolete route from end to end.
+
+HORROR TARGET:
+Reader reaction should be:
+**that can happen, but why did all of it happen in the same direction?**
+
+FORBIDDEN:
+- autonomous movement
+- apparition
+- supernatural proof
+- Nohea calling / signaling
+
+## Chapter 12 — The Clear Way
+
+STATUS:
+STRUCTURAL LOCK / DETAILS FLEXIBLE.
+
+DRAMATIC JOB:
+Make the present-day layout repeatedly lose to the older route.
+
+PRESSURE:
+Malia restores current flow.
+Over the day, unrelated practical choices by several people make the current route awkward while leaving the older route clear.
+
+REQUIRED:
+At least four independent human movements with separate practical motives.
+
+RELATIONSHIP:
+Koa should use the old route because it is currently easier, not because he knows what it means.
+
+EXIT:
+the old route wins without anyone choosing it as an old route.
+
+HORROR TARGET:
+first strong sensation of **preference**.
+
+FORBIDDEN:
+- characters declaring the house conscious
+- inexplicable physical resistance
+- new supernatural rule
+
+## Chapter 13 — Nohea's Place
+
+STATUS:
+STRUCTURAL LOCK / DETAILS FLEXIBLE.
+
+DRAMATIC JOB:
+Let living people unknowingly reconstruct a dead child's spatial position.
+
+PRESSURE:
+Temporary crowding / household need requires rearrangement.
+
+MOVEMENT:
+Malia and Nalani independently move different ordinary objects for practical reasons.
+Kalei later recognizes the combined result as Nohea's old place.
+
+REQUIRED:
+Neither Malia nor Nalani consciously aims for the old configuration.
+Each movement must remain individually reasonable.
+
+NOHEA:
+One ordinary memory may accompany recognition.
+Do not make her spooky.
+
+EXIT:
+Malia realizes the obsolete arrangement can emerge through living people who are trying to use the present house.
+
+HORROR TARGET:
+the pattern appears to recruit ordinary decision-making without proof of compulsion.
+
+## Chapter 14 — Same Answer
+
+STATUS:
+STRUCTURAL LOCK / DETAILS FLEXIBLE.
+
+DRAMATIC JOB:
+Secure the horror genre before the first impossible event.
+
+PRESSURE:
+Across unrelated household tasks, different people repeatedly choose positions / routes that converge on the same older household grammar.
+
+MALIA:
+observes without manipulating.
+This matters ethically after the secret key test.
+
+KEONI:
+remains skeptical and materially grounded.
+He agrees the pattern exists before he agrees on cause.
+
+KALEI / NALANI:
+recognize different eras but agree the convergence has become uncomfortable.
+
+EXIT:
+Malia stops asking:
+**Who moved this?**
+
+She asks:
+**Why do we keep choosing the same old answer?**
+
+HORROR TARGET:
+Reader should feel the family place has a preference even though agency remains unproven.
+
+FORBIDDEN:
+- airtight impossible event
+- supernatural voice / apparition
+- Hawaiian spiritual explanation
+- confirmation that anyone was controlled
+
+## Chapter 15 — The Comb
+
+STATUS:
+STRUCTURAL LOCK / FIRST CLEAN CONFIRMATION.
+
+DRAMATIC JOB:
+Collapse ordinary handoff explanations for the first time.
+
+OBJECT:
+Tūtū Lehua's established dark horn comb.
+
+REQUIRED:
+- deliberate removal
+- observed custody
+- verified absence
+- return to exact normal ceramic dish
+- ordinary paths genuinely closed
+
+PAYOFF:
+All earlier ambiguity remains useful because the book has trained the reader to look for human movement first.
+
+EXIT:
+first clean supernatural confirmation.
+
+The question changes from:
+**Is something happening?**
+
+to:
+**What exactly has been choosing?**
+
+## Chapters 16-31
 
 Use STORY_MAP.md as working contracts until each chapter enters the next-three queue.
 
