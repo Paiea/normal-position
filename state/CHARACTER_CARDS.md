@@ -2,7 +2,7 @@
 
 Status: WORKING. Lock after auditions.
 
-## Mara Orlan — 34
+## Malia Kealoha — 34
 
 ROLE:
 Primary POV. Housekeeping operations supervisor off-island.
@@ -42,10 +42,10 @@ Hates ambiguous ownership.
 BORING OFF-PLOT LIFE:
 Staff scheduling, linen loss rates, training new supervisors, complaint logs.
 
-## Celina Orlan — 58
+## Nalani Kealoha — 58
 
 ROLE:
-Mara's mother. Adela's younger daughter.
+Malia's mother. Lehua's younger daughter.
 
 PUBLIC:
 Practical, impatient with island nostalgia, wants the estate resolved.
@@ -74,10 +74,10 @@ Travels light.
 Throws away damaged things.
 Dislikes inherited possessions.
 
-## Inez Orlan — 62
+## Kalei Kealoha — 62
 
 ROLE:
-Adela's older daughter. Long-term caregiver. Stayed.
+Lehua's older daughter. Long-term caregiver. Stayed.
 
 PUBLIC:
 Capable, hospitable, exhausted, knows every household procedure.
@@ -106,12 +106,12 @@ Repairs, preserves, reassigns.
 Knows where nearly everything belongs.
 
 PRESENT-TENSE DANGER:
-Must eventually make one protective / controlling choice Mara understands and still rejects.
+Must eventually make one protective / controlling choice Malia understands and still rejects.
 
-## Tomas Orlan — 37
+## Keoni Kealoha — 37
 
 ROLE:
-Inez's son. Mara's cousin. Boat and engine repair.
+Kalei's son. Malia's cousin. Boat and engine repair.
 
 PUBLIC:
 Busy, practical, not interested in turning every oddity into a theory.
@@ -141,13 +141,13 @@ Cannibalizes broken equipment.
 Hates throwing away useful parts.
 
 FRAME-BREAKER FUNCTION:
-Has legitimate expertise Mara does not share.
+Has legitimate expertise Malia does not share.
 His boring work must remain active.
 
-## Lio Orlan — 16
+## Koa Kealoha — 16
 
 ROLE:
-Tomas's son.
+Keoni's son.
 
 PUBLIC:
 Restless, observant, somewhat amused by adult family drama.
@@ -170,7 +170,7 @@ Specific, skeptical, less reverent about family stories.
 OBJECT RELATION:
 Uses things for what they do, not what they mean.
 
-## Adela Orlan — deceased, 81
+## Lehua Kealoha — deceased, 81
 
 ROLE:
 Dead matriarch whose systems remain materially present.
@@ -190,10 +190,10 @@ She also used order to know:
 
 Her care and control should be difficult to separate cleanly.
 
-## Lea Orlan — died in childhood
+## Nohea Kealoha — died in childhood
 
 ROLE:
-Mara's younger sister.
+Malia's younger sister.
 
 Do not use her as a creepy dead-child aesthetic.
 
