@@ -13,7 +13,7 @@ Check:
 - object position
 - injuries
 - family knowledge
-- Lea-history knowledge
+- Nohea-history knowledge
 - supernatural rules
 - compound routes
 
@@ -29,7 +29,7 @@ Check:
 - owner / keeper / touch rule coherent
 - object not suspicious only because narration spotlights it
 - ordinary objects remain ordinary
-- Mara's knowledge comes from real expertise
+- Malia's knowledge comes from real expertise
 - other expertise matters
 - interpretation changes without rewriting observation
 
@@ -63,11 +63,11 @@ Check:
 ## 5. Character independence
 
 Across rolling 4 chapters:
-- does Tomas have work?
-- does Inez have obligation beyond haunting?
-- does Celina pursue estate / departure goals?
-- does Lio have a current life?
-- is everybody merely reacting to Mara?
+- does Keoni have work?
+- does Kalei have obligation beyond haunting?
+- does Nalani pursue estate / departure goals?
+- does Koa have a current life?
+- is everybody merely reacting to Malia?
 
 Pure satellite drift is RED for major characters.
 
@@ -91,9 +91,9 @@ Check:
 - changed object use can replace explanation
 - no nod/sigh/smile filler epidemic
 
-## 8. Lea handling
+## 8. Nohea handling
 
-Lea must remain a child who lived, not horror decoration.
+Nohea must remain a child who lived, not horror decoration.
 
 Check:
 - memories include preferences / irritation / play
