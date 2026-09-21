@@ -814,6 +814,72 @@ Or some visitor Mara had not learned to name.
 
 Anyone.
 
+An hour later, Mara watched a man from the upper lane prove exactly how little mystery the shelves required.
+
+He rinsed a pale everyday cup, wiped it with the nearest cloth, and set it on the top shelf among the white visitor cups.
+
+Lio crossed behind him, took the pale cup down without comment, and returned it to the lower shelf.
+
+The man never noticed.
+
+Mara did.
+
+"You do that often?" she asked.
+
+Lio looked at the cup.
+
+"Fix other people's mistakes?"
+
+"Move cups."
+
+"Same question."
+
+"How often?"
+
+He shrugged.
+
+"People don't live here."
+
+That was all.
+
+No special knowledge.
+
+No ceremony.
+
+A guest saw cups and put a cup with cups.
+
+Someone who lived here corrected it.
+
+Mara stood at the basin with both hands wet and felt mildly foolish.
+
+The blue cup could have reached the top shelf exactly that way.
+
+Mrs. Aren washed it.
+
+Mrs. Aren put it high.
+
+The position happened to be far right because there had been space there.
+
+A whole explanation requiring nothing stranger than a person not knowing where another person's cup belonged.
+
+That should have been enough.
+
+It almost was.
+
+What remained was Celina's face.
+
+Not fear.
+
+Recognition.
+
+And Inez knowing the cup had been yellow before Mara even finished asking.
+
+Mara dried her hands.
+
+She did not look at the top shelf again until she had a reason.
+
+Anyone.
+
 Mara picked up the blue cup.
 
 Inez watched her.
