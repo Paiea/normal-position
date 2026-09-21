@@ -358,7 +358,7 @@ Celina drank.
 
 "I can hear you," Inez said from outside.
 
-"You have supernatural hearing now?"
+"You can hear through stone now?"
 
 "No. You're loud."
 
@@ -630,7 +630,7 @@ They crossed back to the main house carrying a lamp and the final clean cups.
 
 Lio used the side path toward the west opening to see whether Tomas had come back.
 
-Inez checked the main gate.
+Inez checked the main gate, then crossed to the west service opening and dropped the wooden bar into its wall brackets.
 
 Mara checked the main door.
 
