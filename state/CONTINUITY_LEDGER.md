@@ -1,90 +1,74 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 07.
+Status: ACTIVE THROUGH CHAPTER 08.
 
 ## Time
 Current:
-Day 8 after Tūtū Lehua's death.
+morning of Day 10 after Tūtū Lehua's death.
 
-## Front key test result
+## Slippers
 
-Malia's Chapter 06 private test:
-- key left leaning slightly right
-- leather loop forward
+Object:
+Tūtū Lehua's worn gray rubber house slippers.
 
-Chapter 07:
-Koa says he used the front key after visiting Micah and rehung it normally.
+Baseline:
+- flattened heel wear
+- one splitting strap
+- ordinary late-life position beside Lehua's chair / bed
+- no sacred / inherited significance
+- Kalei used to help put them on Lehua's feet
 
-Result:
-NO EVIDENCE.
-The corrected orientation has a direct living-person explanation.
+Chapter 08:
+- Nalani chooses to discard them
+- Kalei objects emotionally, then agrees they do not need to be kept
+- slippers placed in trash bag
+- Malia carries bag to Keoni's truck
+- Keoni later takes trash away
+- slippers remain gone through chapter end and next morning
 
-Malia's test is now known / suspected by:
-- Nalani
-- Koa
-- Kalei
+Current state:
+gone.
 
-Malia's surveillance tendency is becoming socially visible.
+No replacement object appears.
+No return occurs.
 
-## Historical kitchen shelf
+## Family-place responsibility
 
-Current normal:
-- lower: everyday cups
-- middle: metal / work vessels
-- top: white visitor cups
+Chapter 08 establishes:
+- property tax is shared / historically covered irregularly
+- Kalei handles many ongoing bills / household needs
+- Keoni has paid some expenses and handles practical repairs
+- catchment maintenance has multiple components / costs
+- family labor is distributed unevenly
+- Nalani has a legitimate interest in understanding ongoing financial / practical sustainability
 
-Older childhood normal, approximate:
-- top shelf: children
-  - Malia left
-  - Nohea right
-- middle shelf: adults, with exact positions varying by period
-- lower shelf: more work / metal use in the relevant remembered period
-
-Chapter 07 older-pattern event:
-Current objects temporarily occupy this older positional grammar.
-
-Known individual human explanations exist for several placements.
-
-No one is confirmed to have intentionally arranged the whole shelf.
-
-Malia restores current normal afterward.
-
-## Nohea memory
-
-New ordinary memory:
-- Nohea climbed kitchen furniture to reach cups
-- she frequently stole Malia's cup
-- claimed water tasted colder from it
-- once bribed Malia with half a li hing mui candy after being caught
-
-No supernatural implication.
+This is a current conflict, not merely a symbolic one.
 
 ## Relationships
 
 ### Malia / Kalei
-Kalei explicitly tells Malia not to test people without telling them.
-Malia cannot deny that her key experiment did exactly that.
+Kalei tells Malia directly that she wants one answer too badly.
+Malia cannot fully deny this.
+
+### Nalani / Kalei
+The slippers and property-tax discussion sharpen the difference between preservation and sustainability.
+Nalani also explicitly acknowledges Kalei should not have had to carry everything alone.
 
 ### Malia / Koa
-Koa identifies the key test and provides the mundane explanation that defeats it.
+Koa distinguishes caring that Lehua wore the slippers from needing to preserve the slippers themselves.
 
-### Malia / Nalani
-Nalani recognizes Malia's pattern-naming impulse and remains skeptical of surveillance logic.
-
-### Family / shelf history
-Nalani and Kalei disagree about why Lehua organized cups by age / access:
-- Kalei emphasizes practical ownership / spill prevention
-- Nalani emphasizes monitoring
-Both agree the arrangement existed.
+### Malia / Keoni
+Keoni continues treating ordinary removal as ordinary removal.
 
 ## Supernatural baseline
 
-Still no confirmed supernatural event through Chapter 07.
+Still no confirmed supernatural event through Chapter 08.
 
-Pattern confidence increases, agency confidence does not.
+Important negative result:
+removing a Lehua-owned object does not cause automatic restoration.
 
 ## Next pressure
 
-Chapter 08 must test removal without rewarding the test.
-Nalani removes / discards one Lehua object for human reasons.
-The object must stay gone through chapter exit.
+Chapter 09 must remain genuinely quiet.
+Malia may check established states, but nothing should answer her.
+Keoni's off-plot work / obligations should dominate.
