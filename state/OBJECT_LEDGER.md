@@ -1,52 +1,71 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 09.
+Status: ACTIVE THROUGH CHAPTER 10.
 
 ## Front key
-Normal:
-high hook beside main-house front door.
-Straight against wall.
-Leather loop behind.
-
 Current:
-normal.
-No anomaly Chapter 09.
+normal high hook.
+No anomaly.
 
 ## Kitchen shelf
 Current:
-normal current arrangement.
-No anomaly Chapter 09.
+current arrangement.
+Older collective pattern established Chapter 07.
+No new change Chapter 10.
 
 ## Tūtū Lehua's comb
 Current:
 normal ceramic dish.
-No anomaly Chapter 09.
-
-Reserved:
-Chapter 15 first clean confirmation if structure still holds.
+No anomaly.
+Reserved for Chapter 15 confirmation.
 
 ## Tūtū Lehua's slippers
 Current:
 gone.
-No return Chapter 09.
+Do not return merely for effect.
 
 ## Spare storm lantern
 Current:
 main-house front shelf.
-No change.
+Old:
+workshop top peg.
+Human relocation history established.
 
-## Keoni's tool bag
-Chapter 09 practical use only.
-Contains mixed tools arranged according to Keoni's working habits.
-Malia cannot identify correct socket by visual order.
-Do not treat this as full workshop baseline yet.
+## Keoni's workshop system
 
-## Trailer winch ratchet
-Human mechanical failure.
-Stripped through repeated forced use.
-Replacement deferred.
-Not supernatural evidence.
+### Side cutters
+Normal:
+pegboard hook near zip-tie / general small-work access.
+Koa had borrowed them for school project.
+Returned correctly in Chapter 10.
 
-## Chapter 10 object rule
-Establish Keoni's workshop as a functional system.
-Any moved tool / part must have mundane cause that Keoni can read better than Malia.
+### Long-nose pliers
+Normal:
+lower workshop hook.
+Chapter 10:
+borrowed by Aunty Nani for porch-light wiring.
+Current:
+temporarily at Aunty Nani's kitchen, expected back.
+Human movement confirmed.
+
+### Clear-handled flat screwdriver
+Old tool Keoni has had since childhood.
+Current:
+workshop shelf.
+Historical memory:
+Nohea once borrowed it / a similar childhood screwdriver to open Malia's plastic unicorn and returned it to kitchen towel drawer.
+Current object must NOT migrate to towel drawer merely to make the preference phase obvious.
+
+### Tool / part order
+May depend on:
+- current job
+- function
+- disassembly sequence
+- material condition
+- salvage potential
+- known user behavior
+
+## Chapter 11 object rule
+Do not turn one object into the main clue.
+
+The old route must emerge from several ordinary items / clearings / household actions distributed across space.
