@@ -1,89 +1,101 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 12.
+Status: ACTIVE THROUGH CHAPTER 13.
 
 ## Time
 Current:
-late afternoon, Day 11 after Tūtū Lehua's death.
+evening, Day 11 after Tūtū Lehua's death.
 
-## Route state
+## Flexible north room
 
-### Current everyday route
-Main house / lanai -> central yard -> cookhouse west-facing main door.
+Current use:
+overflow guest / storage / temporary utility room.
 
-### Historical route
-Diagonal main house -> north-side cookhouse service access.
+Chapter 13 present-day trigger:
+Koa needs main room for school history presentation group.
 
-## Chapter 12 opening reset
+### Current Chapter 13 objects
+- spare foam mattress
+- archive boxes
+- low plastic tote
+- ordinary chair
+- old fan
+- Koa's blue plastic tumbler
 
-Malia restores present circulation:
-- Koa's school table moved back under lanai
-- archive boxes moved inside
-- laundry line returned to usual yard position
-- hose remains coiled at workshop
-- north service door not privileged
+No original Nohea object returns.
 
-Result:
-current west-door route is normal / usable again.
+## Nohea childhood footprint
 
-## Chapter 12 later convergence
+Working historical geometry:
+- sleeping place along east wall
+- low storage / blue crate near foot
+- chair near window, angled for access / climbing
+- water cup on right-side shelf
+- clear path toward door
 
-### Kalei
-moves laundry under lanai because of rain.
+This was ordinary child-use space, not a shrine.
+
+## Chapter 13 reconstruction
+
+### Malia
+lays spare mattress flat along east wall to free room / wall access.
 
 ### Nalani
-stages donation bags near cookhouse west side due dry-space constraints.
-
-### Keoni
-stores long aluminum seat frame under workshop overhang because no interior room is available.
+moves low tote to foot area while stacking estate boxes.
 
 ### Koa
-moves chair / glue station under cookhouse overhang due wind and glue needs.
+moves chair into room because the fan needs a stand.
+Leaves current blue tumbler on shelf because it is a shelf.
 
-### Aunty Nani
-encounters the narrowed current route and complains.
-Some donation bags are later moved, temporarily reopening the route.
+### Kalei
+recognizes aggregate immediately.
+Later instinctively adjusts chair to remembered angle before realizing what she has done.
 
-### Weather response
-short hard rain creates group movement and further practical crowding.
+No movement is unexplained.
 
-Aggregate:
-the west-door route repeatedly becomes awkward while the historical diagonal stays clear.
+## Dismantling
 
-## Koa
+Koa takes chair back for laptop use.
+Malia returns Koa's tumbler.
+Nalani moves tote.
+Kalei removes archive boxes after current need changes.
 
-Koa uses old diagonal / north service door more than once because it is easier.
+Mattress remains east-wall because it is still useful there.
 
-He has no historical investment in the route.
+The reconstruction is not preserved for evidence.
 
-Important line:
-"You guys are the ones who made the other way stupid."
+## Nohea ordinary memory
 
-This frames the convergence through living decisions.
+Her childhood storage included:
+- rocks
+- bottle caps
+- broken pencils
+- pencil shavings she defended as "wood"
 
-## Keoni
+This reinforces lived child specificity.
 
-Keoni agrees the historical diagonal is easier today.
+## Relationships
 
-He does not claim supernatural cause.
+### Malia / Nalani
+Both independently contribute to old arrangement.
+Nalani resists implication but admits uncertainty.
 
-## Malia
+### Malia / Kalei
+Kalei recognizes the pattern and also unknowingly performs one old correction herself.
 
-Malia:
-- openly restores current yard flow
-- does not secretly test
-- later resists moving useful objects solely to erase the route
-- recognizes that legitimate present needs are producing the older spatial answer
+### Malia / Koa
+Koa remains present-tense counterweight and actively breaks the historical arrangement through ordinary use.
 
 ## Supernatural baseline
 
-Still no clean supernatural event through Chapter 12.
+No clean supernatural confirmation through Chapter 13.
 
-Preference phase now has repetition:
-same old route becomes favored on two successive configurations.
+Preference phase now reaches:
+- objects
+- routes
+- human spatial footprint
 
 ## Next pressure
 
-Chapter 13:
-move from route preference to human-place reconstruction.
-Malia and Nalani should independently arrange current objects for practical reasons and accidentally recreate Nohea's old spatial footprint.
+Chapter 14 should broaden convergence across unrelated practical decisions and different domains.
+Do not simply recreate Nohea's room again.
