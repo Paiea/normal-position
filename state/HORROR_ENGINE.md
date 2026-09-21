@@ -39,6 +39,45 @@ Backslide.
 Normalize.
 Let several chapters contain no supernatural escalation.
 
+## Pre-confirmation trajectory
+
+Slow burn does not mean flat uncertainty.
+
+Before the first clean supernatural confirmation, the book must still create an increasingly unmistakable horror trajectory.
+
+Working ladder for Book One:
+
+- Chapters 1-4: establish normal and first obsolete-position discrepancy
+- Chapters 5-7: access, surveillance, and collective old arrangement
+- Chapters 8-10: deliberate decompression / false negatives / expertise limits
+- Chapters 11-14: **preference phase**
+- Chapter 15: impossible normality / first clean confirmation
+
+### Preference phase
+
+By Chapters 11-14, the reader should increasingly feel:
+
+**I can technically explain this, but I really do not like the explanation anymore.**
+
+Allowed pressure:
+- several ordinary actions accidentally reconstruct an old route
+- unrelated people independently restore the same obsolete arrangement
+- current use becomes awkward while an older route / layout keeps becoming the easiest one
+- the same old positional answer reappears through different human hands
+- a space appears to acquire a preferred configuration without any single impossible movement
+
+Still forbidden before Chapter 15:
+- teleportation
+- object returning under airtight observed custody
+- ghost sighting
+- autonomous door / furniture movement
+- confirmed consciousness
+- Hawaiian spiritual explanation
+
+The reader may infer preference before characters can prove agency.
+
+That is the target.
+
 ## Three horror channels
 
 Every major horror beat should pressure at least one:
