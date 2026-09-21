@@ -1,71 +1,77 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 10.
+Status: ACTIVE THROUGH CHAPTER 11.
 
 ## Front key
 Current:
-normal high hook.
-No anomaly.
+normal.
+No Chapter 11 anomaly.
 
 ## Kitchen shelf
 Current:
-current arrangement.
-Older collective pattern established Chapter 07.
-No new change Chapter 10.
+normal.
+No Chapter 11 anomaly.
 
 ## Tūtū Lehua's comb
 Current:
 normal ceramic dish.
 No anomaly.
-Reserved for Chapter 15 confirmation.
+Reserved for Chapter 15 confirmation if structure holds.
 
 ## Tūtū Lehua's slippers
 Current:
 gone.
-Do not return merely for effect.
+No return.
 
 ## Spare storm lantern
 Current:
 main-house front shelf.
-Old:
-workshop top peg.
-Human relocation history established.
 
-## Keoni's workshop system
-
-### Side cutters
-Normal:
-pegboard hook near zip-tie / general small-work access.
-Koa had borrowed them for school project.
-Returned correctly in Chapter 10.
-
-### Long-nose pliers
-Normal:
-lower workshop hook.
-Chapter 10:
-borrowed by Aunty Nani for porch-light wiring.
+## Keoni's workshop tools
 Current:
-temporarily at Aunty Nani's kitchen, expected back.
-Human movement confirmed.
+functional baseline established Chapter 10.
+No Chapter 11 anomaly.
 
-### Clear-handled flat screwdriver
-Old tool Keoni has had since childhood.
-Current:
-workshop shelf.
-Historical memory:
-Nohea once borrowed it / a similar childhood screwdriver to open Malia's plastic unicorn and returned it to kitchen towel drawer.
-Current object must NOT migrate to towel drawer merely to make the preference phase obvious.
+## Chapter 11 route components
 
-### Tool / part order
-May depend on:
-- current job
-- function
-- disassembly sequence
-- material condition
-- salvage potential
-- known user behavior
+These are NOT recurring supernatural objects.
+Track only for spatial continuity.
 
-## Chapter 11 object rule
-Do not turn one object into the main clue.
+### Laundry line
+Moved east by Kalei for sun.
+Effect:
+opens central / diagonal yard space.
 
-The old route must emerge from several ordinary items / clearings / household actions distributed across space.
+### Catchment hose
+Used by Keoni, then coiled to workshop side.
+Effect:
+removes crossing obstruction.
+
+### School-project folding table
+Moved by Koa from windy lanai area into more sheltered central position.
+Effect:
+partially blocks current west-door route and deflects circulation.
+
+### Archive boxes
+Moved by Nalani to dry / shaded location.
+Effect:
+narrow part of current central circulation without blocking old diagonal.
+
+### Cooler
+Carried by Aunty Nani.
+She uses north-side cookhouse service access because current route is obstructed.
+
+## Old route
+
+Not an object.
+
+Current state at Chapter 11 exit:
+physically walkable diagonal from main house toward north-side cookhouse service access.
+
+No permanent marker.
+No worn ground.
+No supernatural status.
+
+## Chapter 12 rule
+Malia may help restore current yard flow.
+Track each subsequent independent move and practical motive.
