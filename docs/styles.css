@@ -34,7 +34,7 @@ h2{margin:.45rem 0 0;font-size:clamp(2.7rem,5.7vw,5.2rem);line-height:.92;letter
 .copy{color:var(--soft);font-size:1.06rem}.copy p:first-child{margin-top:.45rem}
 .rules{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line);margin-top:3rem}
 .rule{background:var(--night2);padding:2rem}.rule span{color:var(--rust);font:800 .65rem/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.13em}.rule h3{font-weight:500;font-size:1.35rem;margin:.7rem 0}.rule p{color:var(--soft);margin:0}
-.pull{max-width:21ch;font-size:clamp(2rem,4.5vw,4.3rem);line-height:1.03;letter-spacing:-.04em;margin:0}.pull em{font-style:normal;color:#c4b09a}
+.map-frame{margin-top:2.5rem;border:1px solid var(--line);background:#0d100e;padding:.75rem}.map-frame img{display:block;width:100%;height:auto}.pull{max-width:21ch;font-size:clamp(2rem,4.5vw,4.3rem);line-height:1.03;letter-spacing:-.04em;margin:0}.pull em{font-style:normal;color:#c4b09a}
 .reader-top{display:flex;align-items:end;justify-content:space-between;gap:2rem;border-bottom:1px solid var(--line);padding-bottom:1rem}
 .reader-top h2{font-size:clamp(2.4rem,5vw,4rem)}.reader-meta{color:var(--muted);font:650 .72rem/1.4 ui-sans-serif,system-ui,sans-serif}
 .empty{padding:1.4rem 0;color:var(--muted)}
