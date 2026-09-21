@@ -479,7 +479,7 @@ TARGET:
 ## Chapter 10 — Keoni's Tools
 
 STATUS:
-READY AFTER CHAPTER 09.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Demonstrate that Malia's expertise in visual / household reset does not generalize to every system.
@@ -529,90 +529,224 @@ TARGET:
 ## Chapter 11 — The Old Path
 
 STATUS:
-STRUCTURAL LOCK / DETAILS FLEXIBLE.
+READY.
 
 DRAMATIC JOB:
-Escalate from object arrangement to spatial arrangement.
+Begin the preference phase by escalating from old object arrangement to old spatial arrangement.
 
-PRESSURE:
-Ordinary household activity leaves a continuous, usable path corresponding to an older route between the main house and the pre-rebuild cookhouse.
+OPENING PRESSURE:
+The family place is being reset after rain / visitors / ongoing estate work.
+Ordinary chores scatter people across the yard.
+
+PHYSICAL BASELINE:
+Current everyday route from main house to cookhouse:
+- exits toward central yard / lanai
+- approaches the cookhouse's west-facing main door
+- avoids the narrower north-side service access
+
+Historical route:
+before / around the pre-rebuild cookhouse era, family traffic commonly cut diagonally from the main house toward the cookhouse's north side.
+
+The rebuilt cookhouse still has a narrow north-side service access in approximately that old approach zone, but it is not the normal food / visitor route.
+
+OBJECT / SPACE MOVEMENT:
+Across the morning, unrelated actions create a clean diagonal:
+- laundry / drying shifted away from one strip
+- hose recoiled to one side
+- folding chair / small table moved out of the strip
+- cooler / food container staged beside rather than across it
+- workshop item temporarily set elsewhere
+
+Exact items may mutate in rehearsal.
 
 RULE:
-Every object / clearing in the route must have an ordinary human explanation.
+Every movement has an ordinary human actor and a practical motive.
+No one person creates the route.
+Malia must not manipulate the setup.
+
+RELATIONSHIP MOVEMENT:
+- Malia notices late, after enough independent actions accumulate
+- she asks Kalei / Nalani to verify the historical route
+- Keoni confirms physical plausibility without endorsing supernatural cause
+- Koa should initially see only a clear shortcut
+
+CULTURE MOVEMENT:
+The yard is a working family space shaped by laundry, food, repair, weather, visitors, and access.
+The route emerges from lived household work, not ritual.
+
+THREAD MOVEMENT:
+T1 pattern
+T2 Malia observing without testing
+T3 historical memory
+T6 Keoni skeptical expertise
+T7 Koa current use
+T10 human interference
+T11 preference phase begins
 
 REQUIRED:
-No one person intentionally builds the route.
+Malia must be able to physically walk the old route from the main house to the cookhouse service side without stepping around current clutter.
 
-EXIT:
-Malia can physically walk the obsolete route from end to end.
-
-HORROR TARGET:
-Reader reaction should be:
-**that can happen, but why did all of it happen in the same direction?**
+HORROR MOVEMENT:
+First spatial convergence.
+Still no impossible event.
 
 FORBIDDEN:
-- autonomous movement
-- apparition
-- supernatural proof
-- Nohea calling / signaling
+- autonomous object movement
+- apparition / voice
+- Nohea calling or signaling
+- describing the ʻāina as directing them
+- claiming the house consciously cleared a path
+
+EXIT:
+Malia walks the obsolete route end to end.
+Every component is explainable.
+The total is not comfortable.
+
+TARGET:
+2,600-3,300 words.
 
 ## Chapter 12 — The Clear Way
 
 STATUS:
-STRUCTURAL LOCK / DETAILS FLEXIBLE.
+READY AFTER CHAPTER 11.
 
 DRAMATIC JOB:
-Make the present-day layout repeatedly lose to the older route.
+Make the present-day yard layout repeatedly lose to the older route through independent practical choices.
 
-PRESSURE:
-Malia restores current flow.
-Over the day, unrelated practical choices by several people make the current route awkward while leaving the older route clear.
+OPENING PRESSURE:
+Malia restores / helps restore the present-day yard flow after Chapter 11.
+She does this openly as normal household work, not a secret test.
+
+PHYSICAL MOVEMENT:
+Over the day, at least four different people independently alter the yard for separate reasons.
+
+Working examples:
+- Kalei shifts laundry because of rain / drying
+- Keoni moves hose / tools to protect current work
+- Nalani relocates folding table / estate boxes
+- Koa leaves shoes / school materials / cooler near current route
+- Aunty Nani or another visitor stages food / containers
+
+The present everyday approach becomes awkward.
+
+The old diagonal route remains conspicuously clear.
+
+RELATIONSHIP MOVEMENT:
+Koa uses the old route automatically because it is the easiest way through.
+He does not know / care about its historical meaning at first.
+
+Malia must resist turning the chapter into an experiment.
+She observes and asks after.
+
+Keoni agrees the route is physically favored by the current arrangement while withholding causal interpretation.
+
+CULTURE MOVEMENT:
+Show a family place constantly negotiated by many legitimate users.
+No single person owns circulation.
+
+THREAD MOVEMENT:
+T2 Malia restraint
+T6 Keoni witness
+T7 Koa current normal
+T10 human interference
+T11 preference phase increases
 
 REQUIRED:
-At least four independent human movements with separate practical motives.
+At least four independent human movements with separate motives.
+No coordinated arrangement.
 
-RELATIONSHIP:
-Koa should use the old route because it is currently easier, not because he knows what it means.
-
-EXIT:
-the old route wins without anyone choosing it as an old route.
-
-HORROR TARGET:
-first strong sensation of **preference**.
+HORROR MOVEMENT:
+The old route "wins" because current practical choices make it easiest.
+This should feel directional without proof of agency.
 
 FORBIDDEN:
-- characters declaring the house conscious
-- inexplicable physical resistance
+- invisible force blocking current route
+- doors opening themselves
+- anyone feeling compelled
+- house-personification in narration
 - new supernatural rule
+
+EXIT:
+Koa takes the old route without thinking because it is simply the clear way.
+Malia recognizes that nobody chose the route as history, but the day chose it anyway.
+
+TARGET:
+2,600-3,300 words.
 
 ## Chapter 13 — Nohea's Place
 
 STATUS:
-STRUCTURAL LOCK / DETAILS FLEXIBLE.
+READY AFTER CHAPTER 12.
 
 DRAMATIC JOB:
-Let living people unknowingly reconstruct a dead child's spatial position.
+Escalate preference from route to human place by letting living people unknowingly reconstruct Nohea's childhood spatial footprint.
 
-PRESSURE:
-Temporary crowding / household need requires rearrangement.
+OPENING PRESSURE:
+Temporary crowding / cleaning / estate work requires part of the main house to be rearranged for present-day use.
+
+PHYSICAL BASELINE:
+Before drafting, rehearse the exact childhood footprint using FAMILY_HISTORY_LOCK and NOHEA_CHILDHOOD_CARD.
+
+Working components:
+- sleeping edge / bedding position
+- small storage position
+- chair orientation
+- cup / personal-item side
+- one access path
+
+Do not require the original objects.
 
 MOVEMENT:
-Malia and Nalani independently move different ordinary objects for practical reasons.
-Kalei later recognizes the combined result as Nohea's old place.
+Malia and Nalani independently move different current objects for practical reasons.
+A third person may contribute one movement.
+Kalei later recognizes the aggregate.
 
-REQUIRED:
 Neither Malia nor Nalani consciously aims for the old configuration.
-Each movement must remain individually reasonable.
+
+RELATIONSHIP MOVEMENT:
+- Malia is disturbed precisely because she helped create it
+- Nalani resists the implication that memory guided her
+- Kalei confirms the old spatial logic but cannot explain why the current arrangement converged
+- Keoni may remain cautious or absent from initial recognition
 
 NOHEA:
-One ordinary memory may accompany recognition.
-Do not make her spooky.
+Include one ordinary memory only if it emerges naturally.
+Use the locked childhood card.
+No spooky child framing.
+
+CULTURE MOVEMENT:
+Family space is shared, repurposed, and negotiated.
+A dead child's past use should not become a shrine.
+
+THREAD MOVEMENT:
+T1 pattern
+T3 Nalani / Kalei memory
+T4 Nohea as lived child
+T5 older household grammar
+T10 human action
+T11 preference phase intensifies
+
+HORROR MOVEMENT:
+The pattern now appears capable of emerging through people actively trying to solve present-day problems.
+
+Still no confirmed compulsion.
+
+REQUIRED:
+Every individual movement must be reasonable.
+The aggregate should be specific enough that Kalei / Nalani can identify it without Malia inventing the resemblance.
+
+FORBIDDEN:
+- original Nohea cup / whistle returning
+- child voice / apparition
+- anyone losing time
+- confirmed possession / compulsion
+- claim that Nohea wants her place back
 
 EXIT:
-Malia realizes the obsolete arrangement can emerge through living people who are trying to use the present house.
+Malia understands that an obsolete arrangement can be rebuilt by living people who believe they are arranging the present.
 
-HORROR TARGET:
-the pattern appears to recruit ordinary decision-making without proof of compulsion.
+TARGET:
+2,700-3,400 words.
 
 ## Chapter 14 — Same Answer
 
