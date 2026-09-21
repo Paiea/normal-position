@@ -23,7 +23,7 @@ Last moved:
 Chapter 04.
 
 What changed:
-Mara restores blue cup to current lower shelf after learning its older position.
+Malia restores blue cup to current lower shelf after learning its older position.
 She now knows restoring current normal can erase historical information.
 
 Pressure:
@@ -37,7 +37,7 @@ Last moved:
 Chapter 04.
 
 What changed:
-they disagree about whether Adela's old shelf rule was practical care or monitoring.
+they disagree about whether Lehua's old shelf rule was practical care or monitoring.
 
 Pressure:
 3/5.
@@ -59,7 +59,7 @@ Pressure:
 2/5.
 
 Next:
-hold. Do not turn Lea into phenomenon.
+hold. Do not turn Nohea into phenomenon.
 
 ## T5 — ADELA'S ORDER
 State:
@@ -72,7 +72,7 @@ Pressure:
 3/5.
 
 Next:
-Adela's room should show useful systems and invasive systems coexisting.
+Lehua's room should show useful systems and invasive systems coexisting.
 
 ## T6 — TOMAS'S LIFE
 State:
