@@ -1,38 +1,34 @@
 # NORMAL POSITION — CURRENT STATE
 
-Status: DRAFTING / CHAPTER 06 PUBLISHED.
+Status: DRAFTING / CHAPTER 07 PUBLISHED.
 
 Current manuscript frontier:
-06 — Back on the Hook.
-
-Next executable chapter:
 07 — The Old Shelf.
 
+Next executable chapter:
+08 — Throw It Away.
+
 Current day:
-Day 7 after Tūtū Lehua's death, afternoon.
+Day 8 after Tūtū Lehua's death.
 
 Current supernatural confirmation:
 none.
 
-Current reader-facing anomaly:
-- Chapter 04 blue-cup older-position discrepancy, human-plausible
-- Chapter 06 front-key custody puzzle, human-plausible
+Current reader-facing pattern:
+- Chapter 04 blue cup occupies Nohea's old shelf position
+- Chapter 06 front-key custody gap remains human-plausible
+- Chapter 07 multiple current kitchen objects collectively recreate an older household arrangement while each individual movement remains human-plausible
 
-Chapter Six establishes:
-- Kalei visibly takes the front key
-- the key later returns to its exact normal position before Malia sees Kalei return
-- multiple living-person handoff paths remain possible
-- Malia creates a written custody timeline
-- Malia realizes normal key placement is broadly known household behavior, not private Lehua knowledge
-- Malia secretly leaves the key slightly wrong as a test
-
-Chapter Six exit:
-Malia turns the leather loop forward and leaves the key leaning slightly right.
-She lies to Nalani about testing anything.
-She decides to observe what happens without telling anyone.
+Chapter Seven establishes:
+- Malia's private key test fails because Koa used and rehung the key normally
+- old shelf arrangement: children high, adults middle, work cups lower in the relevant era
+- Malia high-left, Nohea high-right
+- family members confirm the old pattern from different memories
+- Nohea used to steal Malia's cup because she claimed water tasted colder from it
+- Malia adopts working phrase: **wrong in time**
 
 Current author truth:
 the family place restores / reasserts repeated household arrangements; exact cosmology unresolved.
 
 Next plain **continue**:
-draft Chapter 07 — The Old Shelf.
+run rolling audit, then draft Chapter 08 — Throw It Away.
