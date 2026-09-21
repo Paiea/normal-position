@@ -8,7 +8,7 @@ Working title: **Normal Position**
 
 A family returns to an island ancestral compound after the death of its matriarch.
 
-Mara Orlan, 34, notices where things belong for a living. She supervises housekeeping at an off-island hotel and is unusually good at seeing when a room has been used, reset badly, or altered by inches.
+Malia Kealoha, 34, notices where things belong for a living. She supervises housekeeping at an off-island hotel and is unusually good at seeing when a room has been used, reset badly, or altered by inches.
 
 At her grandmother's house, ordinary objects begin returning to older positions:
 - a key back on its hook
@@ -50,13 +50,13 @@ Understanding more should not automatically make the characters feel safer.
 
 ## POV
 
-Close third person centered on **Mara Orlan**.
+Close third person centered on **Malia Kealoha**.
 
 Do not use multi-POV unless a later structural audit proves it necessary.
 
 ## Protagonist
 
-Mara Orlan, 34.
+Malia Kealoha, 34.
 
 Profession:
 housekeeping operations supervisor at a large off-island hotel.
@@ -86,7 +86,7 @@ Working island: **Veyra Island**.
 Working village: **Salen**.
 
 Primary location:
-the Orlan family compound.
+the Kealoha family compound.
 
 Working layout:
 1. stone living / sleeping house
@@ -100,13 +100,13 @@ Exact map must be built before Chapter One.
 
 ## Dead matriarch
 
-**Adela Orlan**, 81.
+**Lehua Kealoha**, 81.
 
 Recently dead before Chapter One.
 
-Mara learned many of her placement habits from Adela.
+Malia learned many of her placement habits from Lehua.
 
-Adela was:
+Lehua was:
 - observant
 - exacting
 - useful
@@ -120,22 +120,22 @@ Her household logic should remain useful enough that characters understand why i
 
 ## Core family
 
-- Mara Orlan, 34
-- Celina Orlan, 58, Mara's mother
-- Inez Orlan, 62, Celina's older sister and Adela's long-term caregiver
-- Tomas Orlan, 37, Inez's son; boat and engine repair; stayed on island
-- Lio Orlan, 16, Tomas's son
-- Lea Orlan, Mara's younger sister, died in childhood during a major storm
+- Malia Kealoha, 34
+- Nalani Kealoha, 58, Malia's mother
+- Kalei Kealoha, 62, Nalani's older sister and Lehua's long-term caregiver
+- Keoni Kealoha, 37, Kalei's son; boat and engine repair; stayed on island
+- Koa Kealoha, 16, Keoni's son
+- Nohea Kealoha, Malia's younger sister, died in childhood during a major storm
 
 Working ages remain mutable until Chapter One lock.
 
 ## Buried family wound
 
-Lea's death is the family's oldest unresolved fracture.
+Nohea's death is the family's oldest unresolved fracture.
 
 The public family version is incomplete.
 
-Do not turn the entire book into a whodunit about Lea.
+Do not turn the entire book into a whodunit about Nohea.
 
 The horror should use the old wound to pressure current relationships, object history, and definitions of care.
 
@@ -154,7 +154,7 @@ LOCKED AT CONCEPT LEVEL:
 
 NOT YET LOCKED:
 - whether one consciousness causes the phenomenon
-- whether Adela understood it fully
+- whether Lehua understood it fully
 - whether the house is memory, spirit, place, family pattern, or something less nameable
 - exact limit on how far an object may move
 - exact condition under which bodily coercion begins
@@ -202,6 +202,6 @@ Published frontier:
 Chapter 04 — The Wrong Cup.
 
 Next action:
-Chapter 05 — Adela's Room.
+Chapter 05 — Lehua's Room.
 
 A plain **continue** executes the full chapter pipeline.
