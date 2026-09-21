@@ -13,12 +13,12 @@ Twenty-four years before Chapter One:
 - Nohea Kealoha, Malia's younger sister, is 7.
 - A severe island storm is already underway.
 - Lehua runs the household's storm procedure with extreme precision.
-- Nalani and her daughters are staying at the compound.
+- Nalani and her daughters are staying at the family place.
 - Kalei and young Keoni are also present.
 
 ### The immediate problem
 
-Earlier that day, Nohea hides a small personal item in the detached kitchen house after an argument with Malia.
+Earlier that day, Nohea hides a small personal item in the detached cookhouse after an argument with Malia.
 
 Working object:
 a cheap painted tin whistle.
@@ -75,7 +75,7 @@ Nalani tried to open the door.
 
 Lehua stopped her.
 
-Nalani has spent decades treating leaving the island as the only morally survivable response.
+Nalani has spent decades treating leaving Hawaiʻi Island as the only morally survivable response.
 
 She has never forgiven Lehua.
 
@@ -129,12 +129,12 @@ She allowed:
 She did not publicly confess:
 "I knew she was outside and chose to wait."
 
-After Nohea's death, Lehua aggressively reorganized the compound:
+After Nohea's death, Lehua aggressively reorganized the family place:
 - Nohea's sleeping place removed
 - child belongings boxed
 - cup reassigned / removed
 - routes and chores changed
-- kitchen rebuilt / repaired
+- cookhouse rebuilt / repaired
 - storm rules tightened
 - normal positions standardized even more strongly
 
@@ -144,7 +144,7 @@ This is when Malia's childhood training in exact placement became especially int
 
 The supernatural pattern is NOT "Nohea wants revenge."
 
-The compound's returning arrangements gradually reach toward the last deeply repeated household configuration in which Nohea still occupied a place.
+The family place's returning arrangements gradually reach toward the last deeply repeated household configuration in which Nohea still occupied a place.
 
 Lehua's later decades of forced order sit on top of that older layer.
 
