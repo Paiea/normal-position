@@ -1,6 +1,6 @@
 # NORMAL POSITION — PROJECT STATE
 
-Status: DRAFTING / CHAPTER 03 PUBLISHED
+Status: DRAFTING / CHAPTER 04 PUBLISHED
 
 Working title: **Normal Position**
 
@@ -199,9 +199,9 @@ Pre-draft readiness audit:
 **PASS.**
 
 Published frontier:
-Chapter 03 — Current Normal.
+Chapter 04 — The Wrong Cup.
 
 Next action:
-Chapter 04 — The Wrong Cup.
+Chapter 05 — Adela's Room.
 
 A plain **continue** executes the full chapter pipeline.
