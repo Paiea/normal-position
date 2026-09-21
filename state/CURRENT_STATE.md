@@ -6,10 +6,10 @@ Current manuscript frontier:
 04 — The Wrong Cup.
 
 Next executable chapter:
-05 — Adela's Room.
+05 — Lehua's Room.
 
 Current day:
-Day 5 after Adela's death, evening.
+Day 5 after Lehua's death, evening.
 
 Current supernatural confirmation:
 none.
@@ -19,16 +19,16 @@ first older-position discrepancy, still fully human-plausible.
 
 Chapter Four establishes:
 - current blue cup belongs on lower everyday shelf
-- far-right position on old top shelf was Lea's childhood cup position
-- Lea's childhood cup was yellow with painted flowers
+- far-right position on old top shelf was Nohea's childhood cup position
+- Nohea's childhood cup was yellow with painted flowers
 - ordinary visitors do mis-shelve cups
-- Celina and Inez recognize older shelf history before Mara does
+- Nalani and Kalei recognize older shelf history before Malia does
 
 Chapter Four exit:
-Celina quietly says the far-right top shelf used to be Lea's side.
+Nalani quietly says the far-right top shelf used to be Nohea's side.
 
 Current author truth:
 compound restores / reasserts repeated household arrangements; exact cosmology unresolved.
 
 Next plain **continue**:
-draft Chapter 05 — Adela's Room.
+draft Chapter 05 — Lehua's Room.
