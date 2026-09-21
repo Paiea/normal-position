@@ -8,7 +8,7 @@ None of that was remarkable.
 
 That was what bothered Malia about noticing it.
 
-She had been off the ferry less than forty minutes, had walked up from Salen with one travel bag cutting into her shoulder, and already her mind was doing inventory.
+She had landed in Hilo less than ninety minutes ago, had been dropped at the Kealoha place with one travel bag cutting into her shoulder, and already her mind was doing inventory.
 
 Main house open.
 
@@ -56,9 +56,9 @@ Good. Current problem. Current solution. Nothing to do with Lehua.
 
 Malia crossed the yard.
 
-The compound made more sense from inside it.
+The family place made more sense from inside the gate.
 
-The main house sat north, broad and low, stone walls darkened by years of salt and rain. The kitchen house stood apart to the southeast, newer masonry under an older roofline. West of the yard, the gear house had both doors open, and Keoni was half inside an engine casing with his shoulders braced against the frame.
+The main house sat uphill, broad and low, old wood siding silvered by rain beneath a corrugated roof. The detached cookhouse stood to the southeast, newer than the main house but built on an older concrete pad. West of the yard, the workshop had both doors open, and Keoni was half inside an engine casing with his shoulders braced against the frame.
 
 He saw Malia and raised one greasy hand.
 
@@ -70,7 +70,7 @@ He saw Malia and raised one greasy hand.
 
 Malia glanced back toward the village path.
 
-Keoni smiled without leaving the engine. "You're just still on city time."
+Keoni smiled without leaving the engine. "You still move like Waikīkī is timing you."
 
 "I live twenty minutes from my hotel."
 
@@ -190,7 +190,7 @@ The kitchen house was hotter than the yard and twice as crowded.
 
 Kalei stood at the worktable with a repair basket open beside her, stitching the corner of a serving cloth while a pot simmered behind her. Two covered trays waited near the door. A neighbor Malia recognized but could not name was slicing fruit. Another woman was rinsing cups.
 
-Keeping Days.
+The days after Tūtū Lehua died.
 
 Not stillness. Work.
 
@@ -534,7 +534,7 @@ One inch away from the wall.
 
 A reasonable compromise.
 
-By late afternoon, the compound had changed shape three times without anything unusual happening.
+By late afternoon, the place had changed shape three times without anything unusual happening.
 
 Visitors arrived and left.
 
@@ -574,7 +574,7 @@ Neither of them said anything else.
 
 At sunset, the last visitors left.
 
-The village path beyond the gate quieted by degrees.
+The road beyond the gate quieted by degrees.
 
 Kalei and Koa carried dishes to the kitchen house.
 
@@ -606,7 +606,7 @@ Work got quieter when everyone was tired enough.
 
 Kalei put the remaining food away.
 
-Koa checked the cistern lid because she told him to.
+Koa checked the catchment tank cover because she told him to.
 
 Malia wiped the table.
 
