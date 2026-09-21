@@ -9,7 +9,7 @@ Status: ACTIVE STORY AUTHORITY.
 A household's routines preserve care, memory, efficiency, power, and coercion at the same time.
 
 The supernatural pressure literalizes this:
-the Orlan compound begins returning objects to older arrangements.
+the Kealoha compound begins returning objects to older arrangements.
 
 The frightening escalation is not random motion.
 
@@ -35,9 +35,9 @@ Horror comes from:
 Approx. Chapters 1-7.
 
 Jobs:
-- establish Mara's object-reading competence
+- establish Malia's object-reading competence
 - establish family compound and cultural labor
-- establish Adela's death and Keeping Days
+- establish Lehua's death and Keeping Days
 - establish family relationships without making everyone orbit the haunting
 - establish boring normal positions
 - first small return
@@ -55,8 +55,8 @@ Jobs:
 - private spaces are entered / reset
 - one object returns after confirmed disposal
 - old household arrangement begins emerging
-- Lea's presence enters through material history, not ghost exposition
-- Mara's resetting habit starts helping the wrong process
+- Nohea's presence enters through material history, not ghost exposition
+- Malia's resetting habit starts helping the wrong process
 
 Human manipulation must remain plausible in several incidents.
 
@@ -64,12 +64,12 @@ Human manipulation must remain plausible in several incidents.
 Approx. Chapters 16-24.
 
 Jobs:
-- prove the house is restoring more than Adela's recent habits
+- prove the house is restoring more than Lehua's recent habits
 - conflicting time layers appear
 - family secrets stop being containable
-- Mara learns Adela used placement as surveillance / control
-- Inez makes a present-tense choice Mara understands and rejects
-- Tomas / Lio retain independent goals
+- Malia learns Lehua used placement as surveillance / control
+- Kalei makes a present-tense choice Malia understands and rejects
+- Keoni / Koa retain independent goals
 - the house begins using routes, doors, furniture, and stored objects to assign human positions
 - a major storm increases practical pressure without causing the supernatural phenomenon
 
@@ -80,7 +80,7 @@ Approx. Chapters 25-31.
 
 Jobs:
 - old family configuration becomes physically coercive
-- house attempts to re-establish a "whole" arrangement associated with Lea's final period
+- house attempts to re-establish a "whole" arrangement associated with Nohea's final period
 - characters cannot solve it by finding one cursed object
 - family must deliberately change ownership, use, routes, rooms, and routines
 - climax synthesizes object rules, architecture, storm labor, and family choices
@@ -95,24 +95,24 @@ Jobs:
 - relationships remain imperfect
 - one small object event preserves uncertainty
 
-## Lea Orlan
+## Nohea Kealoha
 
-Lea was Mara's younger sister.
+Nohea was Malia's younger sister.
 
 She died during a major storm in childhood.
 
 Locked:
 - her death changed the family permanently
-- Mara's memory is incomplete but not fabricated
+- Malia's memory is incomplete but not fabricated
 - the family simplified the public story
-- Adela's household control is materially relevant
-- Lea's objects and places were gradually removed or reassigned
+- Lehua's household control is materially relevant
+- Nohea's objects and places were gradually removed or reassigned
 
 Not yet locked:
 - exact physical mechanism of death
 - who made which fatal decision
 - which adult concealed what
-- whether any current character directly lied to child Mara
+- whether any current character directly lied to child Malia
 
 Lock these before Chapter 10 contracts are finalized.
 
