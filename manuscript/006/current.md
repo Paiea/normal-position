@@ -686,6 +686,284 @@ Malia went back inside.
 
 The key remained on the hook.
 
+Before she touched it, she took out Nalani's inventory pencil and a blank page from the stack.
+
+Nalani saw.
+
+"Oh, no."
+
+"I'm not doing anything."
+
+"You're getting paper."
+
+"Paper isn't an action."
+
+"It is with you."
+
+Malia ignored her.
+
+She wrote:
+
+KALEI TO NANI'S.
+
+Then:
+
+KEY WITH KALEI.
+
+Under that she left space.
+
+Nalani leaned over.
+
+"You are making a key timeline."
+
+"I'm checking whether I'm remembering correctly."
+
+"You are making a key timeline."
+
+Malia put the pencil down.
+
+"Fine."
+
+"That is insane."
+
+"It is five lines."
+
+"Five insane lines."
+
+Malia picked the pencil back up.
+
+"Koa says he didn't touch it."
+
+Nalani poured more coffee.
+
+"Write that down for the police."
+
+"Keoni says he didn't."
+
+"Call the governor."
+
+"Kalei doesn't remember."
+
+"Tragic."
+
+Malia stared at her mother.
+
+Nalani drank.
+
+Malia wrote anyway.
+
+Then Koa came back through the room carrying a plastic grocery bag.
+
+Malia pointed at it.
+
+"Where did that come from?"
+
+He stopped.
+
+"Aunty Nani."
+
+"When?"
+
+"Just now."
+
+"You went there?"
+
+"No. Micah dropped it."
+
+Malia looked at the page.
+
+"Micah was here?"
+
+"Yeah."
+
+"When?"
+
+Koa shrugged.
+
+"While you were outside."
+
+"Where did he come in?"
+
+"Front."
+
+Malia looked at the key.
+
+Koa followed her eyes.
+
+"Oh my God."
+
+"Did he have the key?"
+
+"Why would Micah have our key?"
+
+"Kalei said he needed the extension cord."
+
+"He came to get it."
+
+"Did you let him in?"
+
+"The door wasn't locked."
+
+"Then how did he leave?"
+
+Koa stared at her.
+
+"Through the door."
+
+Nalani laughed into her cup.
+
+Malia rubbed her forehead.
+
+"Did he touch the hook?"
+
+"I don't know."
+
+"Was the key there?"
+
+"I don't know."
+
+"Did he bring anything besides the bag?"
+
+"Extension cord."
+
+"From the workshop."
+
+"Yes."
+
+"Then why did he come through the front?"
+
+Koa held up the grocery bag.
+
+"Because Aunty Nani gave him this."
+
+The bag contained two papayas, a bunch of bananas, and a plastic container wrapped in a dish towel.
+
+Malia looked at the container.
+
+"Whose is that?"
+
+Koa said, "Ours."
+
+Nalani said, "Nani's."
+
+Koa looked at her.
+
+Nalani looked into the bag.
+
+"That's her lid. Our container."
+
+Malia closed her eyes.
+
+Of course.
+
+"Did Micah give you the bag?"
+
+"No. Put it on the table."
+
+"Could he have put the key back?"
+
+Koa stared at her long enough to become insulting.
+
+"Sure."
+
+"Did he?"
+
+"I don't know."
+
+"Would he know how it hangs?"
+
+"Everybody knows how Tūtū hung that key."
+
+The room went quiet.
+
+Not dramatically.
+
+Just enough.
+
+Malia looked at Koa.
+
+"Everybody?"
+
+He shrugged.
+
+"If you've been here."
+
+Nalani said, "There you go."
+
+Malia looked at the hook.
+
+Straight key.
+
+Loop behind.
+
+A pattern she had thought belonged to Lehua's hands and her own memory.
+
+Except patterns became household knowledge if they happened every day for decades.
+
+Koa took the bananas from the bag.
+
+"Also, Kalei could've given the key to Micah at Nani's."
+
+Malia looked at him.
+
+"She said she didn't."
+
+"She said she didn't remember."
+
+"Different."
+
+"Exactly."
+
+He took one banana and left the rest.
+
+Malia looked at the page.
+
+KALEI TO NANI'S.
+
+KEY WITH KALEI.
+
+Below it:
+
+MICAH HERE.
+
+DOOR UNLOCKED.
+
+Then she added:
+
+POSSIBLE HANDOFF UNKNOWN.
+
+Nalani read over her shoulder.
+
+"Congratulations."
+
+"For what?"
+
+"You invented family."
+
+Malia looked at her.
+
+Nalani pointed with the coffee cup.
+
+"People pass things. People forget. Somebody carries food. Somebody grabs a cord. Somebody puts a key back. Nobody files a report."
+
+Malia folded the page.
+
+"You're enjoying this too much."
+
+"I have waited thirty-four years for your personality to become inconvenient to you."
+
+"That's loving."
+
+"I'm your mother."
+
+Malia put the folded page under the inventory stack.
+
+She did not throw it away.
+
+That bothered her more than writing it had.
+
+The key remained on the hook.
+
 She took it down.
 
 Heavy.
