@@ -1,6 +1,6 @@
 # NORMAL POSITION — FAMILY PLACE MAP
 
-Status: ACTIVE PHYSICAL CANON THROUGH CHAPTER 10.
+Status: ACTIVE PHYSICAL CANON THROUGH CHAPTER 13.
 
 ## Setting
 
@@ -48,6 +48,8 @@ Working interior:
 - Tūtū Lehua's room east
 - Kalei's habitual room west
 - two flexible rear / mauka sleeping rooms
+- one flexible north room historically contained Nohea's childhood sleeping side along the east wall
+- current north-room use is guest / storage / overflow, not memorial
 - storage chests / built-ins
 - front shelf with current spare storm lantern position
 
