@@ -29,12 +29,12 @@ Chapter 04 event:
 found on top shelf, far-right position.
 
 Historical significance:
-far-right top-shelf position was Lea's childhood side.
+far-right top-shelf position was Nohea's childhood side.
 
 Known human path:
 multiple visitors wash dishes.
-Mrs. Aren may have placed it high.
-Later another visitor demonstrably puts a pale everyday cup high, and Lio corrects it.
+Aunty Nani may have placed it high.
+Later another visitor demonstrably puts a pale everyday cup high, and Koa corrects it.
 
 Current:
 returned to lower shelf.
@@ -42,39 +42,39 @@ returned to lower shelf.
 Supernatural status:
 none / unresolved event.
 
-### Lea's childhood cup
+### Nohea's childhood cup
 No longer in current household baseline.
 Historical:
 yellow with painted flowers.
 Far-right top-shelf position.
-Lea complained one flower looked like a chicken.
+Nohea complained one flower looked like a chicken.
 Do not magically reintroduce this original cup without explicit authority.
 
 ## Spare storm lantern
 Old normal: gear-house top peg.
 Current normal: main-house front shelf.
-Reason changed: Adela's mobility.
+Reason changed: Lehua's mobility.
 Supernatural status: none.
 
 ## Return rack
 Kitchen-door household-return system.
 Supernatural status: none.
 
-## Adela's comb
+## Lehua's comb
 Normal location:
-Adela's sleeping area.
+Lehua's sleeping area.
 Reader normal:
 not yet established in prose.
 Chapter 05 may establish it through ordinary access / care.
 
-## Mara's travel bag
+## Malia's travel bag
 Current:
 under bed, zipped.
 Human-moved in Chapter 02.
 
-## Tomas's tool roll
+## Keoni's tool roll
 Reader baseline:
 not yet sufficiently established.
 
-## Inez's repair basket
+## Kalei's repair basket
 Ordinary household repair object.
