@@ -9,7 +9,7 @@ Status: ACTIVE STORY AUTHORITY.
 A household's routines preserve care, memory, efficiency, power, and coercion at the same time.
 
 The supernatural pressure literalizes this:
-the Kealoha compound begins returning objects to older arrangements.
+the Kealoha family place begins returning objects to older arrangements.
 
 The frightening escalation is not random motion.
 
@@ -36,8 +36,8 @@ Approx. Chapters 1-7.
 
 Jobs:
 - establish Malia's object-reading competence
-- establish family compound and cultural labor
-- establish Lehua's death and Keeping Days
+- establish family place and cultural labor
+- establish Tūtū Lehua's death and the crowded days around the service
 - establish family relationships without making everyone orbit the haunting
 - establish boring normal positions
 - first small return
@@ -137,7 +137,9 @@ No endless new powers.
 ## Final thematic pressure
 
 The book should not conclude:
-"tradition bad" or "family bad."
+"Hawaiian tradition bad," "family bad," or "kuleana traps you."
+
+The supernatural pressure is one family's frozen household logic, not Hawaiian culture itself.
 
 It should distinguish:
 
