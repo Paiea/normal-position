@@ -9,7 +9,7 @@ Update after every published chapter.
 Book opens during the first days after Adela Orlan's death.
 
 Exact calendar / season:
-TBD before Chapter One.
+Book opens on Day 2 after Adela's death during the island's storm season. The working Book One span is about 10 days, with the severe storm peaking around Day 9 and aftermath on Day 10.
 
 Weather:
 island climate; major storm arrives in late book, but ordinary wind / rain must exist throughout without constant gothic signaling.
