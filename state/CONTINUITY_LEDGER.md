@@ -1,98 +1,92 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 10.
+Status: ACTIVE THROUGH CHAPTER 11.
 
 ## Time
 Current:
 Day 11 after Tūtū Lehua's death.
 
-## Supernatural state
-No clean supernatural confirmation through Chapter 10.
+## Route canon
 
-Chapter 10 contains no anomaly.
+### Current everyday route
+From main house / lanai:
+- enter central yard
+- angle toward cookhouse west-facing main door
+- normal food / visitor traffic uses west door
 
-## Keoni's workshop baseline
+### Historical route
+Older household traffic:
+- cut diagonally from main house toward north side of older cookhouse
 
-The workshop is not visually standardized.
+Rebuilt cookhouse:
+- occupies similar working footprint
+- retains narrow north-side service access near old approach zone
+- service door remains usable but is not normal current food / visitor entrance
 
-Order operates through:
+## Chapter 11 convergence
 
-### Job state
-Current jobs cluster at main bench.
+Independent movements:
 
-### Functional zone
-Electrical, fuel, pump, hardware, rope, salvage, and current repair zones overlap but are legible to Keoni.
+### Kalei
+moves laundry line east for better sun.
 
-### Sequence
-Disassembled parts may be laid out in removal order so reassembly reverses the sequence.
+### Keoni
+removes / coils hose after catchment work, clearing part of yard.
 
-### Material condition
-Rust / cosmetic damage does not equal useless.
-A clean-looking part may be unusable because dimensions are wrong.
+### Koa
+moves school-project folding table because lanai crosswind interferes with glue / poster work.
 
-### Future use
-Broken parts may remain as:
-- templates
-- donor parts
-- rebuild candidates
-- drip protection
-- known-good salvage
+### Nalani
+stacks archive boxes in a dry shaded location that narrows part of current central circulation.
 
-### Local markings
-Blue tape / paint marks carry job-specific information.
+### Aunty Nani
+carries cooler around current obstruction and uses north service door.
 
-This system is not fully transferable to Malia without instruction.
+Aggregate:
+these choices clear a continuous diagonal from main house toward north-side cookhouse access.
 
-## Chapter 10 human-residue event
+No one coordinates the arrangement.
 
-Missing object:
-Keoni's long-nose pliers.
+## Ground state
 
-Evidence:
-- fresh crimped wire
-- bright exposed copper
-- poor crimp quality
-- recent porch-light problem
+There is:
+- no worn path
+- no exposed historical trail
+- no preserved groove
+- no hidden marker
 
-Keoni infers:
-Aunty Nani borrowed them.
+The route exists because present-day obstructions have moved elsewhere.
 
-Aunty Nani confirms by phone.
-Pliers are in her kitchen and due back.
+## Historical verification
 
-No supernatural implication.
+Kalei:
+remembers older route and old cookhouse approach.
 
-## Koa tool behavior
+Nalani:
+independently remembers crossing the yard north-ish toward older kitchen.
 
-Chapter 10:
-Koa uses side cutters and zip ties for school-poster frame repair.
-He had previously failed to return the cutters.
-He returns them correctly after current use.
+Keoni:
+confirms the current diagonal has fewer turns / is physically clearer today.
 
-## Nohea ordinary memory
+Koa:
+initially treats the route only as a practical clear way.
 
-Keoni remembers Nohea borrowing / taking one of his screwdrivers to open Malia's plastic unicorn battery / sound compartment.
+## Nohea
 
-She returned the screwdriver to the kitchen towel drawer.
+Nohea likely used the old route because it was normal household circulation.
 
-This memory is ordinary, irritating, and non-storm-related.
+Important:
+the route predates and exceeds the fatal storm.
+Do not collapse its meaning into Nohea's death.
 
-## Relationships
+## Supernatural baseline
 
-### Malia / Keoni
-Malia now explicitly recognizes Keoni as an expert whose object system she cannot read automatically.
+No clean supernatural event through Chapter 11.
 
-Keoni continues resisting Malia's attempts to reduce every normal position to one universal rule.
-
-### Malia / Nohea memory
-Nohea appears through cousin / sibling nuisance rather than tragedy.
+Preference phase has begun through spatial convergence, not impossible movement.
 
 ## Next pressure
 
-Chapter 11 begins preference phase.
-
-The shift must be:
-object pattern -> spatial route.
-
-Every component of the old route remains human-plausible.
-No autonomous movement.
+Chapter 12:
+Malia helps restore present-day yard circulation openly.
+Independent practical choices should again make the old diagonal easier without anyone intending the historical route.
