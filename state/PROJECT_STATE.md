@@ -1,6 +1,6 @@
 # NORMAL POSITION — PROJECT STATE
 
-Status: DRAFTING / CHAPTER 12 PUBLISHED
+Status: DRAFTING / CHAPTER 13 PUBLISHED
 
 Working title: **Normal Position**
 
@@ -206,9 +206,9 @@ Pre-draft readiness audit:
 **PASS.**
 
 Published frontier:
-Chapter 12 — The Clear Way.
+Chapter 13 — Nohea's Place.
 
 Next action:
-Chapter 13 — Nohea's Place.
+Chapter 14 — Same Answer.
 
 A plain **continue** executes the full chapter pipeline.
