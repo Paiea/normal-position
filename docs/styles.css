@@ -1,0 +1,45 @@
+:root{
+  --night:#0e1110;--night2:#151a17;--paper:#e9e4d8;--soft:#b8b7aa;
+  --muted:#7f857d;--line:rgba(233,228,216,.13);--moss:#80917e;--rust:#8b5f4c;
+  --max:82rem;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;background:var(--night)}
+body{
+  margin:0;color:var(--paper);font-family:Georgia,"Times New Roman",serif;line-height:1.65;
+  background:
+    radial-gradient(circle at 12% 10%,rgba(128,145,126,.09),transparent 29rem),
+    radial-gradient(circle at 88% 28%,rgba(139,95,76,.06),transparent 32rem),
+    linear-gradient(180deg,#101411,var(--night) 48rem,#0b0e0c);
+}
+a{color:inherit}.shell{width:min(calc(100% - 2rem),var(--max));margin:auto}
+.small{font:800 .66rem/1.3 ui-sans-serif,system-ui,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--moss)}
+.sitebar{position:sticky;top:0;z-index:20;background:rgba(10,13,11,.88);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.sitebar .shell{min-height:3.6rem;display:flex;align-items:center;justify-content:space-between;gap:1rem}
+.brand{text-decoration:none;font:800 .68rem/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase}
+.nav{display:flex;gap:1rem}.nav a{text-decoration:none;color:var(--muted);font:700 .66rem/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.1em;text-transform:uppercase}
+.hero{min-height:86vh;display:grid;align-items:center;padding:5rem 0 4rem}
+.hero-grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(18rem,.55fr);gap:clamp(2rem,7vw,7rem);align-items:end}
+h1{margin:.45rem 0 .5rem;max-width:10ch;font-size:clamp(4rem,10vw,8.5rem);line-height:.82;letter-spacing:-.06em;font-weight:500}
+.hero-line{max-width:31rem;font-size:clamp(1.2rem,2.1vw,1.6rem);color:var(--soft)}
+.room{border:1px solid var(--line);padding:1.1rem;background:rgba(255,255,255,.018)}
+.room-title{display:flex;justify-content:space-between;gap:1rem;border-bottom:1px solid var(--line);padding-bottom:.7rem;margin-bottom:.7rem}
+.room-title span:last-child{color:var(--rust)}
+.object-row{display:grid;grid-template-columns:1fr auto;gap:1rem;padding:.75rem 0;border-bottom:1px solid var(--line);color:var(--soft)}
+.object-row:last-child{border-bottom:0}.object-row b{font:700 .66rem/1.4 ui-sans-serif,system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.object-row.wrong span{color:var(--paper)}.object-row.wrong b{color:#c48b72}
+.section{padding:clamp(4.5rem,8vw,7.5rem) 0;border-top:1px solid var(--line)}
+.section-grid{display:grid;grid-template-columns:minmax(0,.9fr) minmax(18rem,.65fr);gap:clamp(2rem,7vw,7rem)}
+h2{margin:.45rem 0 0;font-size:clamp(2.7rem,5.7vw,5.2rem);line-height:.92;letter-spacing:-.05em;font-weight:500;max-width:12ch}
+.copy{color:var(--soft);font-size:1.06rem}.copy p:first-child{margin-top:.45rem}
+.rules{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line);margin-top:3rem}
+.rule{background:var(--night2);padding:2rem}.rule span{color:var(--rust);font:800 .65rem/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.13em}.rule h3{font-weight:500;font-size:1.35rem;margin:.7rem 0}.rule p{color:var(--soft);margin:0}
+.pull{max-width:21ch;font-size:clamp(2rem,4.5vw,4.3rem);line-height:1.03;letter-spacing:-.04em;margin:0}.pull em{font-style:normal;color:#c4b09a}
+.reader-top{display:flex;align-items:end;justify-content:space-between;gap:2rem;border-bottom:1px solid var(--line);padding-bottom:1rem}
+.reader-top h2{font-size:clamp(2.4rem,5vw,4rem)}.reader-meta{color:var(--muted);font:650 .72rem/1.4 ui-sans-serif,system-ui,sans-serif}
+.empty{padding:1.4rem 0;color:var(--muted)}
+.chapter{display:grid;grid-template-columns:4rem 1fr auto;gap:1rem;padding:1.05rem 0;border-bottom:1px solid var(--line);text-decoration:none}
+.chapter-no{color:var(--rust);font:800 .66rem/1 ui-sans-serif,system-ui,sans-serif}.chapter-title{font-size:1.1rem}.chapter-go{color:var(--muted);font:800 .64rem/1 ui-sans-serif,system-ui,sans-serif;text-transform:uppercase;letter-spacing:.08em}
+.footer{padding:1.5rem 0 2.5rem;border-top:1px solid var(--line);color:var(--muted);font:600 .68rem/1.5 ui-sans-serif,system-ui,sans-serif}
+.footer .shell{display:flex;justify-content:space-between;gap:1rem}
+@media(max-width:800px){.hero-grid,.section-grid{grid-template-columns:1fr}.rules{grid-template-columns:1fr}.nav a:not(:last-child){display:none}}
