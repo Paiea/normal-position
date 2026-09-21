@@ -1,87 +1,89 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 06.
+Status: ACTIVE THROUGH CHAPTER 07.
 
 ## Front key
 
-Owner:
-family / household access.
-
 Normal:
 high hook beside main-house front door.
+Straight against wall.
+Leather loop behind.
 
-Normal orientation:
-straight against wall.
-Leather loop flat behind.
+Chapter 06 test:
+Malia left it leaning right with loop forward.
 
-Known normal users:
-Kalei, Keoni, Nalani, Malia, other trusted household members as needed.
+Chapter 07 result:
+Koa used it later and rehung it in normal orientation.
 
-Household knowledge:
-Koa states that people familiar with the house know how Tūtū Lehua habitually hung the key.
-
-### Chapter 06 custody event
-
-Observed:
-- Kalei takes key in rain jacket
-- later key is back on hook in exact normal state
-
-Unobserved:
-- precise return path
-
-Plausible living-person routes:
-- Kalei handed it off and forgot
-- Micah interacted with house / front door during interval
-- another household member handled it without noticing significance
-
-Current interpretation:
-unresolved / human-plausible.
+Interpretation:
+test failed to produce anomalous evidence.
 
 Supernatural status:
 none confirmed.
 
-### Malia's test
+## Kitchen shelf
 
-At Chapter 06 exit Malia deliberately sets:
-- key leaning slightly right
-- leather loop forward
+### Current normal
+- lower: everyday glazed cups
+- middle: metal / work vessels
+- top: white visitor cups
 
-This is NOT normal.
+### Older childhood grammar
+Approximate:
+- children high
+  - Malia left
+  - Nohea right
+- adults middle
+- work / metal lower in the relevant period
 
-Only Malia knowingly created the test.
-Nalani may have seen her manipulate the key and suspects a test, but Malia denies it.
+Exact adult positions vary by era.
 
-Do not rewrite this orientation before Chapter 07 check.
+### Chapter 07 event
+Current objects collectively occupy older grammar:
+- pale chipped cup top-left
+- blue cup top-right
+- brown cup middle-left
+- pale cup near middle-center
+- green cracked cup middle-right
+- multiple metal cups lower
+- white visitor cups displaced downward / inward
 
-## Kitchen cups
+Known human movements explain several individual placements.
+
+No known person claims to have arranged the whole pattern intentionally.
+
+Malia restores current shelf afterward.
+
+Supernatural status:
+pattern supported, agency unconfirmed.
+
+## Blue cup
 Current normal:
-lower everyday / middle metal-work / top white visitor.
-
-Blue-cup Chapter 04 event:
-unresolved / human-plausible.
+lower shelf.
+Historical position association:
+Chapter 04 / 07 top-right corresponds to Nohea's old side.
 
 ## Tūtū Lehua's comb
-Normal:
-shallow ceramic dish beside washstand.
+Current:
+normal dish beside washstand.
 No anomaly.
 
 ## Spare storm lantern
-Old normal:
-workshop top peg.
 Current:
 main-house front shelf.
-Human reason established.
-
-## Catchment filter
-Ordinary infrastructure.
-Cleaned by Keoni / Koa in Chapter 06 after leaf / roof debris clog.
-Not evidence.
+Old:
+workshop top peg.
+Human relocation history established.
 
 ## Malia's key timeline
 Folded paper under inventory stack.
-Records partial custody reconstruction.
-Created Chapter 06.
-Private surveillance artifact, not supernatural evidence.
+Evidence of Malia's surveillance tendency, not supernatural evidence.
 
-## Other objects
-No change.
+## Next Chapter 08 object
+Choose a Lehua-owned ordinary item with:
+- clear ownership
+- no sacred / culturally loaded significance
+- plausible reason Nalani wants it removed
+- no need to return
+
+Do NOT use comb yet.
