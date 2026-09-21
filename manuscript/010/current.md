@@ -1174,6 +1174,54 @@ It had become less hers.
 
 That was different.
 
+On the floor near the bench lay a square of oil-dark cardboard.
+
+Malia pointed.
+
+"Trash?"
+
+"No."
+
+She waited.
+
+"Drip mat."
+
+"For what?"
+
+"Whatever leaks next."
+
+"That is the saddest possible system."
+
+"It works."
+
+She looked at the cardboard again.
+
+At the hotel, soaked cardboard meant remove immediately.
+
+Here, this piece had a job because the next leaking thing had not arrived yet.
+
+Even waste could be waiting.
+
+She laughed once.
+
+Keoni looked at her.
+
+"What?"
+
+"Nothing."
+
+He raised an eyebrow.
+
+Malia corrected herself.
+
+"I'm learning."
+
+"Slow."
+
+"Fuck you."
+
+"Better."
+
 Keoni picked up the rebuilt winch.
 
 Malia said, "Normal position depends on the job."
