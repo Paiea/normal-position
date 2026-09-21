@@ -71,11 +71,11 @@
 <section class="section" id="chapters"><div class="shell">
 <div class="reader-top"><div><div class="small">PUBLIC READER</div><h2>Begin at the first wrong thing.</h2></div><div class="reader-meta" id="count">No chapters published yet</div></div>
 <div id="list"></div>
-<div class="empty" id="empty">The house is built. Chapter One has not begun.</div>
+<div class="empty" id="empty">No chapters are currently listed.</div>
 </div></section>
 </main>
 
-<footer class="footer"><div class="shell"><span>Normal Position · by Paiea</span><span>Book One · pre-draft</span></div></footer>
+<footer class="footer"><div class="shell"><span>Normal Position · by Paiea</span><span>Book One · in progress</span></div></footer>
 <script>
 fetch('manifest.json',{cache:'no-store'}).then(r=>r.json()).then(m=>{
  const rs=(m.records||[]).filter(x=>x.published), list=document.getElementById('list'), empty=document.getElementById('empty'), count=document.getElementById('count');
