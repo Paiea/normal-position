@@ -1,6 +1,6 @@
 # Current Normal
 
-Mara woke to somebody moving furniture.
+Malia woke to somebody moving furniture.
 
 Not loudly.
 
@@ -24,35 +24,35 @@ Because it was there.
 
 Or had been there.
 
-Mara lay still for another second, listening.
+Malia lay still for another second, listening.
 
 Another soft knock.
 
-Then Lio's voice through the wall.
+Then Koa's voice through the wall.
 
 "That's not going to fit."
 
-Inez answered, "It fit last year."
+Kalei answered, "It fit last year."
 
 "Last year we didn't have Tessa's mattress."
 
-Mara sat up.
+Malia sat up.
 
 The compound was already negotiating with itself.
 
 She dressed, pushed the bag farther under the bed with her foot so she would not trip over it, and stepped into the main room.
 
-Lio and Inez had moved the writing desk six inches away from the east wall.
+Koa and Kalei had moved the writing desk six inches away from the east wall.
 
 The old wall clock had come down and was resting faceup on a folded cloth.
 
-Celina stood at the table with a pencil in her hand and the expression of someone who had been ambushed by practicality before breakfast.
+Nalani stood at the table with a pencil in her hand and the expression of someone who had been ambushed by practicality before breakfast.
 
-"What happened?" Mara asked.
+"What happened?" Malia asked.
 
-"Wind," Lio said.
+"Wind," Koa said.
 
-Mara looked toward the shutters.
+Malia looked toward the shutters.
 
 "They're closed."
 
@@ -60,11 +60,11 @@ Mara looked toward the shutters.
 
 "Helpful."
 
-Inez had one hand on the desk.
+Kalei had one hand on the desk.
 
 "North hinge on the east shutter is loose."
 
-Mara went to the window.
+Malia went to the window.
 
 The latch held, but the upper hinge had started pulling from the frame. Not badly. Enough.
 
@@ -72,19 +72,19 @@ The latch held, but the upper hinge had started pulling from the frame. Not badl
 
 "We need room to work."
 
-Lio pointed toward the open floor.
+Koa pointed toward the open floor.
 
 A ladder lay there.
 
-Mara looked at the desk again.
+Malia looked at the desk again.
 
 "You could move it back after."
 
-"We will," Inez said.
+"We will," Kalei said.
 
-Celina made a small sound.
+Nalani made a small sound.
 
-Mara turned.
+Malia turned.
 
 "What?"
 
@@ -96,11 +96,11 @@ Mara turned.
 
 "It should be."
 
-Celina tapped her pencil against the inventory page.
+Nalani tapped her pencil against the inventory page.
 
 "I was just admiring the ceremony involved in moving one piece of furniture."
 
-"It's holding your papers," Inez said.
+"It's holding your papers," Kalei said.
 
 "Exactly."
 
@@ -112,23 +112,23 @@ Celina tapped her pencil against the inventory page.
 
 "Because I enjoy consistency."
 
-Mara looked at her.
+Malia looked at her.
 
-Celina looked back.
+Nalani looked back.
 
 Neither of them smiled.
 
-Then Lio said, "I need the storm lantern."
+Then Koa said, "I need the storm lantern."
 
-Mara answered before anyone else.
+Malia answered before anyone else.
 
 "Gear house, left wall."
 
-Lio stared at her.
+Koa stared at her.
 
 "No."
 
-Mara stared back.
+Malia stared back.
 
 "Yes."
 
@@ -138,15 +138,15 @@ Mara stared back.
 
 "That's nice."
 
-Inez had already turned away to check the shutter.
+Kalei had already turned away to check the shutter.
 
-Mara pointed toward the yard.
+Malia pointed toward the yard.
 
 "Top peg just inside the gear house. Brass frame. Black handle."
 
-Lio said, "That hasn't been there for years."
+Koa said, "That hasn't been there for years."
 
-Mara felt the answer hit somewhere annoyingly specific.
+Malia felt the answer hit somewhere annoyingly specific.
 
 "Where is it?"
 
@@ -154,7 +154,7 @@ He pointed behind her.
 
 The spare storm lantern sat on a shelf beside the front door.
 
-Mara looked at it.
+Malia looked at it.
 
 Squat metal body.
 
@@ -168,7 +168,7 @@ Just not where she remembered it.
 
 "Why is it here?"
 
-Lio picked it up.
+Koa picked it up.
 
 "Because it lives here."
 
@@ -182,15 +182,15 @@ He shrugged.
 
 "Since before I started school?"
 
-Mara turned to Inez.
+Malia turned to Kalei.
 
-Inez was pushing a screwdriver into the loosened hinge plate.
+Kalei was pushing a screwdriver into the loosened hinge plate.
 
 "Why did it move?"
 
 "Your grandmother stopped crossing the yard after dark unless somebody was with her."
 
-Mara looked at the lantern again.
+Malia looked at the lantern again.
 
 "So you moved the spare inside."
 
@@ -202,11 +202,11 @@ Mara looked at the lantern again.
 
 "How many?"
 
-Inez thought.
+Kalei thought.
 
 "Seven? Eight?"
 
-Lio lifted the lantern by the handle.
+Koa lifted the lantern by the handle.
 
 "I'm sixteen."
 
@@ -214,7 +214,7 @@ Lio lifted the lantern by the handle.
 
 "You're welcome."
 
-Mara looked toward the gear house through the narrow gap at the front door.
+Malia looked toward the gear house through the narrow gap at the front door.
 
 She could still see the old lantern there.
 
@@ -234,15 +234,15 @@ That memory was real.
 
 The lantern on the shelf in front of her was also real.
 
-"Why do you need it?" Mara asked.
+"Why do you need it?" Malia asked.
 
-Lio nodded toward the shutter hinge.
+Koa nodded toward the shutter hinge.
 
 "Gear house is dark with the storm boards stacked in front of the west window."
 
 "Why not use the work lamp?"
 
-"Tomas has it."
+"Keoni has it."
 
 "Where?"
 
@@ -252,9 +252,9 @@ Lio nodded toward the shutter hinge.
 
 "Working."
 
-Mara frowned.
+Malia frowned.
 
-Lio waited.
+Koa waited.
 
 She gave up first.
 
@@ -262,19 +262,19 @@ She gave up first.
 
 He took the spare lantern across the yard.
 
-Celina watched him leave.
+Nalani watched him leave.
 
 "That bothered you."
 
-Mara went to the table.
+Malia went to the table.
 
 "No."
 
 "You're touching the paper edges."
 
-Mara removed her hands.
+Malia removed her hands.
 
-Celina smiled.
+Nalani smiled.
 
 "Professionally."
 
@@ -284,9 +284,9 @@ Celina smiled.
 
 "Debatable."
 
-Inez climbed one rung of the ladder.
+Kalei climbed one rung of the ladder.
 
-Mara moved beneath it automatically.
+Malia moved beneath it automatically.
 
 "Hold this."
 
@@ -296,7 +296,7 @@ Mara moved beneath it automatically.
 
 The shutter repair took twenty minutes.
 
-Lio came back with the lantern, two hinge pins, a small tin of screws, and a length of wood Inez rejected immediately.
+Koa came back with the lantern, two hinge pins, a small tin of screws, and a length of wood Kalei rejected immediately.
 
 "Too soft."
 
@@ -306,33 +306,33 @@ Lio came back with the lantern, two hinge pins, a small tin of screws, and a len
 
 "That sounds like a family motto."
 
-Celina said, "Put it on the wall."
+Nalani said, "Put it on the wall."
 
-Inez ignored both of them.
+Kalei ignored both of them.
 
-Mara held the ladder.
+Malia held the ladder.
 
-Lio held the lantern.
+Koa held the lantern.
 
-Inez replaced one screw, then another.
+Kalei replaced one screw, then another.
 
 No one spoke for a while.
 
 Work was easier when it did not require consensus.
 
-When the hinge was secure, Inez opened the shutter halfway.
+When the hinge was secure, Kalei opened the shutter halfway.
 
 Wind pressed against it.
 
 The hinge held.
 
-"Good," Mara said.
+"Good," Malia said.
 
-Inez looked down from the ladder.
+Kalei looked down from the ladder.
 
-Mara closed her mouth.
+Malia closed her mouth.
 
-Lio noticed.
+Koa noticed.
 
 He definitely noticed.
 
@@ -340,9 +340,9 @@ He said nothing.
 
 The restraint was offensive.
 
-After breakfast, Tomas came through the gate carrying a length of rope and three small metal brackets in his shirt pocket.
+After breakfast, Keoni came through the gate carrying a length of rope and three small metal brackets in his shirt pocket.
 
-Mara was at the cistern rinsing out the cloth used under the clock.
+Malia was at the cistern rinsing out the cloth used under the clock.
 
 "North cove?" she asked.
 
@@ -350,7 +350,7 @@ He stopped.
 
 "What?"
 
-"Lio said you were working at north cove."
+"Koa said you were working at north cove."
 
 "I was."
 
@@ -366,7 +366,7 @@ He stopped.
 
 "No. I'm trying to decide how much answer you actually want."
 
-Mara wrung the cloth.
+Malia wrung the cloth.
 
 "Enough to know whether you need anything from the gear house."
 
@@ -378,7 +378,7 @@ Mara wrung the cloth.
 
 He crossed toward the west side.
 
-Mara followed.
+Malia followed.
 
 Not because she cared about the winch.
 
@@ -386,9 +386,9 @@ Because she wanted to see the lantern peg.
 
 The gear house smelled of oil, rope, salt, and damp wood.
 
-Tomas dropped the brackets on his workbench.
+Keoni dropped the brackets on his workbench.
 
-Mara looked left.
+Malia looked left.
 
 There.
 
@@ -400,17 +400,17 @@ Of course it was empty.
 
 A coil of fine cord hung from the peg beneath it. Above that, nothing.
 
-"You looking for something?" Tomas asked.
+"You looking for something?" Keoni asked.
 
 "No."
 
 "Good place to do it."
 
-Mara folded her arms.
+Malia folded her arms.
 
 "The spare lantern used to hang there."
 
-Tomas looked.
+Keoni looked.
 
 "Yeah."
 
@@ -424,17 +424,17 @@ He picked up one of the brackets.
 
 "Long."
 
-"Lio says before he started school."
+"Koa says before he started school."
 
 "Could be."
 
-"Inez says seven or eight years."
+"Kalei says seven or eight years."
 
 "Sounds right."
 
-Mara looked at the empty peg.
+Malia looked at the empty peg.
 
-Tomas set the bracket against a piece of scrap wood.
+Keoni set the bracket against a piece of scrap wood.
 
 "Why?"
 
@@ -452,7 +452,7 @@ He did not continue.
 
 "Does that not bother you?"
 
-Tomas looked at her.
+Keoni looked at her.
 
 "No."
 
@@ -464,7 +464,7 @@ Tomas looked at her.
 
 "I'd hoped."
 
-Mara leaned against the doorframe.
+Malia leaned against the doorframe.
 
 "The point is, if you asked me yesterday where that lantern belonged, I would have said here."
 
@@ -472,7 +472,7 @@ Mara leaned against the doorframe.
 
 "I would have been historically correct."
 
-Tomas considered that.
+Keoni considered that.
 
 "That's a very hotel answer."
 
@@ -480,7 +480,7 @@ Tomas considered that.
 
 "It means you found a way to be wrong without losing."
 
-Mara looked at him.
+Malia looked at him.
 
 He smiled once and went back to the bracket.
 
@@ -488,9 +488,9 @@ She hated him a little.
 
 It felt healthy.
 
-Outside, Lio was carrying two folded storm boards from behind the kitchen.
+Outside, Koa was carrying two folded storm boards from behind the kitchen.
 
-Mara watched him lean them against the main house.
+Malia watched him lean them against the main house.
 
 "Why are those there?" she asked.
 
@@ -516,11 +516,11 @@ He shrugged.
 
 "Bad enough to check."
 
-"Did Tomas say?"
+"Did Keoni say?"
 
 "Everyone said."
 
-Mara looked toward the sky.
+Malia looked toward the sky.
 
 Low clouds sat offshore, not dramatic, not dark enough to deserve attention.
 
@@ -532,11 +532,11 @@ At the hotel, weather warnings arrived in messages.
 
 Here, apparently, they arrived in people moving boards.
 
-A woman from two houses down came through the gate carrying a coil of rope and left with the ladder without asking Mara who had approved it. Ten minutes later an older man returned a hammer that did not belong to the Orlans either. Inez took both exchanges without interrupting her work.
+A woman from two houses down came through the gate carrying a coil of rope and left with the ladder without asking Malia who had approved it. Ten minutes later an older man returned a hammer that did not belong to the Orlans either. Kalei took both exchanges without interrupting her work.
 
-Tessa stripped the guest bedding, folded it, and carried it outside to air before she left for Paren's. Lio moved the drying cloths farther east to make room. Nobody announced these adjustments. Space simply changed hands as work required it.
+Tessa stripped the guest bedding, folded it, and carried it outside to air before she left for Kimo's. Koa moved the drying cloths farther east to make room. Nobody announced these adjustments. Space simply changed hands as work required it.
 
-Mara caught herself trying to remember whether the ladder had always been lent that freely.
+Malia caught herself trying to remember whether the ladder had always been lent that freely.
 
 Then she stopped.
 
@@ -558,15 +558,15 @@ The main-house roofline was inspected from the yard.
 
 The kitchen drain channel was cleared of leaves.
 
-Lio found a crack in one shutter brace and took it to Tomas.
+Koa found a crack in one shutter brace and took it to Keoni.
 
-Inez shifted two sacks of dry goods farther from the kitchen wall because damp had appeared near the lower stone.
+Kalei shifted two sacks of dry goods farther from the kitchen wall because damp had appeared near the lower stone.
 
-Celina tried to inventory lamps during all of this and gave up after discovering that one lamp had been repaired with parts from another lamp no one could identify.
+Nalani tried to inventory lamps during all of this and gave up after discovering that one lamp had been repaired with parts from another lamp no one could identify.
 
 "This is impossible," she said.
 
-Tomas looked at the two lamps.
+Keoni looked at the two lamps.
 
 "No."
 
@@ -582,7 +582,7 @@ Tomas looked at the two lamps.
 
 "Still two."
 
-Celina looked at Mara.
+Nalani looked at Malia.
 
 "Help me."
 
@@ -596,49 +596,49 @@ Celina looked at Mara.
 
 "For what?"
 
-Celina opened her mouth.
+Nalani opened her mouth.
 
 Then closed it.
 
-Inez, from the kitchen door, said, "Careful."
+Kalei, from the kitchen door, said, "Careful."
 
-Celina turned.
+Nalani turned.
 
-Inez was smiling.
+Kalei was smiling.
 
 Barely.
 
-Celina pointed the pencil at her.
+Nalani pointed the pencil at her.
 
 "I will inventory you."
 
 "One sister. Poor condition."
 
-Lio choked on water.
+Koa choked on water.
 
-Mara laughed before she could stop herself.
+Malia laughed before she could stop herself.
 
 The whole exchange lasted maybe ten seconds.
 
-Then Tomas left with the repaired brace.
+Then Keoni left with the repaired brace.
 
-Lio followed because he wanted to know whether the crack could be pinned instead of replaced.
+Koa followed because he wanted to know whether the crack could be pinned instead of replaced.
 
-Inez went back to the dry goods.
+Kalei went back to the dry goods.
 
-Celina wrote down two lamps.
+Nalani wrote down two lamps.
 
 People resumed their own problems.
 
-That, Mara was starting to understand, was the family version of peace.
+That, Malia was starting to understand, was the family version of peace.
 
-In the afternoon, she helped Lio restack the storm boards.
+In the afternoon, she helped Koa restack the storm boards.
 
 The storage rack ran along the outside of the main house beneath the overhang.
 
-Mara put the narrow boards on the left.
+Malia put the narrow boards on the left.
 
-Lio moved them to the right.
+Koa moved them to the right.
 
 She moved them back.
 
@@ -656,7 +656,7 @@ He stared at her.
 
 "No."
 
-Mara pointed.
+Malia pointed.
 
 "They were always narrow left."
 
@@ -674,9 +674,9 @@ She closed her eyes.
 
 "Since when?"
 
-"Since Tomas rebuilt the kitchen shutters."
+"Since Keoni rebuilt the kitchen shutters."
 
-Mara looked toward the kitchen house.
+Malia looked toward the kitchen house.
 
 "Why does that affect this rack?"
 
@@ -686,7 +686,7 @@ He pulled one free.
 
 The ends had been trimmed.
 
-Mara took it.
+Malia took it.
 
 She ran her thumb across the sawed edge.
 
@@ -704,7 +704,7 @@ Just newer than her memory.
 
 "Before I remember."
 
-Mara looked at him.
+Malia looked at him.
 
 "So you don't know either."
 
@@ -716,9 +716,9 @@ Mara looked at him.
 
 That shut her up.
 
-Lio took the board back and slid it into the right-hand slot.
+Koa took the board back and slid it into the right-hand slot.
 
-Mara watched the rack.
+Malia watched the rack.
 
 In her head, the older arrangement remained visible.
 
@@ -742,13 +742,13 @@ Only one was useful now.
 
 She helped him finish without correcting him again.
 
-Later, she found Celina in the main house staring at Adela's closed door.
+Later, she found Nalani in the main house staring at Lehua's closed door.
 
 Not touching it.
 
 Just staring.
 
-Mara stopped beside her.
+Malia stopped beside her.
 
 "Inventory?"
 
@@ -758,13 +758,13 @@ Mara stopped beside her.
 
 "Apparently."
 
-Celina looked toward the shelf beside the front door.
+Nalani looked toward the shelf beside the front door.
 
 The spare storm lantern was back.
 
-Lio had returned it.
+Koa had returned it.
 
-Mara checked the handle.
+Malia checked the handle.
 
 Black, turned sideways.
 
@@ -772,11 +772,11 @@ Not the way it used to hang in the gear house.
 
 There was no reason it should be.
 
-Celina saw her looking.
+Nalani saw her looking.
 
 "That used to be outside."
 
-Mara turned.
+Malia turned.
 
 "You remember too."
 
@@ -784,7 +784,7 @@ Mara turned.
 
 "When did it move?"
 
-Celina shrugged.
+Nalani shrugged.
 
 "After I left."
 
@@ -794,11 +794,11 @@ Celina shrugged.
 
 "Does it bother you?"
 
-Celina looked at the lantern.
+Nalani looked at the lantern.
 
 "No."
 
-Mara felt weirdly betrayed.
+Malia felt weirdly betrayed.
 
 Her mother saw it.
 
@@ -810,7 +810,7 @@ Her mother saw it.
 
 "Apparently everyone agrees on that."
 
-Celina folded her arms.
+Nalani folded her arms.
 
 "Things change when you leave."
 
@@ -818,13 +818,13 @@ Celina folded her arms.
 
 "Do you?"
 
-Mara looked at her.
+Malia looked at her.
 
-Celina's expression stayed light, but only on top.
+Nalani's expression stayed light, but only on top.
 
-"You left this house twelve years ago," she said. "I left the island longer than that. Inez stayed. Tomas stayed. Lio grew up here. Why would the house wait for our memory?"
+"You left this house twelve years ago," she said. "I left the island longer than that. Kalei stayed. Keoni stayed. Koa grew up here. Why would the house wait for our memory?"
 
-Mara looked again at the lantern.
+Malia looked again at the lantern.
 
 "That's a dramatic way to phrase object storage."
 
@@ -834,7 +834,7 @@ Mara looked again at the lantern.
 
 "It doesn't."
 
-Celina touched the closed door with two fingers.
+Nalani touched the closed door with two fingers.
 
 Not the handle.
 
@@ -844,7 +844,7 @@ Just the wood.
 
 Then she walked away.
 
-Mara stood alone in the main room.
+Malia stood alone in the main room.
 
 The lantern sat on the shelf.
 
@@ -856,11 +856,11 @@ Old normal.
 
 Neither one had vanished because the other existed.
 
-At dusk, Lio lit the spare lantern to check the west latch.
+At dusk, Koa lit the spare lantern to check the west latch.
 
 He carried it outside.
 
-Mara watched him go.
+Malia watched him go.
 
 When he returned, he set it on the front shelf.
 
@@ -870,7 +870,7 @@ Not carelessly.
 
 Just where it belonged.
 
-Mara looked at the lantern.
+Malia looked at the lantern.
 
 Then toward the open door and the invisible gear-house peg beyond it.
 
