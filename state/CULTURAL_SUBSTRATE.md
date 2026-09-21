@@ -1,206 +1,389 @@
 # NORMAL POSITION — CULTURAL SUBSTRATE
 
-Status: ACTIVE WORKING FOUNDATION.
+Status: ACTIVE HAWAIʻI RETCON AUTHORITY.
 
 ## Mode
 
-Secondary-world island horror.
+Contemporary Hawaiʻi.
 
-The book is **not set in Batanes or the Philippines**.
+The Kealoha family is Native Hawaiian.
 
-Its domestic architecture and environmental logic are informed by Ivatan/Batanes house traditions and island climate adaptation.
+Primary setting:
+windward Hawaiʻi Island, on a multigenerational family place north of Hilo.
 
-Its relational thinking may be informed by selected Filipino psychological and social concepts, but the novel must not collapse distinct Philippine ethnolinguistic traditions into one fictional "Filipino-ish" culture.
+Malia Kealoha currently lives on Oʻahu for work and returns home after Tūtū Lehua dies.
 
-## Why this substrate earns its place
+Do not invent a fake Hawaiian island, fake ahupuaʻa name, fake chant, fake proverb, or fake traditional ritual.
 
-The story needs a culture where:
-- houses are maintained against serious weather
-- household geography is practical and memorable
-- storage and daily labor create strong object routines
-- family property can span generations
-- kin and neighbors plausibly know one another's household patterns
-- privacy and relational obligation can conflict
-- a moved object can have social meaning before it has supernatural meaning
+If a real place-specific practice becomes plot-critical:
+research it before use.
 
-This substrate changes causality.
+## Why Hawaiʻi belongs in this story
 
-## Verified research anchors
+The governing horror question is already about:
+- family
+- responsibility
+- inherited place
+- who stayed
+- who left
+- who gets to decide
+- who maintains
+- who remembers
+- what a household says belongs to whom
 
-### Ivatan house logic
+Those pressures naturally intersect with Hawaiian ideas of ʻohana, kuleana, mālama, ʻāina, and moʻokūʻauhau.
 
-The Philippine cultural-heritage inventory describes Ivatan traditional households in Batanes as sometimes comprising separate structures for:
-- living / sleeping and household paraphernalia
-- kitchen, cooking, dining, and food storage
-- farm / fishing paraphernalia
+The culture is not decoration around the horror.
 
-The same heritage material describes robust stone and thatch house forms shaped by island conditions.
+It changes the moral problem.
 
-Story use:
-the Orlan compound should not behave like a generic Western haunted mansion.
-Different categories of life belong in different working spaces.
+## 1. ʻOHANA
 
-Source anchor:
-National Commission for Culture and the Arts / Philippine Intangible Cultural Heritage Inventory, Ivatan house types.
+Working research principle:
 
-### Climate-shaped architecture
-
-Ivatan stone-house tradition is closely associated with adaptation to the severe climate of Batanes.
+ʻOhana is broader than a nuclear household.
+Family responsibility moves across generations and can include extended and socially incorporated relationships.
 
 Story use:
-- shutters matter
-- roof and wall maintenance matter
-- storm preparation creates routine
-- objects are moved before weather
-- families know which structure is safest for which use
-- an approaching storm can legitimately change normal positions
+- cousins, aunties, grandparents, neighbors, and close non-blood relations may have real obligations to one another
+- hospitality creates labor
+- care for elders is not automatically a private nuclear-family matter
+- Malia cannot reduce the family place to an estate asset without social consequence
+- Kalei's years of caregiving carry weight
+- Koa's current life in the house carries knowledge absent family members do not own
 
-Do not use storm imagery as generic gothic atmosphere.
-Weather changes labor and household arrangement.
+Do not make every local person "Aunty" or "Uncle" as flavor.
 
-### Relational research lane
+Use relational address only where an actual relationship supports it.
 
-UP CIDS material describes **pakikipagkapwa** as a key Filipino psychological concept involving shared identity / relationality and movement away from self-centeredness.
+Research anchors:
+- Office of Hawaiian Affairs, ʻOhana
+- University of Hawaiʻi Native Hawaiian family-learning materials
 
-Story use:
-do not paste the term into secondary-world dialogue.
-Use it as a research lens for:
-- relational obligation
-- porous family responsibility
-- the difficulty of treating individual autonomy as the only moral axis
-- why "that belongs to me" may not end a family argument
-- why leaving can be morally complicated
+## 2. KULEANA
 
-Source anchor:
-University of the Philippines Center for Integrative and Development Studies, *Understanding Pakikipagkapwa Through Analytics*.
+Research meaning includes:
+- responsibility
+- right
+- privilege
+- concern
+- claim
+- authority
+- property / estate interests in some contexts
 
-## Invented secondary-world culture
+This is the strongest cultural pressure for the novel.
 
-Working community:
-Salen, on Veyra Island.
+Healthy kuleana is reciprocal.
 
-This is invented.
+The horror is not:
+**kuleana traps you.**
 
-Do not present the following as authentic Ivatan or Filipino customs.
+The horror is:
+**one dead matriarch's frozen definition of everybody else's kuleana begins behaving like permanent law.**
 
-### Household logic
+Examples:
+- Kalei stayed and cared for Tūtū Lehua
+- Nalani left and believes leaving was necessary
+- Keoni maintains current practical systems
+- Koa has grown up inside the present house
+- Malia returns with inherited emotional and legal claims but outdated household knowledge
 
-A family compound may include:
-- main sleeping / receiving house
-- separate kitchen / food house
-- work and gear house
-- yard / cistern
-- storm-secure storage
+Nobody automatically owns the moral high ground.
 
-People understand a house through use.
+## 3. MĀLAMA
 
-Children learn:
-- which hook
-- which shelf
-- whose cup
-- which room closes first in weather
-- who owns a tool
-- what is shared
-- what is never touched without asking
+Care, maintenance, protection, and tending matter.
 
-This knowledge is mundane.
+The book must distinguish:
 
-That mundanity is horror infrastructure.
+mālama
+from
+control disguised as care.
 
-### Death and household transition
+Tūtū Lehua was genuinely good at maintaining a difficult household.
 
-Working invented custom:
-**the Keeping Days**.
+Kalei's caregiving is real work.
 
-For a fixed short period after a household head dies:
-- major possessions are not distributed
-- ordinary household labor continues
-- close kin keep the compound functioning
-- visitors may bring food, help with work, and tell stories
-- no room is turned into a shrine by default
-- practical inventory happens after the first mourning period
+Malia's professional instinct to reset rooms is real competence.
 
-Purpose in story:
-keep multiple family members in the compound without trapping them through an artificial snowstorm-style device.
+The story becomes frightening when care is used to erase another person's agency.
 
-Do not copy real Filipino wake taboos or named rituals into this custom.
+Do not imply that Hawaiian concepts of care are inherently coercive.
 
-If a real mourning practice becomes plot-critical:
-verify it separately and either represent it accurately or transform it clearly enough that the book does not pretend invention is folklore.
+## 4. ʻĀINA
 
-### Privacy
-
-Family belonging does not eliminate personal boundaries.
-
-Useful tensions:
-- a room may be family property but still treated as someone's space
-- tools may be communal but maintained by one person
-- food may be shared while medicine is private
-- inherited objects may carry obligations no individual wants
-- a relative may have practical access without moral permission
-
-The horror should exploit the gap between:
-**can touch**
-and
-**should touch**.
-
-### Hospitality
-
-Hospitality should produce labor.
-
-A guest creates:
-- food
-- bedding
-- cleanup
-- rearrangement
-- obligations
-- information flow
-
-Do not make hospitality a decorative display of kindness.
-
-Who serves, who cleans, who stays late, who is allowed into which structure, and who notices what moved should matter.
-
-### Mourning
-
-Grief does not make everybody solemn.
-
-Allow:
-- food
-- jokes
-- exhaustion
-- arguments
-- errands
-- repairs
-- boredom
-- visitors overstaying
-- children getting restless
-- people discussing money
-- weather preparation
-
-The dead remain socially present because the living still have work.
-
-## Anti-exoticism rules
+Do not make the ʻāina evil.
 
 Do not write:
-- island people as spiritually wiser by default
-- elders as supernatural exposition machines
-- "ancient island curse"
-- generalized Southeast Asian mysticism
-- random Filipino words for texture
-- a culture where every person believes the same supernatural explanation
-- poverty as atmosphere
-- storms as proof the culture is primitive
+- angry land
+- cursed Hawaiian land
+- the island wants outsiders gone
+- ancestral land as automatic supernatural threat
 
-Local skepticism, faith, embarrassment, practicality, generational disagreement, and humor all belong.
+The family relationship to place should instead create:
+- responsibility
+- attachment
+- history
+- conflict over sale / inheritance
+- practical knowledge
+- obligations that cannot be reduced to market value
 
-## Culture causality audit
+The supernatural mechanism belongs primarily to the **built household pattern** and repeated family behavior.
+
+The ʻāina is not the villain.
+
+Research anchor:
+Office of Hawaiian Affairs, ʻĀina.
+
+## 5. MOʻOKŪʻAUHAU
+
+Genealogy may matter socially and emotionally.
+
+Use it to shape:
+- who remembers whom
+- which generation taught which routine
+- why an object carries relational history
+- why leaving does not erase belonging
+- why being related does not automatically grant moral permission
+
+Do not turn genealogy into a magical bloodline key.
+
+No "chosen descendant" mechanics.
+
+## 6. THE FAMILY PLACE
+
+The Kealoha property is contemporary.
+
+It is NOT a museum reconstruction of a pre-contact kauhale.
+
+Its organization can echo an older Hawaiian household logic in which different structures supported different activities.
+
+Research anchors:
+- UH material describing kauhale as extended-family residential compounds with hale dedicated to different functions
+- National Park Service documentation of Hawaiian household complexes / functional structures
+
+Working modern layout:
+
+1. MAIN HOUSE
+   sleeping, gathering, family papers, personal storage
+
+2. DETACHED COOKHOUSE / OUTSIDE KITCHEN
+   large-family cooking, food prep, dishwashing, overflow during gatherings
+
+3. WORKSHOP / BOAT SHED
+   tools, repair, fishing / marine gear, storm supplies
+
+4. COVERED LANAI / YARD
+   visitors, food, folding tables, drying, work
+
+5. RAIN-CATCHMENT SYSTEM
+   tank, gutters, filters, pump / spigot, routine maintenance
+
+The separation is practical and inherited.
+
+Do not explain kauhale history in dialogue unless a character genuinely has reason to discuss it.
+
+## 7. RAIN CATCHMENT
+
+Rain catchment is a real household infrastructure system in Hawaiʻi and especially relevant on Hawaiʻi Island.
+
+Story use:
+- roof and gutter maintenance
+- first-flush / filter checks
+- tank level
+- storms changing household work
+- visitors increasing water use
+- somebody knowing the maintenance schedule
+- object / tool placement becoming consequential
+
+Do not use unsafe water claims casually.
+If contamination becomes plot-relevant, research the exact mechanism.
+
+Research anchors:
+- Hawaiʻi Department of Health Safe Drinking Water Branch
+- UH CTAHR rainwater catchment guidelines
+
+## 8. HOUSEHOLD LABOR
+
+Culture should be visible through doing:
+
+- cooking
+- washing
+- bringing food
+- returning containers
+- fixing things
+- maintaining catchment
+- yard work
+- checking weather
+- storing fishing / work gear
+- setting up sleeping space
+- driving relatives
+- cleaning after visitors
+- taking care of kūpuna
+- arguing about who is responsible for what
+
+Do not make culture arrive as speeches.
+
+## 9. DEATH / FAMILY GATHERING
+
+REMOVE:
+the invented proper-noun ritual "Keeping Days."
+
+Replacement:
+the family house is full in the days around Tūtū Lehua's death and service.
+
+People:
+- bring food
+- stay over
+- help clean
+- tell stories
+- argue
+- discuss logistics
+- make phone calls
+- deal with estate issues
+- continue working
+
+Do not invent a "traditional Hawaiian funeral rule" unless researched.
+
+If later chapters need specific mourning protocol:
+research actual practice first.
+
+## 10. NAMES / ADDRESS
+
+Core family:
+
+Malia Kealoha — 34  
+Nalani Kealoha — 58, Malia's mother  
+Kalei Kealoha — 62, Nalani's older sister  
+Keoni Kealoha — 37, Kalei's son  
+Koa Kealoha — 16, Keoni's son  
+Lehua Kealoha — 81, deceased matriarch, usually Tūtū Lehua in family perspective  
+Nohea Kealoha — Malia's younger sister, died in childhood
+
+Use Hawaiian words and names as ordinary language, not decorative italics.
+
+Do not translate every familiar word for the reader.
+
+Context should do most of the work.
+
+## 11. HORROR FIREWALL
+
+Do NOT make the book's engine:
+- Night Marchers
+- Pele
+- menehune
+- ʻaumākua
+- heiau desecration
+- "breaking kapu"
+- a Hawaiian curse
+- generic "ancient spirits"
+- a kahuna exposition character
+
+Those subjects have their own cultural and religious weight.
+
+This novel already has an original supernatural mechanism.
+
+Use it.
+
+The household restores old arrangements.
+
+It gradually treats people as though inherited roles have fixed physical positions.
+
+That is enough.
+
+## 12. TŪTŪ LEHUA'S SYSTEM
+
+Tūtū Lehua is not "traditional Hawaiian culture" embodied.
+
+She is one woman.
+
+Her exact household rules may draw from:
+- practical maintenance
+- family expectation
+- generational habit
+- personality
+- grief
+- surveillance
+- fear
+
+The book must preserve the distinction between:
+
+**what Lehua believed was everyone's kuleana**
+
+and
+
+**what their kuleana actually is.**
+
+That gap is where the horror lives.
+
+## 13. STORY CONSEQUENCES OF THE RETCON
+
+The estate question becomes stronger.
+
+Nalani may want to sell / divide / resolve because leaving was survival.
+
+Kalei may argue that years of caregiving and maintenance cannot be treated as invisible labor.
+
+Keoni has current practical responsibility for parts of the place.
+
+Koa has grown up there and knows its present normal.
+
+Malia has genealogy, memory, love, and legal / family interest, but she does not automatically know the present household.
+
+The supernatural restoration exploits those competing claims.
+
+## 14. ANTI-EXOTICISM
+
+Do not:
+- write pidgin as comedy shorthand
+- make Hawaiian words mystical merely because they are Hawaiian
+- make every elder spiritually authoritative
+- make every local person culturally fluent
+- make mainland / Oʻahu life morally inferior by default
+- make staying automatically more Hawaiian than leaving
+- make blood quantum a horror device
+- invent sacred practice for plot convenience
+
+Characters can differ in:
+- language knowledge
+- cultural practice
+- family attachment
+- religion
+- skepticism
+- politics
+- desire to stay / leave
+
+They remain Hawaiian without performing culture for the reader.
+
+## 15. CULTURE AUDIT
 
 Every 4 chapters ask:
-- does household architecture change what can happen?
-- does weather change labor or object placement?
-- do kinship obligations alter decisions?
-- does privacy conflict with shared responsibility?
-- do objects carry practical rather than decorative cultural meaning?
-- has the book drifted into generic American haunted-house behavior?
 
-If culture only changes nouns, repair future chapters.
+- does ʻohana change who shows up and who has obligations?
+- does kuleana create real competing claims?
+- does care remain distinguishable from control?
+- does the family place require maintenance?
+- does weather create practical work?
+- does current local knowledge matter more than nostalgic memory sometimes?
+- has the book made the ʻāina or Hawaiian culture itself threatening?
+- are Hawaiian terms doing real work or merely adding flavor?
+- could this chapter still occur unchanged in a generic mainland haunted house?
+
+If yes:
+repair future chapters.
+
+## Research anchors
+
+Office of Hawaiian Affairs:
+- ʻOhana
+- ʻĀina
+- Mana Lāhui Kānaka
+
+University of Hawaiʻi:
+- Native Hawaiian Place of Learning, kuleana
+- Native Hawaiian family education materials
+- kauhale / hale resources
+- CTAHR rainwater catchment guidance
+
+National Park Service:
+- Hawaiian household complex / kauhale documentation
