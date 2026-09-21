@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Normal Position. A culture-first horror novel about routine, objects, family, and the slow contamination of ordinary life.">
+<meta name="theme-color" content="#0e1110">
+<meta property="og:title" content="Normal Position">
+<meta property="og:description" content="Everything is where it belongs. That is the problem.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://paiea.github.io/normal-position/">
+<link rel="canonical" href="https://paiea.github.io/normal-position/">
+<link rel="stylesheet" href="styles.css">
+<title>Normal Position — Paiea</title>
+</head>
+<body>
+<nav class="sitebar"><div class="shell">
+<a class="brand" href="#top">Normal Position</a>
+<div class="nav"><a href="#house">The House</a><a href="#rules">The Rules</a><a href="#chapters">Read</a></div>
+</div></nav>
+
+<main id="top">
+<section class="hero"><div class="shell hero-grid">
+<div>
+<div class="small">A CULTURE-FIRST HORROR NOVEL</div>
+<h1>Normal Position</h1>
+<p class="hero-line">Everything is where it belongs. That is the problem.</p>
+</div>
+<aside class="room" aria-label="Household object check">
+<div class="room-title"><span class="small">Evening reset</span><span class="small">HOUSE 01</span></div>
+<div class="object-row"><span>Front key</span><b>Hook</b></div>
+<div class="object-row"><span>Blue cup</span><b>Upper shelf</b></div>
+<div class="object-row"><span>Mother's chair</span><b>East wall</b></div>
+<div class="object-row wrong"><span>Grandmother's comb</span><b>Bedroom</b></div>
+<div class="object-row wrong"><span>Grandmother's comb</span><b>Bedroom</b></div>
+</aside>
+</div></section>
+
+<section class="section" id="house"><div class="shell section-grid">
+<div><div class="small">THE HOUSEHOLD</div><h2>Normal is something people teach a house.</h2></div>
+<div class="copy">
+<p>Mara Orlan notices where things belong for a living. After her grandmother dies, she returns to an island family compound to help sort a lifetime of possessions.</p>
+<p>At first, the problem is small. A key returns to its hook. A chair faces the old direction. Something thrown away appears in the correct drawer.</p>
+<p>Then the house begins remembering arrangements nobody living wants restored.</p>
+</div>
+</div></section>
+
+<section class="section" id="rules"><div class="shell">
+<div class="small">THE HORROR GRAMMAR</div>
+<h2>Wrong by inches.</h2>
+<div class="rules">
+<article class="rule"><span>01</span><h3>Familiar first.</h3><p>An object becomes frightening only after the reader knows its ordinary life.</p></article>
+<article class="rule"><span>02</span><h3>Objects do not need to be haunted.</h3><p>Human hands, family habits, privacy, memory, and access remain plausible longer than is comfortable.</p></article>
+<article class="rule"><span>03</span><h3>No change is evidence too.</h3><p>Most checks find exactly what should be there. Routine must remain trustworthy often enough to be violated.</p></article>
+<article class="rule"><span>04</span><h3>The house remembers differently.</h3><p>The frightening question is not only who moved something. It is whose version of normal keeps returning.</p></article>
+</div>
+</div></section>
+
+<section class="section"><div class="shell">
+<p class="pull">A house can keep a family together long after <em>together</em> becomes the dangerous part.</p>
+</div></section>
+
+<section class="section" id="chapters"><div class="shell">
+<div class="reader-top"><div><div class="small">PUBLIC READER</div><h2>Begin at the first wrong thing.</h2></div><div class="reader-meta" id="count">No chapters published yet</div></div>
+<div id="list"></div>
+<div class="empty" id="empty">The house is built. Chapter One has not begun.</div>
+</div></section>
+</main>
+
+<footer class="footer"><div class="shell"><span>Normal Position · by Paiea</span><span>Book One · pre-draft</span></div></footer>
+<script>
+fetch('manifest.json',{cache:'no-store'}).then(r=>r.json()).then(m=>{
+ const rs=(m.records||[]).filter(x=>x.published), list=document.getElementById('list'), empty=document.getElementById('empty'), count=document.getElementById('count');
+ if(!rs.length)return;
+ empty.hidden=true;count.textContent=rs.length+' '+(rs.length===1?'chapter':'chapters')+' published';
+ list.innerHTML=rs.map((r,i)=>'<a class="chapter" href="chapters/'+encodeURIComponent(r.id)+'/"><span class="chapter-no">'+String(i+1).padStart(2,'0')+'</span><span class="chapter-title">'+r.title+'</span><span class="chapter-go">Read</span></a>').join('');
+}).catch(()=>{});
+</script>
+</body>
+</html>
