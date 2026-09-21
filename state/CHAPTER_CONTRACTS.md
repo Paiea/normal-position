@@ -39,7 +39,7 @@ Malia catches herself performing one of Lehua's exact placement habits.
 TARGET:
 2,500-3,200 words.
 
-## Chapter 02 — the days around Tūtū Lehua's service
+## Chapter 02 — The House Is Full
 
 STATUS:
 COMPLETE / PUBLISHED.
@@ -250,7 +250,7 @@ TARGET:
 ## Chapter 06 — Back on the Hook
 
 STATUS:
-READY AFTER CHAPTER 05.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Turn the fully established front-key routine into the first custody puzzle.
