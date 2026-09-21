@@ -5,19 +5,18 @@
 02 — Keeping Days
 03 — Current Normal
 04 — The Wrong Cup
+05 — Tūtū Lehua's Room
 
 ## READY
-05 — Lehua's Room
+06 — Back on the Hook
 
 ## UPCOMING
-06 — Back on the Hook
 07 — The Old Shelf
+08 — Throw It Away
 
 ## NEXT CONTRACT EXPANSION
-05-07 must be fully expanded before Chapter 05 drafting.
-
 Before Chapter 08:
-run first rolling audit.
+run first rolling audit and expand 08-10.
 
 ## Manuscript frontier
-004 — The Wrong Cup
+005 — Tūtū Lehua's Room
