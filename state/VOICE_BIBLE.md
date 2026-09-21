@@ -4,7 +4,7 @@ Status: ACTIVE.
 
 ## Narrative voice
 
-Close third person through Mara.
+Close third person through Malia Kealoha.
 
 Write for the ear.
 
@@ -20,7 +20,7 @@ The prose should be:
 
 The book should sound like somebody noticing a room too well.
 
-## Mara's cognition
+## Malia's cognition
 
 Her mind naturally compares:
 
@@ -69,7 +69,7 @@ Narration should earn them.
 
 Avoid:
 "The house wanted..."
-unless it is clearly Mara's interpretation.
+unless it is clearly Malia's interpretation.
 
 ## Dialogue
 
@@ -81,19 +81,19 @@ Use meaningful object handling instead of filler gestures.
 
 Do not make everyone witty under pressure.
 
-### Mara
+### Malia
 operational questions, dry, impatient with vague claims.
 
-### Celina
+### Nalani
 logistics, deflection, humor that reduces scale, abrupt exits.
 
-### Inez
+### Kalei
 concrete household memory, gentle syntax with stubborn conclusions.
 
-### Tomas
+### Keoni
 mechanical explanations become longer; family abstractions shorten him.
 
-### Lio
+### Koa
 specific, current, less reverent, willing to say adults are being weird.
 
 ## Nonverbal
