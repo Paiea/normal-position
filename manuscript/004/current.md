@@ -878,8 +878,6 @@ Mara dried her hands.
 
 She did not look at the top shelf again until she had a reason.
 
-Anyone.
-
 Mara picked up the blue cup.
 
 Inez watched her.
