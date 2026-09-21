@@ -1,6 +1,6 @@
 # NORMAL POSITION — PROJECT STATE
 
-Status: PRE-DRAFT / ACTIVE BUILD
+Status: PRE-DRAFT / READY TO WRITE
 
 Working title: **Normal Position**
 
@@ -195,17 +195,11 @@ Survival creates work.
 
 ## Pre-draft status
 
-Not ready for Chapter One yet.
+**READY.**
 
-Required before prose:
-- cultural substrate pass
-- compound map
-- character auditions
-- voice lock
-- supernatural pressure spine
-- 29-33 chapter story map
-- first 8 chapter contracts
-- object baseline
-- Lea history lock sufficient for early clues
-- rehearsal engine active
-- audit engine active
+The readiness audit passes.
+
+Next action:
+Chapter 01 — The Hook.
+
+A plain **continue** now executes the full chapter pipeline.
