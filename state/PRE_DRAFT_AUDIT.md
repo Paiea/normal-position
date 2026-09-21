@@ -1,6 +1,6 @@
 # NORMAL POSITION — PRE-DRAFT READINESS AUDIT
 
-Status: **PASS**
+Status: **PASS — CULTURAL FOUNDATION RETCONNED AFTER CHAPTER 04**
 
 Date:
 2026-09-21
@@ -16,12 +16,14 @@ It is not a generic haunted house.
 ## 2. Cultural substrate
 PASS for drafting.
 
-Locked:
-- secondary-world island setting
-- Ivatan/Batanes-informed architectural and climate logic
-- relational research lane without collapsing Philippine cultures
-- invented Keeping Days clearly marked as invented
-- anti-exoticism guardrails
+Current authority after Chapter 04 retcon:
+- contemporary Hawaiʻi setting
+- Native Hawaiian Kealoha family
+- ʻohana / kuleana / mālama / ʻāina research framework
+- modern multigenerational family place with kauhale-informed functional separation
+- real rain-catchment infrastructure
+- invented "Keeping Days" removed
+- explicit firewall against using Hawaiian sacred traditions or folklore as cheap horror
 
 Future research remains allowed when a specific cultural claim becomes plot-relevant.
 
@@ -116,7 +118,7 @@ Starting:
 - timeline
 - relationships
 - knowledge states
-- compound roles
+- family-place roles
 - object baseline
 are recorded.
 
@@ -153,7 +155,7 @@ Chapter:
 
 Chapter One must:
 - establish normal rather than break it
-- teach compound geography through chores
+- teach family-place geography through chores
 - establish front-key baseline
 - show Mara's useful reset competence
 - give Inez, Tomas, Celina, and Lio independent life
