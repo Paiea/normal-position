@@ -1,6 +1,6 @@
 # NORMAL POSITION — PROJECT STATE
 
-Status: DRAFTING / CHAPTER 07 PUBLISHED
+Status: DRAFTING / CHAPTER 08 PUBLISHED
 
 Working title: **Normal Position**
 
@@ -206,9 +206,9 @@ Pre-draft readiness audit:
 **PASS.**
 
 Published frontier:
-Chapter 07 — The Old Shelf.
+Chapter 08 — Throw It Away.
 
 Next action:
-Chapter 08 — Throw It Away.
+Chapter 09 — Nothing Happened.
 
 A plain **continue** executes the full chapter pipeline.
