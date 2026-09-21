@@ -356,7 +356,7 @@ TARGET:
 ## Chapter 08 — Throw It Away
 
 STATUS:
-READY.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Test whether physically removing a Tūtū Lehua object causes restoration, and refuse to reward the expectation.
