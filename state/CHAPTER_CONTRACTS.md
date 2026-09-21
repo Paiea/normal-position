@@ -303,7 +303,7 @@ TARGET:
 ## Chapter 07 — The Old Shelf
 
 STATUS:
-WORKING / AFTER CHAPTER 06.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Strengthen the older-normal pattern without confirming supernatural agency.
@@ -355,45 +355,176 @@ TARGET:
 
 ## Chapter 08 — Throw It Away
 
-JOB:
-Test whether removal matters.
+STATUS:
+READY.
+
+DRAMATIC JOB:
+Test whether physically removing a Tūtū Lehua object causes restoration, and refuse to reward the expectation.
+
+OPENING PRESSURE:
+Nalani is clearing obvious unusable personal items from Lehua's room as estate work becomes less theoretical.
+
+OBJECT:
+Tūtū Lehua's old rubber house slippers.
+
+BASELINE:
+- clearly Lehua's
+- worn smooth at heel
+- one strap beginning to split
+- normal late-life position beside her bedroom chair / bed when not worn
+- no sacred or inherited significance
+
+HUMAN ACTION:
+Nalani decides they are worn-out personal items and throws them away / takes them out with actual trash.
+
+RELATIONSHIP MOVEMENT:
+- Kalei has a moment of resistance because the slippers are bound to caregiving routine
+- Nalani argues that not every used thing needs preserving
+- Malia recognizes she is waiting to see whether they come back
+- nobody agrees to turn disposal into a supernatural experiment
+
+CULTURE MOVEMENT:
+Use the conflict to sharpen competing kuleana around:
+- clearing
+- maintaining
+- preserving
+- deciding what remains at a family place
+
+Do not make "keeping old things" a Hawaiian trait.
+This is this family.
+
+HORROR MOVEMENT:
+negative.
+The slippers leave.
+They stay gone.
+
+THREAD MOVEMENT:
+T2 Malia surveillance tendency
+T3 Nalani / Kalei
+T5 Lehua's order
+T8 estate / family place
+T10 human action
 
 REQUIRED:
-Nalani discards / removes one Lehua object for human reasons.
-Conflict about inheritance.
+show the normal empty place after removal.
+
+FORBIDDEN:
+- slippers return
+- substitute slippers appear
+- noise / dream / omen
+- comb involvement
+- Nohea connection
 
 EXIT:
-object remains gone.
-Do not reward experiment with phenomenon.
+the slippers remain gone.
+Malia is disturbed by how strongly she expected otherwise.
+
+TARGET:
+2,500-3,200 words.
 
 ## Chapter 09 — Nothing Happened
 
-JOB:
-False negative and lived-time expansion.
+STATUS:
+READY AFTER CHAPTER 08.
 
-PRIMARY:
-Keoni work / weather / community obligation.
+DRAMATIC JOB:
+Give the novel a genuine false-negative / lived-time chapter and make Malia feel the cost of expecting the house to perform.
+
+PRIMARY MOVEMENT:
+Keoni's off-plot work and family / neighbor obligations dominate.
+
+WORKING JOB:
+repair / maintenance task connected to boats, workshop, catchment, or helping another household.
+Choose whichever follows naturally from Chapter 08.
+
+MALIA:
+checks the empty slipper position and one other established object state.
+Nothing changes.
 
 HORROR:
 none or near-none.
 
+RELATIONSHIP MOVEMENT:
+Malia's attention is elsewhere at the wrong times because actual people need help.
+She becomes embarrassed by her own anticipation.
+
+CULTURE MOVEMENT:
+show kuleana as ordinary reciprocal work rather than thematic vocabulary:
+someone needs help, tools, transport, repair, food, or time.
+
+THREAD MOVEMENT:
+T2 Malia
+T6 Keoni independent life
+T7 Koa current life
+T9 weather / maintenance
+T10 ordinary human movement
+
+REQUIRED:
+at least one long scene whose value does not depend on the haunting.
+
+FORBIDDEN:
+- late-page scare to "save" the chapter
+- new rule
+- mysterious return
+- secret clue hidden inside the false negative
+
 EXIT:
-Malia becomes embarrassed by her own anticipation.
+Malia checks.
+Nothing happened.
+She feels foolish.
+
+TARGET:
+2,600-3,400 words.
 
 ## Chapter 10 — Keoni's Tools
 
-JOB:
-Differentiate valid object systems.
+STATUS:
+READY AFTER CHAPTER 09.
 
-REQUIRED:
-Malia initially reads gear house as disorder.
-Keoni proves functional order.
+DRAMATIC JOB:
+Demonstrate that Malia's expertise in visual / household reset does not generalize to every system.
+
+OPENING PRESSURE:
+Malia enters or helps in Keoni's workshop and initially reads the space as disordered / evidence-poor.
+
+OBJECT BASELINE:
+establish Keoni's functional tool logic:
+- location by task / frequency / current job
+- repaired / cannibalized parts
+- objects that look misplaced but are exactly where he needs them
+
+RELATIONSHIP MOVEMENT:
+Keoni proves he can identify meaningful disturbance in his workspace better than Malia can.
+Malia must defer to expertise she does not own.
 
 HUMAN RESIDUE:
-someone entered / moved something for mundane reason.
+one tool / part has moved.
+Keoni correctly identifies who entered or why through mundane evidence.
+
+CULTURE MOVEMENT:
+maintenance of family place / boats / neighbors is practical kuleana, not mystical inheritance.
+
+THREAD MOVEMENT:
+T2 Malia expertise limit
+T6 Keoni
+T8 family-place responsibility
+T10 human interference
+
+REQUIRED:
+Keoni's order must feel specific, not "messy genius."
+
+FORBIDDEN:
+- turning Keoni into an exposition machine
+- supernatural tool movement
+- Malia instantly mastering his system
+- clue that secretly proves the haunting
 
 EXIT:
-Malia's expertise becomes locally limited.
+Malia understands:
+**normal position depends on whose work the object belongs to.**
+
+TARGET:
+2,500-3,200 words.
 
 ## Chapters 11-31
 
