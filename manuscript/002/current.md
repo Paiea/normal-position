@@ -10,7 +10,7 @@ Straight against the stone. Leather loop behind.
 
 She looked away before the key could become a problem.
 
-Outside, the compound had the soft, temporary disorder of a place expecting more bodies than it normally held.
+Outside, the family place had the soft, temporary disorder of somewhere expecting more bodies than it normally held.
 
 Aunty Nani's two folding chairs were open under the main-house window. Someone had set a low stool beside the cistern. Two baskets of bread waited just inside the kitchen door with strips of cloth tied around the handles so they could be returned to the right households later.
 
@@ -48,7 +48,7 @@ Kalei had already started another pot.
 
 Of course she had.
 
-There were six different foods on the worktable, only two of which Malia believed had originated in the Kealoha kitchen. Keeping Days produced meals the way storms produced driftwood. Nobody was quite sure where everything had started, only that eventually somebody had to sort what belonged where.
+There were six different foods on the worktable, only two of which Malia believed had originated in the Kealoha kitchen. The days around a funeral produced meals the way storms produced driftwood. Nobody was quite sure where everything had started, only that eventually somebody had to sort what belonged where.
 
 Kalei pointed with a spoon.
 
@@ -190,7 +190,7 @@ Nalani followed her eyes and exhaled through her nose.
 
 "We can start with the main room."
 
-"It's Keeping Days."
+"People are coming."
 
 "We are not distributing anything."
 
@@ -390,7 +390,7 @@ Today it felt more settled.
 
 A normal position was easiest to see after somebody used it correctly.
 
-By ten, the compound filled.
+By ten, the place filled.
 
 People brought boiled roots, fish wrapped in leaves, fruit, tea, a pot of something Malia could not identify without opening it, and one enormous dish Kalei immediately sent back because there was nowhere cool enough to keep it safely.
 
@@ -774,7 +774,7 @@ Kimo's sister was one of them, a woman named Tessa who had brought no luggage be
 
 Nalani liked her immediately.
 
-They spent half the meal discussing ferry schedules.
+They spent half the meal discussing flights out of Hilo.
 
 Malia sat beside Koa.
 
