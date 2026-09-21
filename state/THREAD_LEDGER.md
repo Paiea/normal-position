@@ -1,70 +1,90 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 07.
+Status: ACTIVE THROUGH CHAPTER 08.
 
 ## T1 — OBJECT RETURNS
 State:
-older-normal pattern now visible across multiple objects, agency unproven.
+older-normal pattern supported, agency unproven.
 
 Pressure:
-4/5.
+3/5.
+
+Last moved:
+Chapter 08 negative result.
+
+What changed:
+an intentionally removed Lehua object stays gone.
 
 Next:
-Chapter 08 must NOT escalate through return. Removal test should produce no phenomenon.
+hold. Chapter 09 should not add a new anomaly.
 
 ## T2 — MALIA AS RESETTER
 State:
-surveillance tendency active and socially noticed.
+surveillance / validation hunger exposed.
 
 Pressure:
 4/5.
 
 Last moved:
-Chapter 07.
+Chapter 08.
 
 What changed:
-private key test fails as evidence.
-Malia still names aggregate pattern "wrong in time."
+Malia realizes she is disappointed when the slippers do not return.
 
 Next:
-force restraint and uncertainty rather than reward experimentation.
+Chapter 09 should make her feel foolish for anticipating a phenomenon.
 
 ## T3 — NALANI / KALEI
 State:
-care / control interpretations diverge.
+active responsibility / preservation conflict.
 
 Pressure:
 4/5.
 
+Last moved:
+Chapter 08.
+
+What changed:
+Nalani acknowledges Kalei's unequal labor while still insisting future decisions remain discussable.
+
 Next:
-Chapter 08 uses disposal / inheritance conflict without full Nohea rupture.
+hold below rupture.
 
 ## T4 — NOHEA
 State:
-ordinary childhood presence growing.
+ordinary childhood presence established.
 
 Pressure:
 3/5.
 
 Next:
-hold or move lightly. Do not make her the cause.
+hold through Chapter 09.
 
 ## T5 — TŪTŪ LEHUA'S ORDER
 State:
-historical household grammar increasingly legible.
+pattern increasingly legible, but not every Lehua object participates.
 
 Pressure:
-4/5.
+3/5.
+
+Last moved:
+Chapter 08.
+
+What changed:
+slippers can leave permanently.
 
 Next:
-show some Lehua objects can leave without consequence.
+avoid totalizing rule.
 
 ## T6 — KEONI'S LIFE
 State:
-active independent repair / household maintenance.
+needs expansion.
 
 Pressure:
-1/5.
+2/5.
+
+Next:
+Chapter 09 should substantially foreground his current obligations and work.
 
 ## T7 — KOA'S CURRENT NORMAL
 State:
@@ -74,24 +94,30 @@ Pressure:
 3/5.
 
 Last moved:
-Chapter 07.
+Chapter 08.
 
 What changed:
-Koa's normal use defeats Malia's key test.
+Koa offers a non-preservation model of memory.
 
 ## T8 — ESTATE / FAMILY PLACE FUTURE
 State:
 high.
 
 Pressure:
-4/5.
+5/5.
+
+Last moved:
+Chapter 08.
+
+What changed:
+property tax, utilities, catchment maintenance, repair labor, and unequal caregiving become explicit.
 
 Next:
-disposal decision becomes concrete.
+remain present but do not turn Chapter 09 into estate debate.
 
 ## T9 — WEATHER
 State:
-ordinary background after rain.
+ordinary rain / wet-season maintenance active.
 
 Pressure:
 2/5.
@@ -103,11 +129,18 @@ very strong.
 Pressure:
 4/5.
 
-Last moved:
-Chapter 07.
-
-What changed:
-multiple people plausibly create the old shelf pattern without coordinated intent.
-
 Next:
-maintain this strength.
+Chapter 09 ordinary life should dominate interpretation.
+
+## T11 — PREFERENCE PHASE
+State:
+not started.
+
+Pressure:
+0/5.
+
+Start:
+Chapter 11.
+
+Rule:
+Chapters 11-14 escalate convergence without impossible movement.
