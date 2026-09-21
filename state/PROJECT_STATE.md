@@ -1,6 +1,6 @@
 # NORMAL POSITION — PROJECT STATE
 
-Status: PRE-DRAFT / READY TO WRITE
+Status: DRAFTING / CHAPTER 01 PUBLISHED
 
 Working title: **Normal Position**
 
@@ -193,13 +193,15 @@ The final beat may preserve one unresolved object deviation.
 
 Survival creates work.
 
-## Pre-draft status
+## Draft status
 
-**READY.**
+Pre-draft readiness audit:
+**PASS.**
 
-The readiness audit passes.
-
-Next action:
+Published frontier:
 Chapter 01 — The Hook.
 
-A plain **continue** now executes the full chapter pipeline.
+Next action:
+Chapter 02 — Keeping Days.
+
+A plain **continue** executes the full chapter pipeline.
