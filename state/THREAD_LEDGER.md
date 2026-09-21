@@ -1,136 +1,117 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 08.
+Status: ACTIVE THROUGH CHAPTER 09.
 
 ## T1 — OBJECT RETURNS
 State:
-older-normal pattern supported, agency unproven.
-
-Pressure:
-3/5.
-
-Last moved:
-Chapter 08 negative result.
-
-What changed:
-an intentionally removed Lehua object stays gone.
-
-Next:
-hold. Chapter 09 should not add a new anomaly.
-
-## T2 — MALIA AS RESETTER
-State:
-surveillance / validation hunger exposed.
-
-Pressure:
-4/5.
-
-Last moved:
-Chapter 08.
-
-What changed:
-Malia realizes she is disappointed when the slippers do not return.
-
-Next:
-Chapter 09 should make her feel foolish for anticipating a phenomenon.
-
-## T3 — NALANI / KALEI
-State:
-active responsibility / preservation conflict.
-
-Pressure:
-4/5.
-
-Last moved:
-Chapter 08.
-
-What changed:
-Nalani acknowledges Kalei's unequal labor while still insisting future decisions remain discussable.
-
-Next:
-hold below rupture.
-
-## T4 — NOHEA
-State:
-ordinary childhood presence established.
-
-Pressure:
-3/5.
-
-Next:
-hold through Chapter 09.
-
-## T5 — TŪTŪ LEHUA'S ORDER
-State:
-pattern increasingly legible, but not every Lehua object participates.
-
-Pressure:
-3/5.
-
-Last moved:
-Chapter 08.
-
-What changed:
-slippers can leave permanently.
-
-Next:
-avoid totalizing rule.
-
-## T6 — KEONI'S LIFE
-State:
-needs expansion.
+pattern supported, agency unproven.
 
 Pressure:
 2/5.
 
-Next:
-Chapter 09 should substantially foreground his current obligations and work.
+Last moved:
+Chapter 09 false negative.
 
-## T7 — KOA'S CURRENT NORMAL
+Next:
+hold through Chapter 10.
+
+## T2 — MALIA AS RESETTER
 State:
-strong.
+validation hunger recognized.
 
 Pressure:
 3/5.
 
 Last moved:
-Chapter 08.
+Chapter 09.
 
 What changed:
-Koa offers a non-preservation model of memory.
+Malia admits she wanted something to happen.
+
+Next:
+Chapter 10 limits her expertise through Keoni's system.
+
+## T3 — NALANI / KALEI
+State:
+active but held.
+
+Pressure:
+4/5.
+
+Next:
+background only in Chapter 10.
+
+## T4 — NOHEA
+State:
+ordinary childhood identity established.
+
+Pressure:
+3/5.
+
+Next:
+childhood card locked before Chapter 10 / preference phase.
+Do not use her as cause.
+
+## T5 — TŪTŪ LEHUA'S ORDER
+State:
+partial pattern, non-totalizing.
+
+Pressure:
+3/5.
+
+Chapter 09:
+no movement.
+
+## T6 — KEONI'S LIFE
+State:
+substantially expanded.
+
+Pressure:
+3/5.
+
+Last moved:
+Chapter 09.
+
+What changed:
+community repair obligation costs him paid work.
+Reciprocity shown through Kimo / fish exchange.
+
+Next:
+Chapter 10 foregrounds his workshop expertise.
+
+## T7 — KOA'S CURRENT NORMAL
+State:
+active.
+
+Pressure:
+3/5.
+
+Last moved:
+Chapter 09 school project / friends.
 
 ## T8 — ESTATE / FAMILY PLACE FUTURE
 State:
-high.
+high but backgrounded.
 
 Pressure:
 5/5.
 
-Last moved:
-Chapter 08.
-
-What changed:
-property tax, utilities, catchment maintenance, repair labor, and unequal caregiving become explicit.
-
-Next:
-remain present but do not turn Chapter 09 into estate debate.
-
 ## T9 — WEATHER
 State:
-ordinary rain / wet-season maintenance active.
+ordinary wet weather.
 
 Pressure:
 2/5.
 
 ## T10 — HUMAN INTERFERENCE
 State:
-very strong.
+dominant explanatory layer.
 
 Pressure:
 4/5.
 
-Next:
-Chapter 09 ordinary life should dominate interpretation.
+Chapter 09:
+nothing anomalous occurs.
 
 ## T11 — PREFERENCE PHASE
 State:
@@ -141,6 +122,3 @@ Pressure:
 
 Start:
 Chapter 11.
-
-Rule:
-Chapters 11-14 escalate convergence without impossible movement.
