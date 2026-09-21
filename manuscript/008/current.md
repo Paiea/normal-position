@@ -542,6 +542,284 @@ Koa needed a ride.
 
 Nalani found a property-tax notice mixed into old medical papers and spent twenty minutes trying to determine whether it had already been paid.
 
+Then the notice became everybody's problem.
+
+She carried it into the cookhouse.
+
+"Kalei."
+
+Kalei was cutting green onion.
+
+"What?"
+
+"Was this paid?"
+
+Kalei looked at the paper from six feet away.
+
+"Which one?"
+
+"Property tax."
+
+"What year?"
+
+Nalani looked.
+
+"This year."
+
+"Probably."
+
+Nalani shut her eyes.
+
+Malia, drying dishes, felt sympathy for both of them.
+
+"Probably is not a payment method," Nalani said.
+
+"I know."
+
+"Then where's the receipt?"
+
+"Check the blue folder."
+
+"Which blue folder?"
+
+"The house one."
+
+"There are four blue folders."
+
+"Big one."
+
+"Two are big."
+
+Kalei put down the knife.
+
+"You want me to stop cooking?"
+
+"No."
+
+"Then ask Keoni."
+
+"Why would Keoni know?"
+
+"Because he paid online last time."
+
+Nalani stared.
+
+"With whose money?"
+
+Kalei stared back.
+
+"Does that matter if you're asking whether it got paid?"
+
+"Yes."
+
+"Then ask a different question."
+
+Malia put the dish towel down.
+
+This family had become intolerably good at telling people to ask different questions.
+
+Nalani held up the notice.
+
+"Who has been paying for this place?"
+
+Kalei returned to the green onion.
+
+"Depends."
+
+"On what?"
+
+"Which thing."
+
+"Property tax."
+
+"Sometimes me. Sometimes Mom. Keoni did last year because the card wasn't working."
+
+"Insurance?"
+
+Kalei shrugged.
+
+"Mom."
+
+"Utilities?"
+
+"Me mostly."
+
+"Catchment?"
+
+"That's not one bill."
+
+Nalani looked at Malia.
+
+Malia immediately looked away.
+
+Kalei continued.
+
+"Pump was Keoni. Filters are whoever buys them. Roof cleaning, us. Tank cleaning, we hired last time. Gutters, Keoni. Electrical work depends what broke."
+
+Nalani put the notice flat on the counter.
+
+"Why is none of this written down?"
+
+"It is."
+
+"Where?"
+
+Kalei pointed vaguely toward the main house.
+
+Malia said, "Please don't say blue folder."
+
+Kalei almost smiled.
+
+"Green notebook."
+
+Nalani made a sound through her nose.
+
+Malia dried another plate.
+
+The slippers remained at the dump.
+
+Somehow that thought had attached itself to everything.
+
+Nalani said, "This is exactly why we need to decide what happens with the property."
+
+Kalei's knife stopped.
+
+Not dramatically.
+
+Just stopped.
+
+Malia watched.
+
+Nalani saw it too.
+
+"I didn't say sell."
+
+"You thought it."
+
+"Thinking isn't paperwork."
+
+"You make paperwork out of everything."
+
+"I am trying to find out what this costs."
+
+"It costs money."
+
+"Helpful."
+
+"It costs work too."
+
+Nalani leaned against the counter.
+
+"I know that."
+
+"No. You know the sentence."
+
+The same line Kalei had used in Lehua's room.
+
+Nalani's face hardened.
+
+Malia stepped in before either woman could sharpen it further.
+
+"What work isn't being counted?"
+
+Kalei looked at her.
+
+Malia nodded toward the property-tax notice.
+
+"If we're going to talk cost, then what are we missing?"
+
+Kalei wiped the knife.
+
+"Keoni checks the gutters. Fixes the workshop. Keeps the pump alive. Drives Mom when I can't. Koa cuts grass when you can make him. I do the bills, food, appointments, laundry, whatever needs doing."
+
+Nalani said, "You shouldn't have had to do all of it."
+
+Kalei looked at her.
+
+That was not the answer she had expected.
+
+Nalani looked down at the notice.
+
+"I mean that."
+
+Kalei's shoulders changed.
+
+Barely.
+
+Still.
+
+Malia saw it.
+
+Nalani continued.
+
+"But that also doesn't mean nobody gets to ask what happens next."
+
+"I didn't say that."
+
+"You act like every question is an accusation."
+
+"Because most of yours arrive with a deadline."
+
+Nalani folded the notice once.
+
+Then unfolded it because the crease bothered her.
+
+Malia almost laughed.
+
+Did not.
+
+Nalani said, "Fine. No deadline today."
+
+Kalei picked up the knife again.
+
+"Good."
+
+"Tomorrow, maybe."
+
+Kalei looked up.
+
+Nalani smiled.
+
+Small.
+
+Not kind exactly.
+
+Familiar.
+
+Kalei shook her head and kept cutting.
+
+Malia picked up the dish towel.
+
+No resolution.
+
+Still, the room had changed.
+
+The property was not one thing either.
+
+Not asset.
+
+Not burden.
+
+Not inheritance.
+
+Not home.
+
+It was bills and gutters and old grief and somebody remembering to buy filters before the old one failed.
+
+It was Keoni paying online because a card did not work.
+
+It was Kalei knowing which folder mattered.
+
+It was Nalani being allowed to ask whether any of that could keep going.
+
+Malia dried the plate and put it away.
+
+Current shelf.
+
+Current house.
+
+Current problems.
+
 Aunty Nani came by for a casserole dish and stayed long enough to complain about her porch light, which Kalei had fixed but which she now considered too bright.
 
 Keoni returned without the truck bed trash.
