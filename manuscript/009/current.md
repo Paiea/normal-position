@@ -588,6 +588,124 @@ Malia understood that expression too.
 
 Some people believed asking for help promoted their problem to first place.
 
+Keoni's phone buzzed.
+
+He checked it.
+
+His expression changed.
+
+Not much.
+
+Malia had started noticing how little his face needed to move before the answer became no.
+
+"What?"
+
+"Nothing."
+
+She looked at him.
+
+He sighed.
+
+"Guy with the outboard."
+
+"What about him?"
+
+"Was supposed to meet him at ten."
+
+Malia checked the time.
+
+Ten nineteen.
+
+"Did you tell him?"
+
+"Texted before we started."
+
+"And?"
+
+"He has work at noon."
+
+"So you lose the job?"
+
+"No. Probably tomorrow."
+
+Probably.
+
+There it was again.
+
+A word that made everyone else in the family furious and seemed perfectly normal in Keoni's mouth.
+
+Kimo heard enough to understand.
+
+"Eh. My fault."
+
+Keoni kept packing.
+
+"You called."
+
+"I didn't know you had work."
+
+"You called because you needed help."
+
+"Still."
+
+Kimo went to the back of his truck and opened a cooler.
+
+He came back with a plastic bag wrapped around two frozen packs of fish.
+
+Keoni looked at it.
+
+"No."
+
+"For Kalei."
+
+"No."
+
+"Kalei likes akule."
+
+"Everybody likes akule."
+
+"Then take."
+
+Keoni stared at him.
+
+Kimo held the bag farther out.
+
+"You miss your job because my stupid winch, I give fish."
+
+"That's not how invoices work."
+
+"Good thing I'm not paying an invoice."
+
+Kimo's brother said, "Take the fish before he starts talking about friendship."
+
+Kimo turned.
+
+"Fuck you."
+
+Keoni took the bag.
+
+"Mahalo."
+
+Kimo nodded once.
+
+Done.
+
+Malia watched the whole exchange.
+
+No ledger.
+
+No balance achieved.
+
+Keoni had lost part of a workday.
+
+Kimo had given fish.
+
+The fish did not equal the lost job.
+
+Nobody pretended it did.
+
+Still, the exchange mattered.
+
 Keoni packed the failed ratchet into his bag.
 
 Kimo said, "Tomorrow?"
