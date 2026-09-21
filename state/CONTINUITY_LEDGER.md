@@ -1,110 +1,60 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 03.
+Status: ACTIVE THROUGH CHAPTER 04.
 
 ## Time
-
 Current:
-end of Day 4 after Adela's death.
+end of Day 5 after Adela's death.
 
-Working Book One span:
-about 10 days, with severe storm peaking around Day 9 and aftermath on Day 10.
+## Kitchen shelf history
 
-Weather:
-ordinary worsening island weather.
-Not yet severe.
-Enough to justify shutter and storm-board inspection.
+Current normal:
+- lower shelf: everyday household cups
+- middle shelf: metal / work cups
+- top shelf: white visitor cups
 
-## Main house
+Historical childhood normal:
+- top shelf previously held everyday family cups
+- Mara's side was left
+- Lea's side was far right
+- Lea's childhood cup was yellow with painted flowers
+- exact full historical shelf map remains only partially specified
 
-Established through Chapter 03:
-- front key high hook inside front door
-- west key lower hook
-- spare storm lantern now lives on shelf near front door
-- writing desk may move temporarily for maintenance
-- Adela's east room remains closed
-- Mara remains in north / rear room
-- travel bag remains under bed after Chapter 02 human movement
+Chapter 04:
+blue current cup appears on far-right top shelf.
+Human explanation remains plausible.
+Later, a visitor incorrectly puts a pale everyday cup high and Lio moves it down without comment, proving ordinary misplacement occurs.
 
-## Kitchen house
+## Lea memory
 
-Current cup system unchanged:
-- everyday cups low
-- metal / work vessels middle
-- matched white visitor cups high
-- green cracked cup low with crack facing outward
+Mara remembers:
+- Lea's yellow cup
+- painted flowers
+- Lea insisting one flower looked like a chicken
+- ordinary sibling argument about it
 
-Return rack remains active.
-
-## Gear house
-
-Established through Chapter 03:
-- spare storm lantern formerly hung on top peg on left wall during Mara's childhood
-- peg is now empty / repurposed nearby
-- oil remains stored here
-- storm boards and repair gear move through current practical systems
-- Tomas's work remains active and independent
-
-## Storm preparation
-
-Chapter 03 establishes:
-- loose shutter hinge repaired
-- boards inspected before severe weather
-- storage positions changed over years due later repairs
-- some narrow boards now serve kitchen rather than main house
-- weather preparation is routine labor, not omen
-
-## Community circulation
-
-Chapter 03 establishes:
-- ladder and hammer circulate through neighbors without formal checkout
-- guest bedding aired and moved
-- household space changes hands as work requires
+No supernatural interpretation attached.
 
 ## Relationships
 
-### Mara / Lio
-Lio explicitly proves he knows current compound normal better than Mara.
-Mara accepts this without liking it.
-
-### Mara / Tomas
-Tomas identifies Mara's need to preserve historical correctness as a way of being wrong without losing.
-His practical expertise remains non-mystical and independent.
-
 ### Mara / Celina
-Celina articulates:
-things change when you leave.
-She also distinguishes household evolution from the emotional problem of Adela's closed room.
+Celina reacts sharply to Lea's old shelf position, then resists explanation.
 
 ### Mara / Inez
-Inez remains practical authority on maintenance and long-term household changes.
+Inez confirms Lea's old cup color and shelf side.
+She frames the high shelf partly as a spill-control rule.
 
-## Knowledge after Chapter 03
-
-Mara now knows:
-- memory can preserve a real older normal
-- present normal may be different and equally valid
-- spare lantern relocation happened because Adela's mobility declined
-- current storm-board layout reflects later repairs
-- Lio has lived knowledge she lacks
-
-Mara still does NOT know:
-- Adela knowingly waited while Lea was outside
-- Celina tried to open the door
-- Inez's interpretation
-- full Tomas memory
+### Celina / Inez
+Different interpretation of Adela's cup rule appears:
+Inez sees practical control.
+Celina sees surveillance.
 
 ## Supernatural baseline
 
-Reader-facing:
-none confirmed through Chapter 03.
+Still no confirmed supernatural event through Chapter 04.
 
-Every changed object position shown so far has a living, practical cause.
+The blue cup discrepancy is unresolved but completely compatible with living-person movement.
 
-This is intentional.
+## Next pressure
 
-## Critical setup for Chapter 04
-
-The current kitchen cup system is still stable and reader-known.
-
-Chapter 04 may now place a current cup in an older childhood shelf position while preserving human plausibility.
+Chapter 05 enters Adela's room and shifts from shared-object position to privacy, access, and caregiver authority.
