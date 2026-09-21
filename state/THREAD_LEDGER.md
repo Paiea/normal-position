@@ -1,167 +1,171 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 01.
+Status: ACTIVE THROUGH CHAPTER 02.
 
 ## T1 — OBJECT RETURNS
 State:
 not yet visible.
 
 Last moved:
-Chapter 01.
+Chapter 02.
 
 What changed:
-front key normal position and night-return routine established cleanly.
+additional boring normal positions established, especially kitchen cups and return rack.
 
 Pressure:
 0/5.
 
 Next:
-Chapter 02 establishes more boring object normals without payoff.
+Chapter 04 can now violate a cup position meaningfully.
 
 ## T2 — MARA AS RESETTER
 State:
 active.
 
 Last moved:
-Chapter 01.
+Chapter 02.
 
 What changed:
-Mara automatically moves cups, wet dishes, papers, chairs, cloth, and the front key toward orderly states.
-Her skill is useful before it is dangerous.
-Celina notices she uses neatness to avoid emotional answers.
+Mara learns systems she approves of but did not invent.
+She also experiences her own bag being moved for practical household reasons and chooses not to restore it.
 
 Pressure:
 2/5.
 
 Next:
-let Mara's competence help household labor while another character defines a different valid normal.
+Chapter 03 should make Mara confidently wrong about current normal.
 
 ## T3 — CELINA / INEZ
 State:
-old fracture masked by logistics.
+active low-grade conflict.
 
 Last moved:
-Chapter 01.
+Chapter 02.
 
 What changed:
-Celina wants estate inventory tomorrow and expects to leave in roughly three days.
-Inez resists pace through household authority rather than open argument.
+Celina attempts estate inventory during Keeping Days.
+Inez refuses to let paperwork displace living household labor.
 
 Pressure:
-2/5.
+3/5.
 
 Next:
-Keeping Days labor forces them into shared space.
+keep friction practical.
+Do not reveal Lea history yet.
 
 ## T4 — LEA
 State:
-family dead; story simplified.
+background only.
 
 Last moved:
-not directly moved in Chapter 01.
+not directly moved in Chapter 02.
 
 Pressure:
 1/5.
 
 Next:
-remain ordinary background until Chapter 04 pressure.
-Do not rush her into horror.
+Chapter 04 may brush her historical place without full explanation.
 
 ## T5 — ADELA'S ORDER
 State:
-materially present through routine.
+materially present through household systems.
 
 Last moved:
-Chapter 01.
+Chapter 02.
 
 What changed:
-Mara recognizes Adela's exact key placement and table-wiping habits in her own hands.
-Visitor says Mara has Adela's hands.
-Celina says, "Adela trained you."
+Mara recognizes that some household order may come from long-standing function rather than merely Adela's personality.
+Green cracked cup kept because it still works and because Adela liked it.
 
 Pressure:
 2/5.
 
 Next:
-show useful surviving household systems before revealing controlling edge.
+Chapter 03 complicates whether Mara remembers old normal correctly.
 
 ## T6 — TOMAS'S LIFE
 State:
-active local work / family responsibilities.
+active.
 
 Last moved:
-Chapter 01.
+Chapter 02.
 
 What changed:
-repairing Paren's boat generator; leaves compound to return it before dark.
+generator repair led into pump / tiller work.
+He continues leaving family scenes for real obligations.
 
 Pressure:
 1/5.
 
 Next:
-keep repair / weather / boat obligations alive independent of haunting.
+keep his expertise active without turning him into exposition.
 
 ## T7 — LIO'S CURRENT NORMAL
 State:
 active.
 
 Last moved:
-Chapter 01.
+Chapter 02.
 
 What changed:
-repairs his own sandal, manages a neighbor chair exchange, uses the compound as current life rather than archive.
+Lio correctly handles current guest rooms, cups, chair exchanges, and household logistics.
+Mara is beginning to see that he knows present compound use better than she does.
 
 Pressure:
-1/5.
+2/5.
 
 Next:
-Chapter 03 makes his knowledge of current normal causally important.
+Chapter 03 makes that causally explicit.
 
 ## T8 — ESTATE / HOUSE FUTURE
 State:
 active.
 
 Last moved:
-Chapter 01.
+Chapter 02.
 
 What changed:
-Celina wants inventory started tomorrow and plans around a ferry roughly three days away.
-Adela's room remains closed.
+Celina manages only limited inventory.
+The clash between mourning obligation and estate timeline is now concrete.
 
 Pressure:
 3/5.
 
 Next:
-Chapter 02 turns Keeping Days procedure and estate urgency into practical conflict.
+remain present but do not dominate Chapter 03.
 
 ## T9 — WEATHER
 State:
 ordinary island condition.
 
 Last moved:
-Chapter 01.
+Chapter 02.
 
 What changed:
-wind changes shutters / smoke / drying and evening closure procedures.
+wind still affects shutters, smoke, and practical household work.
 
 Pressure:
 1/5.
 
 Next:
-keep weather practical, not ominous.
+Chapter 03 uses weather preparedness to explain a changed object normal.
 
 ## T10 — HUMAN INTERFERENCE
 State:
-always possible.
+strongly normalized.
 
 Last moved:
-Chapter 01 through ordinary family object movement only.
+Chapter 02.
+
+What changed:
+many people legitimately move household objects.
+Mara's own bag is moved with permission by living people.
 
 Pressure:
-1/5.
+2/5.
 
 Next:
-continue teaching how many people legitimately move household objects before any anomaly.
+maintain human plausibility when the first older arrangement appears.
 
 ## Rule
 
