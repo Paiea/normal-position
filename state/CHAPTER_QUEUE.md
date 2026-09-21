@@ -12,18 +12,19 @@
 09 — Nothing Happened
 10 — Keoni's Tools
 11 — The Old Path
-
-## READY
 12 — The Clear Way
 
-## UPCOMING
+## READY
 13 — Nohea's Place
+
+## UPCOMING
 14 — Same Answer
 15 — The Comb
+16 — Three Versions of the Room
 
 ## LOCKED PACING
 11-14 — preference phase
 15 — first clean supernatural confirmation
 
 ## Manuscript frontier
-011 — The Old Path
+012 — The Clear Way
