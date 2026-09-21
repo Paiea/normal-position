@@ -890,7 +890,65 @@ She told herself that was good.
 
 At dinner, the slippers were still gone.
 
-At sunset, gone.
+Koa noticed the empty place beside Tūtū Lehua's chair when he went into the room looking for a charger he had already reclaimed and then forgotten he had reclaimed.
+
+He came back to the table.
+
+"Where's Tūtū's slippers?"
+
+Nalani looked up.
+
+"Dump."
+
+"Oh."
+
+That was all.
+
+Malia watched him sit down.
+
+"You don't care?"
+
+Koa looked at her.
+
+"About the slippers?"
+
+"Yeah."
+
+He thought for a second.
+
+"I care that she wore them."
+
+Malia waited.
+
+Koa took more rice.
+
+"That's not the same as needing to keep them."
+
+Nalani glanced at Kalei.
+
+Kalei was looking at her plate.
+
+Then Kalei said, "Good answer."
+
+Koa shrugged.
+
+"I have those sometimes."
+
+The conversation moved on.
+
+Malia kept thinking about it.
+
+Care did not always mean keeping the thing.
+
+Remembering did not always mean leaving the room unchanged.
+
+A place could lose an object and still hold the life that had used it.
+
+That should have made the empty patch beside the chair easier.
+
+It did, a little.
+
+At sunset, the slippers were still gone.
 
 After the front door was locked and the key returned to its hook, gone.
 
