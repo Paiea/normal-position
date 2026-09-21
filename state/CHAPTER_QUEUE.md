@@ -11,12 +11,12 @@
 08 — Throw It Away
 09 — Nothing Happened
 10 — Keoni's Tools
-
-## READY
 11 — The Old Path
 
-## UPCOMING
+## READY
 12 — The Clear Way
+
+## UPCOMING
 13 — Nohea's Place
 14 — Same Answer
 15 — The Comb
@@ -26,4 +26,4 @@
 15 — first clean supernatural confirmation
 
 ## Manuscript frontier
-010 — Keoni's Tools
+011 — The Old Path
