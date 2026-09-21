@@ -1,6 +1,6 @@
 # NORMAL POSITION — CURRENT STATE
 
-Status: PRE-DRAFT BUILD NEAR COMPLETE.
+Status: PRE-DRAFT / READY.
 
 Next executable chapter:
 01 — The Hook.
@@ -14,10 +14,6 @@ none in reader-facing story.
 Current author truth:
 compound restores / reasserts repeated household arrangements; exact cosmology unresolved.
 
-Current required work before Chapter One:
-- publishing pipeline
-- Autopilot
-- pre-draft audit
+Readiness audit: PASS.
 
-Once those pass:
-plain **continue** means draft, audit, publish, and sync Chapter One.
+Plain **continue** means draft, rehearse, audit, revise, publish, and sync Chapter One.
