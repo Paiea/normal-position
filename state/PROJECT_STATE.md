@@ -1,6 +1,6 @@
 # NORMAL POSITION — PROJECT STATE
 
-Status: DRAFTING / CHAPTER 10 PUBLISHED
+Status: DRAFTING / CHAPTER 11 PUBLISHED
 
 Working title: **Normal Position**
 
@@ -206,9 +206,9 @@ Pre-draft readiness audit:
 **PASS.**
 
 Published frontier:
-Chapter 10 — Keoni's Tools.
+Chapter 11 — The Old Path.
 
 Next action:
-Chapter 11 — The Old Path.
+Chapter 12 — The Clear Way.
 
 A plain **continue** executes the full chapter pipeline.
