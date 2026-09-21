@@ -676,7 +676,7 @@ TARGET:
 ## Chapter 13 — Nohea's Place
 
 STATUS:
-READY AFTER CHAPTER 12.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Escalate preference from route to human place by letting living people unknowingly reconstruct Nohea's childhood spatial footprint.
