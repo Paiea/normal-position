@@ -1,80 +1,93 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 04.
+Status: ACTIVE THROUGH CHAPTER 05.
 
 ## Front key
-Normal: high iron hook inside main-house front door.
-Orientation: straight, leather loop behind.
-Supernatural status: none.
+Normal:
+high iron hook inside main-house front door.
+Orientation:
+straight against wall, leather loop flat behind.
+Shared household access.
+Supernatural status:
+none.
 
 ## West key
-Normal: lower hook beneath front key when not carried.
-Supernatural status: none.
+Normal:
+lower hook beneath front key when not carried.
+Supernatural status:
+none.
 
 ## Kitchen cups
-
 Current normal:
-- lower shelf: everyday household cups
-- middle shelf: metal / work cups
-- top shelf: matched white visitor cups
+lower everyday / middle metal-work / top white visitor.
+Chapter 04 blue-cup event remains unresolved but human-plausible.
 
-Known everyday:
-brown, blue, two pale chipped, green cracked.
+## Tūtū Lehua's comb
 
-### Blue cup
-Current normal:
-lower shelf.
+Object:
+dark horn comb with wide teeth and one shortened worn tooth.
 
-Chapter 04 event:
-found on top shelf, far-right position.
+Normal location:
+shallow ceramic dish beside washstand in Lehua's room.
 
-Historical significance:
-far-right top-shelf position was Nohea's childhood side.
+Normal user:
+Tūtū Lehua during life.
 
-Known human path:
-multiple visitors wash dishes.
-Aunty Nani may have placed it high.
-Later another visitor demonstrably puts a pale everyday cup high, and Koa corrects it.
+Keeper / maintainer:
+Kalei routinely cleaned comb / dish during caregiving.
+
+Touch rule:
+personal grooming object.
+Malia briefly lifts it in Chapter 05 and immediately replaces it when Kalei asks.
+
+Reader normal:
+established.
 
 Current:
-returned to lower shelf.
+in normal ceramic dish beside washstand.
+
+Known deviations:
+none.
 
 Supernatural status:
-none / unresolved event.
+none.
 
-### Nohea's childhood cup
-No longer in current household baseline.
-Historical:
-yellow with painted flowers.
-Far-right top-shelf position.
-Nohea complained one flower looked like a chicken.
-Do not magically reintroduce this original cup without explicit authority.
+Story requirement:
+do not make future return meaningful unless removal / disposal is clearly observed first.
+
+## Lehua room washcloth
+Historical use:
+hands / face / glasses.
+Chapter 05 current use:
+Kalei uses it for cleaning the window frame and puts it in laundry.
+Human movement fully observed.
+
+## Koa's charging cable
+White cable with blue tape near plug.
+Owned by Koa.
+Used by Lehua for roughly nine months.
+Recovered by Koa in Chapter 05.
+Not evidence.
+
+## Kalei's sewing kits
+Blue and yellow sewing kits stored in Lehua's second dresser drawer.
+Owned by Kalei though used by Lehua.
+Not evidence.
 
 ## Spare storm lantern
-Old normal: gear-house top peg.
-Current normal: main-house front shelf.
-Reason changed: Lehua's mobility.
-Supernatural status: none.
-
-## Return rack
-Kitchen-door household-return system.
-Supernatural status: none.
-
-## Lehua's comb
-Normal location:
-Lehua's sleeping area.
-Reader normal:
-not yet established in prose.
-Chapter 05 may establish it through ordinary access / care.
+Old normal:
+workshop top peg.
+Current normal:
+main-house front shelf.
+Human reason established.
 
 ## Malia's travel bag
 Current:
 under bed, zipped.
-Human-moved in Chapter 02.
+Human movement established.
 
 ## Keoni's tool roll
-Reader baseline:
-not yet sufficiently established.
+Reader baseline not yet sufficiently established.
 
 ## Kalei's repair basket
 Ordinary household repair object.
