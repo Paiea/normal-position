@@ -1,116 +1,92 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 02.
-
-Update after every published chapter.
+Status: ACTIVE THROUGH CHAPTER 03.
 
 ## Time
 
-Book opens during the first days after Adela Orlan's death.
-
 Current:
-end of Day 3 after Adela's death.
+end of Day 4 after Adela's death.
 
 Working Book One span:
-about 10 days, with the severe storm peaking around Day 9 and aftermath on Day 10.
+about 10 days, with severe storm peaking around Day 9 and aftermath on Day 10.
 
 Weather:
-ordinary island wind, shifting enough to affect shutters, smoke, drying, and household closure.
-No severe weather yet.
+ordinary worsening island weather.
+Not yet severe.
+Enough to justify shutter and storm-board inspection.
 
-## Compound
+## Main house
 
-### Main house
-Use:
-sleeping, receiving, family gathering, personal storage.
-
-Established through Chapter 02:
-- front key on high iron hook just inside front door
-- small west key on lower hook
-- main room also functions as visitor / meal / estate-paper space during Keeping Days
-- Mara sleeps in one north / rear room
-- another north room can be repurposed for guests
+Established through Chapter 03:
+- front key high hook inside front door
+- west key lower hook
+- spare storm lantern now lives on shelf near front door
+- writing desk may move temporarily for maintenance
 - Adela's east room remains closed
-- Celina keeps estate papers active in main / rear spaces
-- guest bedding can require practical movement of personal belongings
+- Mara remains in north / rear room
+- travel bag remains under bed after Chapter 02 human movement
 
-### Kitchen house
-Use:
-cooking, eating, food storage, water / heat labor.
+## Kitchen house
 
-Current cup system established:
-- everyday household cups on lower shelf
-- metal cups / larger drinking vessels on middle shelf
-- matched white visitor cups on top shelf
-- green cracked cup stays lower with crack facing outward so it is not given to guests
-- brown, blue, pale chipped cups all live on lower shelf in current normal
+Current cup system unchanged:
+- everyday cups low
+- metal / work vessels middle
+- matched white visitor cups high
+- green cracked cup low with crack facing outward
 
-Return rack by door:
-- top shelf covered tins
-- middle baskets
-- bottom pots / heavy dishes
-- social markers identify owners
-- urgency may override pure type sorting
+Return rack remains active.
 
-### Gear house
-Use:
-tools, fishing / boat gear, repair, storm equipment.
+## Gear house
 
-Through Chapter 02:
-- Tomas continues outside repair work
-- west key supports access
-- oil for household lamp stored here
-- Tomas repairs multiple unrelated machines / parts
+Established through Chapter 03:
+- spare storm lantern formerly hung on top peg on left wall during Mara's childhood
+- peg is now empty / repurposed nearby
+- oil remains stored here
+- storm boards and repair gear move through current practical systems
+- Tomas's work remains active and independent
 
-### Yard
-Use:
-movement, cistern, drying, work, inter-building transitions.
+## Storm preparation
 
-Keeping Days traffic:
-visitors, borrowed chairs, dishes, food, bedding, and containers move continuously.
+Chapter 03 establishes:
+- loose shutter hinge repaired
+- boards inspected before severe weather
+- storage positions changed over years due later repairs
+- some narrow boards now serve kitchen rather than main house
+- weather preparation is routine labor, not omen
 
-### Main gate
-Inez checks during closure routine.
+## Community circulation
 
-### West service opening
-Used for work / gear movement by day.
-Barred from inside at night.
+Chapter 03 establishes:
+- ladder and hammer circulate through neighbors without formal checkout
+- guest bedding aired and moved
+- household space changes hands as work requires
 
-## Current relationship state
-
-### Mara / Celina
-Celina wants estate inventory moving faster.
-Mara sees the practical need but resists turning mourning space immediately into a catalog.
-Celina still notices when Mara uses order to avoid emotional answers.
-
-### Mara / Inez
-Mara increasingly respects Inez's lived household systems.
-She also sees how naturally Inez authorizes movement of shared and family belongings.
-
-### Mara / Tomas
-Tomas remains occupied by repair obligations.
-Mara watches his key use and object handling without making it suspicious.
+## Relationships
 
 ### Mara / Lio
-Lio gains ground as someone who knows current household logistics.
-Mara is already being corrected by his present-tense normal.
+Lio explicitly proves he knows current compound normal better than Mara.
+Mara accepts this without liking it.
 
-### Celina / Inez
-Conflict over pace is clearer.
-Celina wants inventory.
-Inez prioritizes living household labor and Keeping Days obligations.
+### Mara / Tomas
+Tomas identifies Mara's need to preserve historical correctness as a way of being wrong without losing.
+His practical expertise remains non-mystical and independent.
 
-No Lea argument yet.
+### Mara / Celina
+Celina articulates:
+things change when you leave.
+She also distinguishes household evolution from the emotional problem of Adela's closed room.
 
-## Knowledge baseline after Chapter 02
+### Mara / Inez
+Inez remains practical authority on maintenance and long-term household changes.
 
-Mara knows:
-- current cup system
-- return rack logic
-- west key / main key distinction
-- current household has changed in ways she does not yet fully know
-- Inez's systems are partly social memory rather than labels
-- Adela's exact placement habits remain in Mara's body
+## Knowledge after Chapter 03
+
+Mara now knows:
+- memory can preserve a real older normal
+- present normal may be different and equally valid
+- spare lantern relocation happened because Adela's mobility declined
+- current storm-board layout reflects later repairs
+- Lio has lived knowledge she lacks
 
 Mara still does NOT know:
 - Adela knowingly waited while Lea was outside
@@ -121,42 +97,14 @@ Mara still does NOT know:
 ## Supernatural baseline
 
 Reader-facing:
-none confirmed.
+none confirmed through Chapter 03.
 
-No object in Chapters 01-02 moved without a plausible living person.
+Every changed object position shown so far has a living, practical cause.
 
-Author truth remains unchanged.
+This is intentional.
 
-## Ordinary-life continuity
+## Critical setup for Chapter 04
 
-Keeping Days remain active.
-Hospitality creates:
-- food
-- cleanup
-- borrowed containers
-- guest bedding
-- chair circulation
-- storage pressure
-- information flow
+The current kitchen cup system is still stable and reader-known.
 
-Tomas's off-plot obligations continue through repair work.
-
-Lio remains active in present household logistics.
-
-Tessa, Paren's sister, is sleeping at the compound as a guest after Chapter 02.
-
-## Object baseline
-
-See OBJECT_LEDGER.
-
-Critical reader-established normals:
-- front key high hook
-- west key lower hook
-- everyday cups lower shelf
-- visitor cups upper shelf
-- metal cups middle shelf
-- return rack by container type / urgency
-
-Mara's travel bag:
-moved under bed by Tessa with Inez's permission to keep passage clear for guest bedding.
-No supernatural implication.
+Chapter 04 may now place a current cup in an older childhood shelf position while preserving human plausibility.
