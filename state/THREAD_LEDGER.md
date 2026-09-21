@@ -1,140 +1,156 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 10.
+Status: ACTIVE THROUGH CHAPTER 11.
 
-## T1 — OBJECT RETURNS
+## T1 — OBJECT / ARRANGEMENT RETURNS
 State:
-pattern supported, agency unproven.
+expanded from object pattern to spatial pattern.
 
 Pressure:
-2/5.
+4/5.
+
+Last moved:
+Chapter 11.
+
+What changed:
+an obsolete household route becomes physically clear through unrelated human actions.
 
 Next:
-Chapter 11 escalates from object arrangement to spatial arrangement without impossible movement.
+Chapter 12 should show the present layout repeatedly losing to the old route.
 
 ## T2 — MALIA AS RESETTER
 State:
-expertise limited by outside competence.
+observing with improved restraint.
 
 Pressure:
 3/5.
 
 Last moved:
-Chapter 10.
+Chapter 11.
 
 What changed:
-Malia accepts that seeing disturbance does not mean she understands the system.
+Malia does not manipulate the yard to create evidence.
+She verifies memory through other people and walks the route only after it exists.
 
 Next:
-Chapter 11 requires her to observe spatial convergence without claiming sole authority too quickly.
+Chapter 12 she may openly restore current flow as household work, not secret experiment.
 
 ## T3 — NALANI / KALEI
 State:
-active background.
+historical memory overlap without major conflict.
+
+Pressure:
+4/5.
+
+Last moved:
+Chapter 11.
+
+What changed:
+both independently recognize the old route.
+
+Next:
+hold argument; use recognition rather than rupture.
+
+## T4 — NOHEA
+State:
+historically adjacent but not causal.
+
+Pressure:
+3/5.
+
+Last moved:
+Chapter 11.
+
+What changed:
+Nohea probably used old route because everyone did.
+
+Next:
+do not over-focus in Chapter 12.
+
+## T5 — TŪTŪ LEHUA'S ORDER
+State:
+household grammar now visible spatially.
 
 Pressure:
 4/5.
 
 Next:
-return through historical route recognition, not estate argument.
+show old route becoming practical without reducing it to Lehua's personal rule.
 
-## T4 — NOHEA
+## T6 — KEONI'S LIFE / EXPERTISE
 State:
-ordinary childhood identity increasingly specific.
+credible skeptical witness.
 
 Pressure:
-3/5.
+4/5.
 
 Last moved:
-Chapter 10.
+Chapter 11.
 
 What changed:
-Keoni remembers screwdriver / plastic-unicorn incident.
+Keoni confirms physical route advantage but withholds causal interpretation.
 
 Next:
-Chapter 11 route may become historically adjacent without making Nohea the cause.
-
-## T5 — TŪTŪ LEHUA'S ORDER
-State:
-historical household grammar supported but non-totalizing.
-
-Pressure:
-3/5.
-
-Next:
-route should reveal a repeated household logic, not simply Lehua's personal preference.
-
-## T6 — KEONI'S LIFE
-State:
-strong independent competence.
-
-Pressure:
-3/5.
-
-Last moved:
-Chapter 10.
-
-What changed:
-workshop expertise fully established.
-
-Next:
-Keoni should remain a credible skeptical witness during preference phase.
+keep him materially grounded.
 
 ## T7 — KOA'S CURRENT NORMAL
 State:
 active.
 
 Pressure:
-3/5.
+4/5.
 
 Last moved:
-Chapter 10.
+Chapter 11.
 
 What changed:
-school-project tool use reinforces current household baseline.
+Koa uses north-side route simply because it is clear.
+
+Next:
+Chapter 12 should make this automatic choice more consequential.
 
 ## T8 — ESTATE / FAMILY PLACE FUTURE
 State:
-high but not foregrounded.
+high but backgrounded.
 
 Pressure:
 5/5.
 
 ## T9 — WEATHER
 State:
-ordinary wet conditions.
+ordinary post-rain logistics.
 
 Pressure:
 2/5.
 
-Next:
-Chapter 11 may use wet yard / drying / practical routes without weather becoming supernatural.
-
 ## T10 — HUMAN INTERFERENCE
 State:
-dominant explanatory layer.
+fully active explanatory layer.
 
 Pressure:
 5/5.
 
 Last moved:
-Chapter 10.
+Chapter 11.
 
 What changed:
-Keoni correctly resolves moved tool through human material evidence.
+every component of the route has a known human cause.
 
 Next:
-Chapter 11 must retain a human explanation for every route component.
+Chapter 12 requires at least four independent human moves again.
 
 ## T11 — PREFERENCE PHASE
 State:
-READY TO START.
+ACTIVE.
 
 Pressure:
-1/5.
+3/5.
 
-Start:
-Chapter 11 — The Old Path.
+Last moved:
+Chapter 11.
 
-Target:
-reader feels convergence before characters can prove agency.
+What changed:
+first spatial convergence.
+
+Next:
+Chapter 12 should create stronger sensation that the older route keeps becoming the easiest practical answer.
