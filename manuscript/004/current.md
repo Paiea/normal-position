@@ -1,6 +1,6 @@
 # The Wrong Cup
 
-By the fifth morning, Mara no longer had to think about the cups.
+By the fifth morning, Malia no longer had to think about the cups.
 
 That annoyed her.
 
@@ -24,11 +24,11 @@ That distinction mattered more than it should have.
 
 The kitchen was cooler than usual. Someone had opened the east shutter before dawn, and the wind moved through in thin clean drafts that kept the hearth smoke low.
 
-Mrs. Aren was already there.
+Aunty Nani was already there.
 
-Mara had learned her name properly on the second day and now regretted every previous year she had referred to her privately as Chair Woman.
+Malia had learned her name properly on the second day and now regretted every previous year she had referred to her privately as Chair Woman.
 
-Mrs. Aren stood at the basin rinsing a pot.
+Aunty Nani stood at the basin rinsing a pot.
 
 "You sleep?" she asked.
 
@@ -38,19 +38,19 @@ Mrs. Aren stood at the basin rinsing a pot.
 
 "It is in hospitality."
 
-Mrs. Aren laughed.
+Aunty Nani laughed.
 
 On the table sat two covered dishes and a basket of fruit.
 
-"More food?" Mara asked.
+"More food?" Malia asked.
 
 "Less."
 
-Mrs. Aren pointed to the covered dishes.
+Aunty Nani pointed to the covered dishes.
 
 "Taking those back."
 
-Mara looked at the return rack.
+Malia looked at the return rack.
 
 Three tins on top.
 
@@ -66,9 +66,9 @@ She recognized almost none of the ownership marks.
 
 "Exactly."
 
-Mrs. Aren dried her hands on the cloth hanging beside the basin.
+Aunty Nani dried her hands on the cloth hanging beside the basin.
 
-"Inez went to the south lane."
+"Kalei went to the south lane."
 
 "For what?"
 
@@ -78,11 +78,11 @@ Mrs. Aren dried her hands on the cloth hanging beside the basin.
 
 "If it were good, I wouldn't mention it."
 
-Mara nodded.
+Malia nodded.
 
 That seemed fair.
 
-"Celina?"
+"Nalani?"
 
 "Main house."
 
@@ -92,7 +92,7 @@ That seemed fair.
 
 "Also fair."
 
-Mrs. Aren lifted one of the covered dishes.
+Aunty Nani lifted one of the covered dishes.
 
 "Take this."
 
@@ -108,11 +108,11 @@ Mrs. Aren lifted one of the covered dishes.
 
 "That was earlier."
 
-Mara took the dish.
+Malia took the dish.
 
-Mrs. Aren picked up the second one herself.
+Aunty Nani picked up the second one herself.
 
-Mara looked at her.
+Malia looked at her.
 
 "What?"
 
@@ -132,17 +132,17 @@ Straight.
 
 Loop behind.
 
-Mara barely looked.
+Malia barely looked.
 
 Progress.
 
-Inside, Celina had the wall clock on the table.
+Inside, Nalani had the wall clock on the table.
 
 The clock's back panel was open.
 
 A small pile of screws sat beside it.
 
-Mara stopped.
+Malia stopped.
 
 "What are you doing?"
 
@@ -158,25 +158,25 @@ Mara stopped.
 
 "That's a dangerous word."
 
-Celina held up a screw.
+Nalani held up a screw.
 
 "This is what grief has done to me. I'm defending provenance before breakfast."
 
-Mrs. Aren put her dish down.
+Aunty Nani put her dish down.
 
-"Adela bought that clock from my brother."
+"Lehua bought that clock from my brother."
 
-Celina froze.
+Nalani froze.
 
 "When?"
 
-Mrs. Aren thought.
+Aunty Nani thought.
 
-"Before Tomas was born."
+"Before Keoni was born."
 
 "How much?"
 
-Mrs. Aren stared at her.
+Aunty Nani stared at her.
 
 "You think I remember what my brother charged your mother forty years ago?"
 
@@ -184,9 +184,9 @@ Mrs. Aren stared at her.
 
 "That's because he complained about the price for twenty years."
 
-Celina reached for her pencil.
+Nalani reached for her pencil.
 
-Mara took the screw from her hand before she lost it.
+Malia took the screw from her hand before she lost it.
 
 "Put the clock back together."
 
@@ -200,7 +200,7 @@ Mara took the screw from her hand before she lost it.
 
 "I do now."
 
-Mrs. Aren left them to it.
+Aunty Nani left them to it.
 
 By eight, the house had begun filling again.
 
@@ -214,7 +214,7 @@ Food arrived in smaller quantities.
 
 Keeping Days were not ending exactly, but the compound no longer felt like the center of the village's gravity.
 
-That suited Mara.
+That suited Malia.
 
 She could move through the yard without carrying something every time.
 
@@ -224,11 +224,11 @@ She could tell which dishes were actually theirs.
 
 Mostly.
 
-Lio came from the gear house holding a coil of wire.
+Koa came from the gear house holding a coil of wire.
 
-"Did Tomas leave?"
+"Did Keoni leave?"
 
-Mara asked.
+Malia asked.
 
 "Before sunrise."
 
@@ -242,7 +242,7 @@ Mara asked.
 
 She waited.
 
-Lio looked at her.
+Koa looked at her.
 
 "What?"
 
@@ -254,7 +254,7 @@ Lio looked at her.
 
 "He works there."
 
-Mara sighed.
+Malia sighed.
 
 "I'm trying to show interest."
 
@@ -262,7 +262,7 @@ Mara sighed.
 
 He walked toward the gate.
 
-"Lio."
+"Koa."
 
 He turned.
 
@@ -274,19 +274,19 @@ The wire repair was gone.
 
 The original strap had been properly stitched.
 
-Mara pointed.
+Malia pointed.
 
 "Who fixed it?"
 
 He shrugged.
 
-"Mrs. Aren."
+"Aunty Nani."
 
-From the yard, Mrs. Aren shouted, "Because I was tired of looking at that stupid wire."
+From the yard, Aunty Nani shouted, "Because I was tired of looking at that stupid wire."
 
-Lio raised one hand in acknowledgment and kept walking.
+Koa raised one hand in acknowledgment and kept walking.
 
-Mara smiled.
+Malia smiled.
 
 Current normal was apparently a village-level conspiracy.
 
@@ -294,7 +294,7 @@ She returned to the kitchen.
 
 The morning cups had accumulated.
 
-Brown on the worktable beside Celina's abandoned tea.
+Brown on the worktable beside Nalani's abandoned tea.
 
 One pale chipped cup by the hearth.
 
@@ -302,7 +302,7 @@ Green cracked cup near the basin.
 
 Blue cup missing.
 
-Mara noticed that last one only because she had started reaching for it.
+Malia noticed that last one only because she had started reaching for it.
 
 She stopped.
 
@@ -326,13 +326,13 @@ Another left with two tins.
 
 Someone used the basin.
 
-Mrs. Aren washed three cups she had not dirtied because apparently boundaries around dishes were weaker than boundaries around furniture.
+Aunty Nani washed three cups she had not dirtied because apparently boundaries around dishes were weaker than boundaries around furniture.
 
-Mara carried fruit outside.
+Malia carried fruit outside.
 
-When she returned, Inez was back.
+When she returned, Kalei was back.
 
-"How bad?" Mara asked.
+"How bad?" Malia asked.
 
 "Sprained wrist."
 
@@ -340,7 +340,7 @@ When she returned, Inez was back.
 
 "At seventy-six, that's enough."
 
-Inez took off her outer wrap and hung it on the peg beside the kitchen door.
+Kalei took off her outer wrap and hung it on the peg beside the kitchen door.
 
 "She has people with her?"
 
@@ -350,11 +350,11 @@ Inez took off her outer wrap and hung it on the peg beside the kitchen door.
 
 "Not for her."
 
-Mara handed her the pale cup.
+Malia handed her the pale cup.
 
-Inez drank without asking whose it was.
+Kalei drank without asking whose it was.
 
-Mara almost smiled.
+Malia almost smiled.
 
 Then she looked at the shelves.
 
@@ -366,7 +366,7 @@ Far right.
 
 Beside the white visitor cups.
 
-Mara stared at it.
+Malia stared at it.
 
 The cup was ordinary.
 
@@ -382,13 +382,13 @@ She set down the fruit knife.
 
 "Who put that there?"
 
-Inez followed her gaze.
+Kalei followed her gaze.
 
 "The cup?"
 
 "Yes."
 
-Inez looked toward the basin.
+Kalei looked toward the basin.
 
 "Probably someone washing."
 
@@ -396,11 +396,11 @@ Inez looked toward the basin.
 
 "I've been gone."
 
-Mrs. Aren was tying cloth around a basket.
+Aunty Nani was tying cloth around a basket.
 
-Mara asked, "Did you put the blue cup up there?"
+Malia asked, "Did you put the blue cup up there?"
 
-Mrs. Aren looked.
+Aunty Nani looked.
 
 "Maybe."
 
@@ -412,17 +412,17 @@ Mrs. Aren looked.
 
 "I put cups with cups."
 
-Mara pointed.
+Malia pointed.
 
 "White high. Everyday low."
 
-Mrs. Aren stared at her for a beat.
+Aunty Nani stared at her for a beat.
 
-"Adela is dead three days and you already have rules."
+"Lehua is dead three days and you already have rules."
 
-Inez coughed into her hand.
+Kalei coughed into her hand.
 
-Mara looked at her.
+Malia looked at her.
 
 "Don't."
 
@@ -430,7 +430,7 @@ Mara looked at her.
 
 "You did internally."
 
-Mrs. Aren picked up the basket.
+Aunty Nani picked up the basket.
 
 "If I put it there, move it."
 
@@ -438,13 +438,13 @@ Simple.
 
 She left.
 
-Mara reached for the blue cup.
+Malia reached for the blue cup.
 
-Before her fingers touched it, Celina came through the doorway.
+Before her fingers touched it, Nalani came through the doorway.
 
 She stopped.
 
-Not at Mara.
+Not at Malia.
 
 At the shelf.
 
@@ -454,23 +454,23 @@ Not fear.
 
 Recognition.
 
-Sharp enough that Mara lowered her hand.
+Sharp enough that Malia lowered her hand.
 
-Celina said, "Why is that there?"
+Nalani said, "Why is that there?"
 
-Mara looked at the cup.
+Malia looked at the cup.
 
 "I was just asking."
 
 "Who put it there?"
 
-"Mrs. Aren might have."
+"Aunty Nani might have."
 
 "Might have?"
 
 "She washed some cups."
 
-Celina crossed the room.
+Nalani crossed the room.
 
 She took the blue cup down.
 
@@ -480,23 +480,23 @@ Water sloshed from the bottom.
 
 There had been water in it.
 
-Celina looked inside.
+Nalani looked inside.
 
-Then at Inez.
+Then at Kalei.
 
-Inez's expression had gone still.
+Kalei's expression had gone still.
 
-Mara noticed both.
+Malia noticed both.
 
 "What?"
 
-Celina put the cup on the worktable.
+Nalani put the cup on the worktable.
 
 "Nothing."
 
 "Absolutely not."
 
-"Mara."
+"Malia."
 
 "You both just did something."
 
@@ -504,7 +504,7 @@ Celina put the cup on the worktable.
 
 "You reacted before you knew what happened."
 
-Celina wiped the wet base with her palm.
+Nalani wiped the wet base with her palm.
 
 "It doesn't go there."
 
@@ -512,7 +512,7 @@ Celina wiped the wet base with her palm.
 
 "No."
 
-Celina looked at the top shelf.
+Nalani looked at the top shelf.
 
 Her eyes went to the far-right corner.
 
@@ -520,17 +520,17 @@ Her eyes went to the far-right corner.
 
 She stopped.
 
-Mara did not move.
+Malia did not move.
 
-Inez picked up the blue cup.
+Kalei picked up the blue cup.
 
 "I'll put it away."
 
-Celina looked at her.
+Nalani looked at her.
 
 "Don't."
 
-Inez held the cup.
+Kalei held the cup.
 
 "Then where would you like it?"
 
@@ -538,9 +538,9 @@ Inez held the cup.
 
 "That is clear."
 
-Mara said, "Who were you going to say?"
+Malia said, "Who were you going to say?"
 
-Celina's face hardened in the small way it did when she had already decided a conversation was over.
+Nalani's face hardened in the small way it did when she had already decided a conversation was over.
 
 "Nobody."
 
@@ -552,13 +552,13 @@ Celina's face hardened in the small way it did when she had already decided a co
 
 "Congratulations."
 
-Inez put the blue cup on the lower shelf.
+Kalei put the blue cup on the lower shelf.
 
 Between the brown and green cups.
 
 Current normal.
 
-Mara looked at the far-right position on the top shelf.
+Malia looked at the far-right position on the top shelf.
 
 White visitor cup.
 
@@ -576,7 +576,7 @@ Or maybe exactly randomly.
 
 A person making space would move whichever cup was nearest.
 
-Mara could not remember which white cup usually sat where.
+Malia could not remember which white cup usually sat where.
 
 She had learned category, not order.
 
@@ -588,17 +588,17 @@ That was all.
 
 Still.
 
-Celina had not reacted to category.
+Nalani had not reacted to category.
 
 She had reacted to position.
 
-"Was that where Lea's cup went?"
+"Was that where Nohea's cup went?"
 
 The room changed without moving.
 
-Inez's hands stopped.
+Kalei's hands stopped.
 
-Celina looked at Mara.
+Nalani looked at Malia.
 
 There it was.
 
@@ -608,37 +608,37 @@ Not loud.
 
 Not dramatic.
 
-Just a person who had been missing from every conversation since Mara arrived.
+Just a person who had been missing from every conversation since Malia arrived.
 
-Celina said, "A long time ago."
+Nalani said, "A long time ago."
 
 "What kind of cup?"
 
 "I don't remember."
 
-Inez did.
+Kalei did.
 
-Mara could tell.
+Malia could tell.
 
 She turned.
 
-Inez had begun wiping the worktable.
+Kalei had begun wiping the worktable.
 
 Too carefully.
 
 "What kind?"
 
-Inez kept wiping.
+Kalei kept wiping.
 
 "Yellow."
 
-Celina looked at her.
+Nalani looked at her.
 
-Inez continued.
+Kalei continued.
 
 "Painted flowers."
 
-Mara saw it.
+Malia saw it.
 
 Not in the room.
 
@@ -646,29 +646,29 @@ In memory.
 
 A small yellow cup with red flowers around the middle.
 
-Lea complaining because one flower looked like a chicken.
+Nohea complaining because one flower looked like a chicken.
 
-Mara telling her it was supposed to be a bird.
+Malia telling her it was supposed to be a bird.
 
-Lea insisting chickens were birds.
+Nohea insisting chickens were birds.
 
 An argument sustained for three days because neither of them had known when to stop.
 
-Mara leaned one hand against the table.
+Malia leaned one hand against the table.
 
 The memory did not hurt in the way people expected grief to hurt.
 
 It arrived complete with irritation.
 
-Lea's voice.
+Nohea's voice.
 
-Lea's certainty.
+Nohea's certainty.
 
 The stupid chicken flower.
 
-Mara said, "She hated that cup."
+Malia said, "She hated that cup."
 
-Inez looked up.
+Kalei looked up.
 
 "No. She hated the flower."
 
@@ -678,17 +678,17 @@ Inez looked up.
 
 "To prove the flower was ugly."
 
-Celina sat down.
+Nalani sat down.
 
 For a second, she smiled.
 
 Then the smile disappeared.
 
-Mara looked back at the top shelf.
+Malia looked back at the top shelf.
 
 "Why there?"
 
-Inez stopped wiping.
+Kalei stopped wiping.
 
 "Your grandmother kept the children's cups high."
 
@@ -696,13 +696,13 @@ Inez stopped wiping.
 
 "So you had to ask."
 
-Mara blinked.
+Malia blinked.
 
-Celina let out one short laugh with no humor in it.
+Nalani let out one short laugh with no humor in it.
 
 "That's one version."
 
-Inez looked at her.
+Kalei looked at her.
 
 "What version do you have?"
 
@@ -714,43 +714,43 @@ Inez looked at her.
 
 "Exactly."
 
-The argument was old before Mara understood it.
+The argument was old before Malia understood it.
 
 Not about the cup.
 
-Not even about Adela.
+Not even about Lehua.
 
 About whether control became care if it prevented a mess.
 
-Mara looked between them.
+Malia looked between them.
 
 "You said children's cups."
 
-Inez nodded.
+Kalei nodded.
 
 "Yours left."
 
-Mara looked at the top shelf.
+Malia looked at the top shelf.
 
-"Lea's right."
+"Nohea's right."
 
-Inez nodded again.
+Kalei nodded again.
 
 "And the middle?"
 
 "Nothing."
 
-Celina said, "Sometimes mine."
+Nalani said, "Sometimes mine."
 
 "You were an adult."
 
-"Adela remained ambitious."
+"Lehua remained ambitious."
 
-Inez gave her a look.
+Kalei gave her a look.
 
-Celina ignored it.
+Nalani ignored it.
 
-Mara reached up and touched the far-right shelf edge.
+Malia reached up and touched the far-right shelf edge.
 
 The wood was smooth there.
 
@@ -764,7 +764,7 @@ She withdrew her fingers.
 
 "How long did that arrangement last?"
 
-Inez considered.
+Kalei considered.
 
 "Until after."
 
@@ -772,7 +772,7 @@ She did not say after what.
 
 Nobody needed her to.
 
-Mara looked at the lower shelf.
+Malia looked at the lower shelf.
 
 Brown.
 
@@ -788,7 +788,7 @@ At some point, everyday cups had moved down.
 
 Visitor cups had gone high.
 
-Lea's yellow cup had disappeared.
+Nohea's yellow cup had disappeared.
 
 The shelves had kept functioning.
 
@@ -802,31 +802,31 @@ There was nothing strange about any of that.
 
 The blue cup being high this morning did not change it back.
 
-Mrs. Aren had probably put it there.
+Aunty Nani had probably put it there.
 
-Or Inez.
+Or Kalei.
 
-Or Lio.
+Or Koa.
 
-Or Celina.
+Or Nalani.
 
-Or some visitor Mara had not learned to name.
+Or some visitor Malia had not learned to name.
 
 Anyone.
 
-An hour later, Mara watched a man from the upper lane prove exactly how little mystery the shelves required.
+An hour later, Malia watched a man from the upper lane prove exactly how little mystery the shelves required.
 
 He rinsed a pale everyday cup, wiped it with the nearest cloth, and set it on the top shelf among the white visitor cups.
 
-Lio crossed behind him, took the pale cup down without comment, and returned it to the lower shelf.
+Koa crossed behind him, took the pale cup down without comment, and returned it to the lower shelf.
 
 The man never noticed.
 
-Mara did.
+Malia did.
 
 "You do that often?" she asked.
 
-Lio looked at the cup.
+Koa looked at the cup.
 
 "Fix other people's mistakes?"
 
@@ -850,13 +850,13 @@ A guest saw cups and put a cup with cups.
 
 Someone who lived here corrected it.
 
-Mara stood at the basin with both hands wet and felt mildly foolish.
+Malia stood at the basin with both hands wet and felt mildly foolish.
 
 The blue cup could have reached the top shelf exactly that way.
 
-Mrs. Aren washed it.
+Aunty Nani washed it.
 
-Mrs. Aren put it high.
+Aunty Nani put it high.
 
 The position happened to be far right because there had been space there.
 
@@ -866,25 +866,25 @@ That should have been enough.
 
 It almost was.
 
-What remained was Celina's face.
+What remained was Nalani's face.
 
 Not fear.
 
 Recognition.
 
-And Inez knowing the cup had been yellow before Mara even finished asking.
+And Kalei knowing the cup had been yellow before Malia even finished asking.
 
-Mara dried her hands.
+Malia dried her hands.
 
 She did not look at the top shelf again until she had a reason.
 
-Mara picked up the blue cup.
+Malia picked up the blue cup.
 
-Inez watched her.
+Kalei watched her.
 
-Celina watched too.
+Nalani watched too.
 
-Mara placed it on the lower shelf.
+Malia placed it on the lower shelf.
 
 Not far right.
 
@@ -894,9 +894,9 @@ Where it belonged now.
 
 Nobody said anything.
 
-Later, Tomas returned smelling of salt and machine oil.
+Later, Keoni returned smelling of salt and machine oil.
 
-Mara met him in the yard.
+Malia met him in the yard.
 
 "Did you use the blue cup this morning?"
 
@@ -920,7 +920,7 @@ He stopped.
 
 He went into the gear house.
 
-Mara followed him as far as the door.
+Malia followed him as far as the door.
 
 "Tessa?"
 
@@ -932,7 +932,7 @@ Mara followed him as far as the door.
 
 "Fuck you."
 
-Tomas laughed.
+Keoni laughed.
 
 That helped.
 
@@ -940,15 +940,15 @@ Inside the kitchen, someone moved a pot.
 
 Someone opened the east shutter another inch.
 
-Lio came through the gate carrying bread.
+Koa came through the gate carrying bread.
 
-He took one look at Mara and said, "What happened?"
+He took one look at Malia and said, "What happened?"
 
 "Why does everyone think something happened?"
 
 "Because you're standing in the yard interrogating cups."
 
-"I asked Tomas one question."
+"I asked Keoni one question."
 
 "You asked me three questions about a lantern yesterday."
 
@@ -958,17 +958,17 @@ He took one look at Mara and said, "What happened?"
 
 He carried the bread inside.
 
-Mara followed.
+Malia followed.
 
 The blue cup remained on the lower shelf.
 
 Of course it did.
 
-At supper, Lio used it.
+At supper, Koa used it.
 
 He drank twice, left it beside his plate, and forgot about it.
 
-Afterward, Mara washed.
+Afterward, Malia washed.
 
 The blue cup went into the basin with everything else.
 
@@ -986,7 +986,7 @@ Chip near base.
 
 Ordinary.
 
-She passed it to Lio.
+She passed it to Koa.
 
 He dried it.
 
@@ -994,7 +994,7 @@ Then he paused.
 
 "Low?"
 
-Mara looked at him.
+Malia looked at him.
 
 He was teasing.
 
@@ -1014,14 +1014,14 @@ Pale.
 
 Current normal.
 
-Mara turned away.
+Malia turned away.
 
-Behind her, Celina said quietly, "That used to be Lea's side."
+Behind her, Nalani said quietly, "That used to be Nohea's side."
 
-Mara looked back.
+Malia looked back.
 
 Her mother was not looking at the cup.
 
 She was looking at the empty far-right space on the top shelf.
 
-Then Celina picked up a towel and began drying dishes as if she had not said anything at all.
+Then Nalani picked up a towel and began drying dishes as if she had not said anything at all.
