@@ -1,40 +1,40 @@
 # NORMAL POSITION — CURRENT STATE
 
-Status: DRAFTING / CHAPTER 11 PUBLISHED.
+Status: DRAFTING / CHAPTER 12 PUBLISHED.
 
 Current manuscript frontier:
-11 — The Old Path.
-
-Next executable chapter:
 12 — The Clear Way.
 
+Next executable chapter:
+13 — Nohea's Place.
+
 Current day:
-Day 11 after Tūtū Lehua's death.
+Day 11 after Tūtū Lehua's death, late afternoon.
 
 Current supernatural confirmation:
 none.
 
 Preference phase:
-ACTIVE.
+ACTIVE / ESCALATING.
 
 Current reader-facing trajectory:
 - Chapter 04 obsolete cup position
 - Chapter 07 collective old shelf arrangement
 - Chapters 08-10 false negatives / expertise limits
-- Chapter 11 obsolete household route re-emerges through independent human actions
+- Chapter 11 obsolete household route emerges once through independent human actions
+- Chapter 12 Malia restores current circulation, but unrelated practical choices again make the old route easiest
 
-Chapter Eleven establishes:
-- current cookhouse normal route uses west-facing main door
-- older route cut diagonally from main house toward north side of cookhouse
-- rebuilt cookhouse still has a narrow north-side service access near that historical approach
-- unrelated chores and objects clear the old diagonal
-- no physical old trail exists in the ground
-- Kalei and Nalani independently remember the historical route
-- Keoni confirms the old route is physically clearer today without endorsing supernatural cause
-- Malia walks it after the fact rather than constructing a test
+Chapter Twelve establishes:
+- the current west-door route can be restored normally
+- no force prevents current use
+- multiple legitimate present-day needs make that route awkward again
+- Koa repeatedly uses the old diagonal because it is easier
+- Keoni independently confirms the old route is easier today
+- Malia chooses not to reset useful current objects merely to restore visual / historical normal
+- repeated convergence now feels directional even though every movement remains human
 
 Current author truth:
 the family place restores / reasserts repeated household arrangements; exact cosmology unresolved.
 
 Next plain **continue**:
-draft Chapter 12 — The Clear Way.
+draft Chapter 13 — Nohea's Place.
