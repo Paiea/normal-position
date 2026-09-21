@@ -661,6 +661,90 @@ Not quickly.
 
 Every object created a tiny jurisdiction problem.
 
+Koa appeared once with half a sandwich in his hand, looked into the second drawer, and said, "That's mine."
+
+Nalani turned.
+
+"What?"
+
+He pointed to a white charging cable coiled beside the sewing kits.
+
+"My charger."
+
+Kalei said, "You have a charger."
+
+"I have another charger because Tūtū took that one."
+
+"Borrowed."
+
+"For nine months?"
+
+"She used it."
+
+"That's not how borrowing works."
+
+Nalani picked up the cable.
+
+"Are you sure?"
+
+Koa gave her a look Malia recognized immediately. The look of a teenager being asked to prove ownership of something nobody else had cared about until five seconds ago.
+
+"It has blue tape by the plug."
+
+Nalani looked.
+
+Blue tape.
+
+Koa held out his hand.
+
+Nalani hesitated.
+
+Not long.
+
+Still long enough that everyone saw it.
+
+Then she gave him the cable.
+
+Koa wrapped it around his fingers.
+
+"Mahalo."
+
+He started toward the door.
+
+Nalani said, "Wait. I should note that it was in here."
+
+Koa stopped.
+
+"Why?"
+
+"For the inventory."
+
+"It's mine."
+
+"I know."
+
+"So inventory me."
+
+Malia covered her mouth.
+
+Kalei did not bother.
+
+She laughed outright.
+
+Nalani pointed at Koa with the pencil.
+
+"Go."
+
+He left.
+
+Malia watched the empty space where the cable had been.
+
+Lehua had used it for nine months.
+
+Koa still considered it his.
+
+Kalei had known both facts without seeing a contradiction.
+
 A sweater Nalani remembered buying but Lehua had worn for years.
 
 A framed picture Keoni had made in elementary school.
