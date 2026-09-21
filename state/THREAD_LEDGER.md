@@ -1,81 +1,69 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 11.
+Status: ACTIVE THROUGH CHAPTER 12.
 
 ## T1 — OBJECT / ARRANGEMENT RETURNS
 State:
-expanded from object pattern to spatial pattern.
+spatial preference repeated.
 
 Pressure:
 4/5.
 
 Last moved:
-Chapter 11.
+Chapter 12.
 
 What changed:
-an obsolete household route becomes physically clear through unrelated human actions.
+current circulation is restored, then independent human decisions again favor the old diagonal.
 
 Next:
-Chapter 12 should show the present layout repeatedly losing to the old route.
+Chapter 13 shifts from route to human spatial footprint.
 
 ## T2 — MALIA AS RESETTER
 State:
-observing with improved restraint.
+restraint improving.
 
 Pressure:
 3/5.
 
 Last moved:
-Chapter 11.
+Chapter 12.
 
 What changed:
-Malia does not manipulate the yard to create evidence.
-She verifies memory through other people and walks the route only after it exists.
+Malia restores current route openly, then refuses to displace useful current objects merely to erase the pattern.
 
 Next:
-Chapter 12 she may openly restore current flow as household work, not secret experiment.
+Chapter 13 should implicate her through an ordinary practical move she makes without recognizing historical meaning.
 
 ## T3 — NALANI / KALEI
 State:
-historical memory overlap without major conflict.
+historical recognition active.
 
 Pressure:
 4/5.
 
-Last moved:
-Chapter 11.
-
-What changed:
-both independently recognize the old route.
-
 Next:
-hold argument; use recognition rather than rupture.
+Chapter 13 Nalani should unknowingly contribute to Nohea's old spatial footprint.
+Kalei later recognizes aggregate.
 
 ## T4 — NOHEA
 State:
-historically adjacent but not causal.
-
-Pressure:
-3/5.
-
-Last moved:
-Chapter 11.
-
-What changed:
-Nohea probably used old route because everyone did.
-
-Next:
-do not over-focus in Chapter 12.
-
-## T5 — TŪTŪ LEHUA'S ORDER
-State:
-household grammar now visible spatially.
+ordinary child identity established; spatial history about to activate.
 
 Pressure:
 4/5.
 
 Next:
-show old route becoming practical without reducing it to Lehua's personal rule.
+Chapter 13 reconstructs her old place without implying desire / agency.
+
+## T5 — TŪTŪ LEHUA'S ORDER
+State:
+older household grammar increasingly directional.
+
+Pressure:
+4/5.
+
+Next:
+human-place arrangement should reveal role / access logic, not just decorative resemblance.
 
 ## T6 — KEONI'S LIFE / EXPERTISE
 State:
@@ -85,72 +73,75 @@ Pressure:
 4/5.
 
 Last moved:
-Chapter 11.
+Chapter 12.
 
 What changed:
-Keoni confirms physical route advantage but withholds causal interpretation.
+he independently confirms route ease again.
 
 Next:
-keep him materially grounded.
+may remain peripheral to initial Chapter 13 recognition.
 
 ## T7 — KOA'S CURRENT NORMAL
 State:
-active.
+strong.
 
 Pressure:
 4/5.
 
 Last moved:
-Chapter 11.
+Chapter 12.
 
 What changed:
-Koa uses north-side route simply because it is clear.
-
-Next:
-Chapter 12 should make this automatic choice more consequential.
+Koa repeatedly chooses the old route because current route is inconvenient.
 
 ## T8 — ESTATE / FAMILY PLACE FUTURE
 State:
-high but backgrounded.
+high.
 
 Pressure:
 5/5.
+
+Next:
+Chapter 13 crowding / rearrangement may arise from estate / sleeping / storage needs.
 
 ## T9 — WEATHER
 State:
-ordinary post-rain logistics.
-
-Pressure:
-2/5.
-
-## T10 — HUMAN INTERFERENCE
-State:
-fully active explanatory layer.
-
-Pressure:
-5/5.
-
-Last moved:
-Chapter 11.
-
-What changed:
-every component of the route has a known human cause.
-
-Next:
-Chapter 12 requires at least four independent human moves again.
-
-## T11 — PREFERENCE PHASE
-State:
-ACTIVE.
+active practical influence.
 
 Pressure:
 3/5.
 
 Last moved:
-Chapter 11.
+Chapter 12.
+
+## T10 — HUMAN INTERFERENCE
+State:
+maximal explanatory layer.
+
+Pressure:
+5/5.
+
+Last moved:
+Chapter 12.
 
 What changed:
-first spatial convergence.
+all route outcomes remain traceable to living people.
 
 Next:
-Chapter 12 should create stronger sensation that the older route keeps becoming the easiest practical answer.
+same rule for Chapter 13.
+
+## T11 — PREFERENCE PHASE
+State:
+ACTIVE / STRONGER.
+
+Pressure:
+4/5.
+
+Last moved:
+Chapter 12.
+
+What changed:
+old route wins twice through separate configurations.
+
+Next:
+Chapter 13 should make the preference feel capable of expressing through people arranging current life.
