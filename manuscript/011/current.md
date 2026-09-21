@@ -1070,6 +1070,26 @@ Not present either.
 
 Just layered.
 
+She looked down for evidence and found none.
+
+No worn groove in the grass.
+
+No line of exposed soil.
+
+No old stones showing through.
+
+The yard had been mowed, repaired, crossed, parked on, dried out, soaked, and used by too many people for too many years to preserve one childhood route like a diagram.
+
+If she had come outside yesterday looking for the old path, she would not have found it.
+
+That mattered.
+
+Nothing buried had surfaced.
+
+Nothing hidden had been uncovered.
+
+The route existed now because the things that usually interrupted it were somewhere else.
+
 Malia kept walking.
 
 She did not picture Nohea.
