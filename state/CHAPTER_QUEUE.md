@@ -1,19 +1,29 @@
 # NORMAL POSITION — CHAPTER QUEUE
 
-## READY SOON
+## PUBLISHED
 
 01 — The Hook
+
+## READY
+
 02 — Keeping Days
+
+## UPCOMING
+
 03 — Current Normal
+04 — The Wrong Cup
 
 ## NEXT CONTRACT EXPANSION
 
-Before drafting 02:
-verify / repair 02-04.
+Before drafting Chapter 02:
+contracts 02-04 are fully expanded.
 
-Before drafting 08:
+Before drafting Chapter 05:
+expand / repair 05-07.
+
+Before drafting Chapter 08:
 run first rolling audit.
 
 ## Manuscript frontier
 
-None.
+001 — The Hook
