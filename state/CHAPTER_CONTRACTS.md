@@ -8,6 +8,9 @@ Future contracts may mutate under AUTOPILOT if canon and governing arc remain in
 
 ## Chapter 01 — The Hook
 
+STATUS:
+COMPLETE / PUBLISHED.
+
 DRAMATIC JOB:
 Establish Mara, compound, Keeping Days, family friction, and object-reading competence without overt haunting.
 
@@ -38,50 +41,157 @@ TARGET:
 
 ## Chapter 02 — Keeping Days
 
-JOB:
-Make culture and household labor real.
+STATUS:
+READY.
 
-MOVE:
-hospitality / mourning work, privacy, estate tension.
+DRAMATIC JOB:
+Make mourning, hospitality, estate pressure, and household labor feel like present-tense life rather than setup for haunting.
 
-OBJECT:
-establish at least two boring normal positions.
+OPENING PRESSURE:
+Morning after Mara's arrival. The compound must receive more visitors while Celina wants to begin inventory and Inez has actual work that cannot wait.
 
-HORROR:
+OBJECT BASELINE:
+- establish current kitchen cup-shelf arrangement naturally through washing / serving
+- re-establish front-key normal without making it ominous
+- allow one additional practical object normal tied to Keeping Days labor
+
+HORROR MOVEMENT:
 none required.
+One object may end somewhere unexpected only if the explanation is immediately plausible and human.
+
+RELATIONSHIP MOVEMENT:
+- Celina and Inez disagree about pace without detonating into Lea history
+- Mara is pulled between helping Inez and helping Celina inventory
+- Lio's present-life knowledge should matter in a small practical way
+- Tomas appears around an off-plot obligation rather than waiting for family scenes
+
+CULTURE MOVEMENT:
+show hospitality creating food, cleanup, containers, chairs, bedding, and information flow.
+Keeping Days should constrain distribution but not stop ordinary work.
+
+THREAD MOVEMENT:
+T2 Mara as resetter
+T3 Celina / Inez
+T5 Adela's order
+T7 Lio current normal
+T8 estate / house future
+T10 human object movement
+
+REQUIRED SETUP:
+current cup shelf must be legible enough for Chapter 04's wrong placement to register later.
+
+FORBIDDEN:
+- supernatural confirmation
+- creepy framing of Adela's room
+- Lea reveal
+- every visitor delivering exposition
+- object spotlighting that announces future clues
 
 EXIT:
-one object in an unexpected but plausible place.
+one ordinary object is in an unexpected place.
+A living person can plausibly have moved it.
+
+TARGET:
+2,500-3,200 words.
 
 ## Chapter 03 — Current Normal
 
-JOB:
-Prove "normal" is time-dependent before haunting exploits it.
+STATUS:
+READY AFTER CHAPTER 02.
 
-MOVE:
-Lio correctly challenges an adult memory of where something belongs.
+DRAMATIC JOB:
+Prove normal position changes over time even without supernatural interference.
 
-CHARACTER:
-Mara must accept somebody younger knows the current house better.
+OPENING PRESSURE:
+Mara begins treating remembered layout as reliable while helping with a practical household task.
+
+OBJECT BASELINE:
+use one object whose location changed during Adela's later years for a legitimate reason.
+Working candidate:
+the spare storm lantern now kept in the main house rather than the gear house because Adela's mobility declined.
+
+HORROR MOVEMENT:
+none required.
+The discomfort comes from Mara being confidently wrong.
+
+RELATIONSHIP MOVEMENT:
+Lio correctly identifies current normal.
+Mara must accept that he knows the present compound better than she does.
+Do not turn Lio into a smug exposition device.
+
+CULTURE MOVEMENT:
+show how weather preparedness changes object placement and how current household needs can override inherited arrangement.
+
+THREAD MOVEMENT:
+T2 Mara as resetter
+T5 Adela's order
+T7 Lio current normal
+T9 weather
+
+REQUIRED SETUP:
+make explicit through action that an older remembered normal can be genuine and still no longer be correct.
+
+FORBIDDEN:
+- haunting confirmation
+- treating Mara's memory as mysteriously corrupted
+- making Lio's knowledge secretly supernatural
 
 EXIT:
-two valid normals now exist.
+Mara holds two legitimate versions of where one thing belongs.
+
+TARGET:
+2,300-3,000 words.
 
 ## Chapter 04 — The Wrong Cup
 
-JOB:
-First older arrangement pressure.
+STATUS:
+WORKING / DEPENDS ON CHAPTER 02 BASELINE.
 
-REQUIRED:
-cup / shelf configuration tied to childhood.
-Celina reacts before explanation.
+DRAMATIC JOB:
+Create the first object placement that feels wrong specifically because the reader now knows the current arrangement.
 
-HORROR:
+OPENING PRESSURE:
+ordinary kitchen work after enough repetition that Mara no longer consciously checks the cup shelf.
+
+OBJECT:
+a current household cup appears in a shelf position associated with Mara's childhood.
+The cup itself is ordinary and current.
+Do not resurrect Lea's original cup.
+
+HORROR MOVEMENT:
 small.
-No proof.
+The placement is older, not physically impossible.
+Human movement remains completely plausible.
+
+RELATIONSHIP MOVEMENT:
+Celina reacts before Mara understands why.
+Inez knows the older arrangement but does not volunteer full context.
+Mara notices the adults are responding to different histories.
+
+CULTURE MOVEMENT:
+cup ownership remains porous enough that movement is normal, while habitual shelf position is still recognizable.
+
+THREAD MOVEMENT:
+T1 object returns / older normal begins
+T3 Celina / Inez
+T4 Lea
+T5 Adela's order
+T10 human interference
+
+REQUIRED SETUP:
+Chapter 02 current cup shelf must remain clear and unchanged until this deviation.
+
+FORBIDDEN:
+- proof the house moved it
+- Lea ghost implication
+- discovering Lea's preserved childhood cup
+- dramatic horror language
 
 EXIT:
-Lea nearly enters conversation.
+Celina begins to say Lea's name or refer to her place, then redirects before fully explaining.
+
+TARGET:
+2,400-3,100 words.
 
 ## Chapter 05 — Adela's Room
 
