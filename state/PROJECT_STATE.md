@@ -1,6 +1,6 @@
 # NORMAL POSITION — PROJECT STATE
 
-Status: DRAFTING / CHAPTER 02 PUBLISHED
+Status: DRAFTING / CHAPTER 03 PUBLISHED
 
 Working title: **Normal Position**
 
@@ -199,9 +199,9 @@ Pre-draft readiness audit:
 **PASS.**
 
 Published frontier:
-Chapter 02 — Keeping Days.
+Chapter 03 — Current Normal.
 
 Next action:
-Chapter 03 — Current Normal.
+Chapter 04 — The Wrong Cup.
 
 A plain **continue** executes the full chapter pipeline.
