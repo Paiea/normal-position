@@ -1,214 +1,122 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 02.
-
-Do not inventory the compound.
-Track recurring objects whose ownership, placement, handling, or history matters.
+Status: ACTIVE THROUGH CHAPTER 03.
 
 ## Front key
 
-Owner:
-family / compound access.
-
-Keeper:
-shared adult household custody.
-Inez currently carries most closure responsibility during Keeping Days, but the key is not exclusively hers.
-
-Normal location:
-high iron hook just inside the main-house front door when nobody is carrying it.
-
-Normal orientation:
-key hangs straight against stone.
-Leather loop lies flattened behind it rather than twisted forward.
-
-Normal user:
-adult family with household access.
-
-Touch rule:
-shared but accountable.
-
-Who notices change:
-Mara, Inez, Tomas.
-
-Practical use:
-main-house entry, locking, storm closure.
-
-Relationship history:
-Adela placed it with exact orientation every night.
-Mara repeats the same motion automatically in Chapter 01.
-
-Last confirmed:
-Chapter 02 morning / active Keeping Days use.
-
-Current:
-normal hook when not in use.
-
-Condition:
-old, heavy iron key with smooth oval bow and leather loop.
-
-Known deviations:
-none.
+Normal:
+high iron hook inside main-house front door.
+Leather loop behind.
+Key straight against stone.
 
 Supernatural status:
 none.
-
-Reader normal established:
-yes.
 
 ## West key
 
+Normal:
+lower hook beneath front key when not carried.
+
+Supernatural status:
+none.
+
+## Spare storm lantern
+
 Owner:
-compound.
+household.
 
-Normal location:
-small lower hook beneath front key when not carried.
+Current normal:
+shelf beside main-house front door.
 
-Normal user:
-household / work access to west service opening.
+Current user:
+household during weather checks / night work.
 
-Known Chapter 02 behavior:
-Tomas retrieves it from normal hook for work after apparently returning it following late access the previous night.
+Historical normal:
+top peg on left wall inside gear house during Mara's childhood.
+
+Reason for change:
+Adela moved / had it moved into main house roughly 7-8 years ago after she stopped crossing yard after dark without assistance.
+
+Who knows current normal:
+Inez, Tomas, Lio.
+
+Who remembers historical normal:
+Mara, Celina, Tomas.
+
+Chapter 03 state:
+used by Lio during shutter / latch inspection, returned to current main-house shelf.
 
 Supernatural status:
 none.
 
 Reader normal established:
-yes.
+yes, including historical normal.
 
-## West service bar
+## Storm boards
 
 Owner:
 compound.
 
-Normal use:
-opening available for work / gear movement by day; barred from inside during night closure.
+Current system:
+positions reflect later window / wall repairs.
+Some narrow boards now stored on right for kitchen use.
+Trimmed former main-house boards stored lower.
+
+Historical system:
+Mara remembers narrow boards on left.
+
+Reason for change:
+repairs changed fit.
 
 Supernatural status:
 none.
 
 ## Kitchen cups
 
-Owner:
-household, with habitual individual use but porous ownership.
+Current normal unchanged:
+- lower: everyday glazed cups
+- middle: metal / work vessels
+- top: matched white visitor cups
 
-Current normal:
-- lower shelf: everyday glazed household cups
-- middle shelf: metal cups / larger drinking vessels used for yard / work
-- top shelf: six matched white visitor cups
+Lower shelf known:
+brown, blue, two pale chipped, green cracked.
 
-Known lower-shelf cups:
-- brown
-- blue
-- two pale chipped cups
-- green cracked cup
+Green crack faces outward.
 
-Green cup rule:
-crack faces outward so nobody accidentally gives it to a visitor.
-Still functional.
-Adela liked it.
-
-Brown cup:
-Celina often uses it though it is not exclusively hers.
-
-White cups:
-used for visitors such as Tessa.
-
-Reader normal established:
-yes, strongly in Chapter 02.
+Chapter 04 dependency:
+do not alter this state before the planned wrong-position beat.
 
 Supernatural status:
 none.
 
 ## Return rack
 
-Owner:
-household system.
-
-Location:
-beside kitchen-house door.
-
-Current normal:
-- top: covered tins
-- middle: baskets
-- bottom: pots / heavy dishes
-- owner marks remain with container
-- urgency / return timing can override pure category
-
-Who knows system:
-Inez fully.
-Lio substantially.
-Mara partly after Chapter 02.
-
-Function:
-Keeping Days hospitality / return logistics.
+Current normal unchanged.
 
 Supernatural status:
 none.
 
 ## Adela's comb
 
-Owner:
-Adela before death; inheritance unresolved.
+Reader normal not yet sufficiently established.
 
-Normal location:
-Adela's sleeping area.
-
-Reader normal established:
-no.
-
-Do not use as anomaly yet.
+Do not use as anomaly.
 
 ## Mara's travel bag
 
-Owner:
-Mara.
-
-Starting normal:
-beside wall in Mara's north / rear sleeping room, zipped and not fully unpacked.
-
-Chapter 02 movement:
-Tessa moves bag under Mara's bed with Inez's permission so the passage remains clear for guest bedding.
-
 Current:
-under Mara's bed, still zipped.
-
-Interpretation:
-fully human and practical.
+under Mara's bed after Tessa moved it with Inez's permission.
 
 Supernatural status:
 none.
 
 ## Tomas's tool roll
 
-Owner:
-Tomas.
-
-Reader normal established:
-not yet sufficiently.
-
-Do not turn into clue yet.
+Still not sufficiently baseline-established for clue use.
 
 ## Inez's repair basket
 
-Owner:
-Inez.
-
-Normal use:
-ordinary household mending / repair work.
-
-Supernatural status:
-none.
-
-## Borrowed chairs
-
-Owner:
-Mrs. Aren.
-
-Current:
-temporarily at Orlan compound while Orlan chairs circulate for visitors.
-
-Status:
-ordinary household / village exchange.
+Ordinary household mending tool.
 
 Supernatural status:
 none.
