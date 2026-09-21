@@ -1,74 +1,77 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 08.
+Status: ACTIVE THROUGH CHAPTER 09.
 
 ## Time
 Current:
-morning of Day 10 after Tūtū Lehua's death.
+end of Day 10 after Tūtū Lehua's death.
 
-## Slippers
+## Chapter 09 false-negative state
 
-Object:
-Tūtū Lehua's worn gray rubber house slippers.
+Tūtū Lehua's slippers:
+still gone.
 
-Baseline:
-- flattened heel wear
-- one splitting strap
-- ordinary late-life position beside Lehua's chair / bed
-- no sacred / inherited significance
-- Kalei used to help put them on Lehua's feet
+Comb:
+still in normal ceramic dish.
 
-Chapter 08:
-- Nalani chooses to discard them
-- Kalei objects emotionally, then agrees they do not need to be kept
-- slippers placed in trash bag
-- Malia carries bag to Keoni's truck
-- Keoni later takes trash away
-- slippers remain gone through chapter end and next morning
+Front key:
+used by visible household members and returned normally.
 
-Current state:
-gone.
+Kitchen cups:
+remain in current arrangement.
 
-No replacement object appears.
-No return occurs.
+No older arrangement emerges.
 
-## Family-place responsibility
+No new anomaly occurs.
 
-Chapter 08 establishes:
-- property tax is shared / historically covered irregularly
-- Kalei handles many ongoing bills / household needs
-- Keoni has paid some expenses and handles practical repairs
-- catchment maintenance has multiple components / costs
-- family labor is distributed unevenly
-- Nalani has a legitimate interest in understanding ongoing financial / practical sustainability
+## Keoni current-life continuity
 
-This is a current conflict, not merely a symbolic one.
+Chapter 09:
+- Kimo's trailer winch ratchet is stripped
+- Keoni helps stabilize / reseat the boat using a come-along and safety chain
+- replacement ratchet does not fit
+- proper winch repair deferred
+- helping Kimo causes Keoni to miss / postpone a paid outboard job
+- Kimo gives frozen akule as reciprocal gesture
+- Kalei plans to use fish for next day's dinner
+
+Keoni's work is materially connected to community reciprocity, not only family haunting.
+
+## Koa
+Chapter 09:
+working with school friends on a history presentation under the lanai.
+
+Current-life thread remains active.
+
+## Malia
+
+Chapter 09:
+- leaves house for several hours
+- performs useful present-tense work at boat ramp
+- returns and checks for anomaly
+- finds none
+- admits she wanted something to happen
+
+Important:
+this is embarrassment / self-recognition, not cure.
 
 ## Relationships
 
-### Malia / Kalei
-Kalei tells Malia directly that she wants one answer too badly.
-Malia cannot fully deny this.
-
-### Nalani / Kalei
-The slippers and property-tax discussion sharpen the difference between preservation and sustainability.
-Nalani also explicitly acknowledges Kalei should not have had to carry everything alone.
-
-### Malia / Koa
-Koa distinguishes caring that Lehua wore the slippers from needing to preserve the slippers themselves.
-
 ### Malia / Keoni
-Keoni continues treating ordinary removal as ordinary removal.
+Deepened.
+Keoni becomes clearer as frame-breaker:
+he can help without converting every obligation into a moral theory and can acknowledge weirdness without making it his job.
+
+### Malia / Kalei
+Kalei continues challenging Malia's desire for one answer.
 
 ## Supernatural baseline
-
-Still no confirmed supernatural event through Chapter 08.
-
-Important negative result:
-removing a Lehua-owned object does not cause automatic restoration.
+Still no clean supernatural confirmation through Chapter 09.
 
 ## Next pressure
 
-Chapter 09 must remain genuinely quiet.
-Malia may check established states, but nothing should answer her.
-Keoni's off-plot work / obligations should dominate.
+Chapter 10 must:
+- establish Keoni's tool system
+- make Malia's expertise locally insufficient
+- use human residue, not supernatural movement
+- prepare readers to trust Keoni's spatial / material judgment before preference phase begins.
