@@ -1,16 +1,16 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 12.
+Status: ACTIVE THROUGH CHAPTER 13.
 
 ## Front key
 Current:
 normal.
-No Chapter 12 anomaly.
+No Chapter 13 anomaly.
 
 ## Kitchen shelf
 Current:
 normal.
-No Chapter 12 anomaly.
+No Chapter 13 anomaly.
 
 ## Tūtū Lehua's comb
 Current:
@@ -27,42 +27,48 @@ No return.
 Current:
 main-house front shelf.
 
-## Chapter 12 route components
+## Chapter 13 current-room objects
 
-These remain ordinary household objects.
-
-### Laundry
-Opening:
-line restored to usual yard position.
-Later:
-moved under lanai due rain.
-
-### Donation bags
-Staged by Nalani near west-side cookhouse approach due dry-space constraints.
-Some later moved after Aunty Nani catches one.
-
-### Aluminum seat frame
-Keoni stores under workshop overhang because workshop interior lacks room.
-Narrows west approach.
-
-### Glue chair / school-project station
-Koa places near cookhouse overhang because lanai wind interferes with glue and cookhouse interior is unavailable.
-Further narrows west approach.
-
-### North service door
-Used repeatedly by Koa because old diagonal is easiest.
-No autonomous opening / closing.
-
-## Route interpretation
-
+### Spare foam mattress
 Current:
-historical diagonal remains easier by chapter end.
+laid flat along east wall of flexible north room.
+Reason:
+free wall / floor access for estate storage.
+Still useful there at chapter end.
 
-Important:
-nothing physically compels use.
-Current route remains possible.
+Historical resemblance:
+matches Nohea's old sleeping edge.
 
-## Chapter 13 rule
-Do not make route the main event again.
-Shift to an interior human-place configuration using current objects.
-Original Nohea objects must not return.
+### Low plastic tote
+Moved by Nalani near foot of mattress.
+Later moved under window.
+No anomaly.
+
+### Chair
+Moved by Koa into room for fan use.
+Kalei later adjusts angle from remembered habit.
+Koa removes it again for laptop / presentation use.
+No anomaly.
+
+### Blue plastic tumbler
+Koa leaves on right-side shelf.
+Malia later returns it to him.
+No anomaly.
+
+### Archive boxes
+Temporarily stored in room.
+Kalei later removes them after current need changes.
+
+## Nohea original objects
+
+Do NOT reintroduce:
+- yellow flowered cup
+- childhood blue crate
+- childhood bedding
+- tin whistle
+
+unless future authority explicitly permits.
+
+## Chapter 14 rule
+Broaden the old grammar across multiple domains.
+Do not reuse this room as the main convergence engine.
