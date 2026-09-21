@@ -1,6 +1,6 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 09.
+Status: ACTIVE THROUGH CHAPTER 10.
 
 ## T1 — OBJECT RETURNS
 State:
@@ -9,75 +9,76 @@ pattern supported, agency unproven.
 Pressure:
 2/5.
 
-Last moved:
-Chapter 09 false negative.
-
 Next:
-hold through Chapter 10.
+Chapter 11 escalates from object arrangement to spatial arrangement without impossible movement.
 
 ## T2 — MALIA AS RESETTER
 State:
-validation hunger recognized.
+expertise limited by outside competence.
 
 Pressure:
 3/5.
 
 Last moved:
-Chapter 09.
+Chapter 10.
 
 What changed:
-Malia admits she wanted something to happen.
+Malia accepts that seeing disturbance does not mean she understands the system.
 
 Next:
-Chapter 10 limits her expertise through Keoni's system.
+Chapter 11 requires her to observe spatial convergence without claiming sole authority too quickly.
 
 ## T3 — NALANI / KALEI
 State:
-active but held.
+active background.
 
 Pressure:
 4/5.
 
 Next:
-background only in Chapter 10.
+return through historical route recognition, not estate argument.
 
 ## T4 — NOHEA
 State:
-ordinary childhood identity established.
-
-Pressure:
-3/5.
-
-Next:
-childhood card locked before Chapter 10 / preference phase.
-Do not use her as cause.
-
-## T5 — TŪTŪ LEHUA'S ORDER
-State:
-partial pattern, non-totalizing.
-
-Pressure:
-3/5.
-
-Chapter 09:
-no movement.
-
-## T6 — KEONI'S LIFE
-State:
-substantially expanded.
+ordinary childhood identity increasingly specific.
 
 Pressure:
 3/5.
 
 Last moved:
-Chapter 09.
+Chapter 10.
 
 What changed:
-community repair obligation costs him paid work.
-Reciprocity shown through Kimo / fish exchange.
+Keoni remembers screwdriver / plastic-unicorn incident.
 
 Next:
-Chapter 10 foregrounds his workshop expertise.
+Chapter 11 route may become historically adjacent without making Nohea the cause.
+
+## T5 — TŪTŪ LEHUA'S ORDER
+State:
+historical household grammar supported but non-totalizing.
+
+Pressure:
+3/5.
+
+Next:
+route should reveal a repeated household logic, not simply Lehua's personal preference.
+
+## T6 — KEONI'S LIFE
+State:
+strong independent competence.
+
+Pressure:
+3/5.
+
+Last moved:
+Chapter 10.
+
+What changed:
+workshop expertise fully established.
+
+Next:
+Keoni should remain a credible skeptical witness during preference phase.
 
 ## T7 — KOA'S CURRENT NORMAL
 State:
@@ -87,38 +88,53 @@ Pressure:
 3/5.
 
 Last moved:
-Chapter 09 school project / friends.
+Chapter 10.
+
+What changed:
+school-project tool use reinforces current household baseline.
 
 ## T8 — ESTATE / FAMILY PLACE FUTURE
 State:
-high but backgrounded.
+high but not foregrounded.
 
 Pressure:
 5/5.
 
 ## T9 — WEATHER
 State:
-ordinary wet weather.
+ordinary wet conditions.
 
 Pressure:
 2/5.
+
+Next:
+Chapter 11 may use wet yard / drying / practical routes without weather becoming supernatural.
 
 ## T10 — HUMAN INTERFERENCE
 State:
 dominant explanatory layer.
 
 Pressure:
-4/5.
+5/5.
 
-Chapter 09:
-nothing anomalous occurs.
+Last moved:
+Chapter 10.
+
+What changed:
+Keoni correctly resolves moved tool through human material evidence.
+
+Next:
+Chapter 11 must retain a human explanation for every route component.
 
 ## T11 — PREFERENCE PHASE
 State:
-not started.
+READY TO START.
 
 Pressure:
-0/5.
+1/5.
 
 Start:
-Chapter 11.
+Chapter 11 — The Old Path.
+
+Target:
+reader feels convergence before characters can prove agency.
