@@ -1,12 +1,12 @@
 # NORMAL POSITION — CURRENT STATE
 
-Status: DRAFTING / CHAPTER 10 PUBLISHED.
+Status: DRAFTING / CHAPTER 11 PUBLISHED.
 
 Current manuscript frontier:
-10 — Keoni's Tools.
+11 — The Old Path.
 
 Next executable chapter:
-11 — The Old Path.
+12 — The Clear Way.
 
 Current day:
 Day 11 after Tūtū Lehua's death.
@@ -14,25 +14,27 @@ Day 11 after Tūtū Lehua's death.
 Current supernatural confirmation:
 none.
 
-Current reader-facing pattern:
+Preference phase:
+ACTIVE.
+
+Current reader-facing trajectory:
 - Chapter 04 obsolete cup position
-- Chapter 06 human-plausible key custody gap
 - Chapter 07 collective old shelf arrangement
-- Chapter 08 removed slippers stay gone
-- Chapter 09 deliberate checks produce no phenomenon
-- Chapter 10 workshop disturbance is correctly explained by Keoni through ordinary material evidence
+- Chapters 08-10 false negatives / expertise limits
+- Chapter 11 obsolete household route re-emerges through independent human actions
 
-Chapter Ten establishes:
-- Keoni's workshop is ordered by task, job state, sequence, use, and material knowledge rather than visual neatness
-- Malia's expertise does not generalize automatically
-- Koa uses and returns workshop tools as part of current life
-- Aunty Nani borrowed Keoni's long-nose pliers for porch-light work
-- Keoni correctly identifies her through fresh wire / crimp evidence
-- Nohea once borrowed Keoni's screwdriver to open Malia's plastic unicorn and returned it to the kitchen towel drawer
-- Malia accepts that normal position depends partly on whose work the object belongs to
+Chapter Eleven establishes:
+- current cookhouse normal route uses west-facing main door
+- older route cut diagonally from main house toward north side of cookhouse
+- rebuilt cookhouse still has a narrow north-side service access near that historical approach
+- unrelated chores and objects clear the old diagonal
+- no physical old trail exists in the ground
+- Kalei and Nalani independently remember the historical route
+- Keoni confirms the old route is physically clearer today without endorsing supernatural cause
+- Malia walks it after the fact rather than constructing a test
 
-Pre-confirmation pacing:
-Chapter 11 begins the preference phase.
+Current author truth:
+the family place restores / reasserts repeated household arrangements; exact cosmology unresolved.
 
 Next plain **continue**:
-draft Chapter 11 — The Old Path.
+draft Chapter 12 — The Clear Way.
