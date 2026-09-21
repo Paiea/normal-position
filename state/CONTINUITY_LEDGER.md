@@ -1,74 +1,90 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 06.
+Status: ACTIVE THROUGH CHAPTER 07.
 
 ## Time
 Current:
-Day 7 after Tūtū Lehua's death.
+Day 8 after Tūtū Lehua's death.
 
-## Weather
-Steady rain in Chapter 06.
-Not severe.
-Enough to:
-- close doors / windows
-- bring chairs and laundry inside
-- increase roof / gutter / catchment work
-- make hearing movement less reliable
+## Front key test result
 
-## Front key
-
-Normal state:
-- high hook beside front door
-- straight against wall
-- leather loop behind
-
-Chapter 06 custody sequence:
-1. Kalei visibly takes front key in rain jacket before leaving to help Aunty Nani.
-2. Malia later finds key back on hook in exact normal orientation.
-3. Malia did not personally witness Kalei return.
-4. Nalani did not knowingly return it.
-5. Koa says he did not.
-6. Keoni says he did not.
-7. Micah passed through the front during the interval to deliver groceries / retrieve extension cord.
-8. Kalei does not remember whether she handed the key off.
-9. Koa notes that many people familiar with the house know how Tūtū Lehua hung the key.
-
-No chain of custody is complete.
-
-Chapter 06 final test state:
-Malia deliberately leaves:
-- key leaning slightly right
+Malia's Chapter 06 private test:
+- key left leaning slightly right
 - leather loop forward
 
-No one is told.
+Chapter 07:
+Koa says he used the front key after visiting Micah and rehung it normally.
 
-This is the first intentional author-observed deviation created by Malia herself.
+Result:
+NO EVIDENCE.
+The corrected orientation has a direct living-person explanation.
 
-## Catchment
-Chapter 06:
-filter clogs with ordinary roof / leaf debris.
-Keoni and Koa clean it.
+Malia's test is now known / suspected by:
+- Nalani
+- Koa
+- Kalei
+
+Malia's surveillance tendency is becoming socially visible.
+
+## Historical kitchen shelf
+
+Current normal:
+- lower: everyday cups
+- middle: metal / work vessels
+- top: white visitor cups
+
+Older childhood normal, approximate:
+- top shelf: children
+  - Malia left
+  - Nohea right
+- middle shelf: adults, with exact positions varying by period
+- lower shelf: more work / metal use in the relevant remembered period
+
+Chapter 07 older-pattern event:
+Current objects temporarily occupy this older positional grammar.
+
+Known individual human explanations exist for several placements.
+
+No one is confirmed to have intentionally arranged the whole shelf.
+
+Malia restores current normal afterward.
+
+## Nohea memory
+
+New ordinary memory:
+- Nohea climbed kitchen furniture to reach cups
+- she frequently stole Malia's cup
+- claimed water tasted colder from it
+- once bribed Malia with half a li hing mui candy after being caught
+
 No supernatural implication.
 
 ## Relationships
 
-### Malia / Nalani
-Nalani recognizes Malia's surveillance instinct and challenges it directly.
-Malia lies when asked whether she is testing the key.
-
 ### Malia / Kalei
-Kalei resists Malia's demand for exact handoff memory.
-She tells Malia to ask better questions.
+Kalei explicitly tells Malia not to test people without telling them.
+Malia cannot deny that her key experiment did exactly that.
 
 ### Malia / Koa
-Koa points out that Malia is asking people to remember boring events they do not normally log.
+Koa identifies the key test and provides the mundane explanation that defeats it.
 
-### Malia / Keoni
-Keoni frames Malia's problem as asking variable questions and getting angry at variable answers.
+### Malia / Nalani
+Nalani recognizes Malia's pattern-naming impulse and remains skeptical of surveillance logic.
+
+### Family / shelf history
+Nalani and Kalei disagree about why Lehua organized cups by age / access:
+- Kalei emphasizes practical ownership / spill prevention
+- Nalani emphasizes monitoring
+Both agree the arrangement existed.
 
 ## Supernatural baseline
-Still no confirmed supernatural event through Chapter 06.
+
+Still no confirmed supernatural event through Chapter 07.
+
+Pattern confidence increases, agency confidence does not.
 
 ## Next pressure
-Chapter 07 checks Malia's private key test and introduces a broader older shelf arrangement.
-Each movement must remain individually explainable by living hands.
+
+Chapter 08 must test removal without rewarding the test.
+Nalani removes / discards one Lehua object for human reasons.
+The object must stay gone through chapter exit.
