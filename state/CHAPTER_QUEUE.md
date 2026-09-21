@@ -4,20 +4,19 @@
 
 01 — The Hook
 02 — Keeping Days
+03 — Current Normal
 
 ## READY
 
-03 — Current Normal
+04 — The Wrong Cup
 
 ## UPCOMING
 
-04 — The Wrong Cup
 05 — Adela's Room
+06 — Back on the Hook
+07 — The Old Shelf
 
 ## NEXT CONTRACT EXPANSION
-
-Before drafting Chapter 03:
-contracts 03-04 remain valid.
 
 Before drafting Chapter 05:
 expand / repair 05-07.
@@ -27,4 +26,4 @@ run first rolling audit.
 
 ## Manuscript frontier
 
-002 — Keeping Days
+003 — Current Normal
