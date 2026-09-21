@@ -1,165 +1,134 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 03.
+Status: ACTIVE THROUGH CHAPTER 04.
 
 ## T1 — OBJECT RETURNS
 State:
-not yet visible as supernatural.
+first older-position discrepancy visible, not supernatural.
 
 Last moved:
-Chapter 03 conceptually.
-
-What changed:
-book now distinguishes current normal from historical normal before first older-position anomaly.
+Chapter 04.
 
 Pressure:
-1/5.
+2/5.
 
 Next:
-Chapter 04 introduces first older arrangement pressure through cup position.
+do not escalate immediately. Chapter 05 should focus human access / privacy.
 
 ## T2 — MARA AS RESETTER
 State:
 active.
 
 Last moved:
-Chapter 03.
+Chapter 04.
 
 What changed:
-Mara is confidently wrong about current lantern and storm-board locations.
-She accepts that old normal can remain true in memory without being useful now.
+Mara restores blue cup to current lower shelf after learning its older position.
+She now knows restoring current normal can erase historical information.
 
 Pressure:
 3/5.
-
-Next:
-Chapter 04 tests whether Mara recognizes an older arrangement before understanding why it matters.
 
 ## T3 — CELINA / INEZ
 State:
-active low-grade conflict.
+history beginning to surface through objects.
 
 Last moved:
-Chapter 03 lightly.
+Chapter 04.
 
 What changed:
-estate friction remains present but does not dominate.
+they disagree about whether Adela's old shelf rule was practical care or monitoring.
 
 Pressure:
 3/5.
 
 Next:
-Chapter 04 lets their different historical reactions surface through cup placement.
+Chapter 05 turns disagreement toward access and ownership.
 
 ## T4 — LEA
 State:
-background only.
+materially present through ordinary memory, not horror.
 
 Last moved:
-not directly moved in Chapter 03.
-
-Pressure:
-1/5.
-
-Next:
-Chapter 04 allows Lea's historical place to brush the scene without full reveal.
-
-## T5 — ADELA'S ORDER
-State:
-more complicated.
-
-Last moved:
-Chapter 03.
+Chapter 04.
 
 What changed:
-some placement changes were made by Adela herself for practical late-life reasons.
-Her "order" was not static across decades.
-
-Pressure:
-3/5.
-
-Next:
-older household arrangement starts competing with later Adela normal.
-
-## T6 — TOMAS'S LIFE
-State:
-active.
-
-Last moved:
-Chapter 03.
-
-What changed:
-north-cove winch and storm-maintenance work continue independent of family plot.
-
-Pressure:
-1/5.
-
-Next:
-keep lateral work alive.
-
-## T7 — LIO'S CURRENT NORMAL
-State:
-active and validated.
-
-Last moved:
-Chapter 03.
-
-What changed:
-Lio correctly identifies current lantern and storm-board positions.
-His knowledge is not comic garnish.
-
-Pressure:
-3/5.
-
-Next:
-retain him as current-house authority.
-
-## T8 — ESTATE / HOUSE FUTURE
-State:
-active.
-
-Last moved:
-Chapter 03 lightly through Celina's inventory attempts.
-
-Pressure:
-3/5.
-
-Next:
-Chapter 04 should not let estate plot vanish, but object anomaly takes foreground.
-
-## T9 — WEATHER
-State:
-practical pressure increasing.
-
-Last moved:
-Chapter 03.
-
-What changed:
-household begins routine checks for incoming weather.
-No storm emergency.
+yellow flowered cup and chicken-flower argument enter canon.
 
 Pressure:
 2/5.
 
 Next:
-continue practical background pressure without gothic inflation.
+hold. Do not turn Lea into phenomenon.
 
-## T10 — HUMAN INTERFERENCE
+## T5 — ADELA'S ORDER
 State:
-strongly normalized.
+care/control duality increasingly explicit.
 
 Last moved:
-Chapter 03.
-
-What changed:
-neighbors, family, repairs, weather, and current needs all legitimately relocate objects.
+Chapter 04.
 
 Pressure:
 3/5.
 
 Next:
-this remains the primary explanation for Chapter 04's cup displacement.
+Adela's room should show useful systems and invasive systems coexisting.
 
-## Rule
+## T6 — TOMAS'S LIFE
+State:
+active.
 
-Do not move every thread every chapter.
+Pressure:
+1/5.
+
+Next:
+continue independent work.
+
+## T7 — LIO'S CURRENT NORMAL
+State:
+strong.
+
+Last moved:
+Chapter 04.
+
+What changed:
+casually corrects visitor cup misplacement, proving present normal is maintained socially.
+
+Pressure:
+3/5.
+
+## T8 — ESTATE / HOUSE FUTURE
+State:
+active.
+
+Pressure:
+3/5.
+
+Next:
+Chapter 05 estate access intensifies.
+
+## T9 — WEATHER
+State:
+routine preparedness active.
+
+Pressure:
+2/5.
+
+Next:
+hold.
+
+## T10 — HUMAN INTERFERENCE
+State:
+very strong.
+
+Last moved:
+Chapter 04.
+
+What changed:
+book demonstrates ordinary visitors mis-shelve household cups.
+
+Pressure:
+3/5.
+
+Next:
+preserve this plausibility as anomalies grow.
