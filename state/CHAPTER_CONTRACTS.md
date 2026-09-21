@@ -145,7 +145,7 @@ TARGET:
 ## Chapter 04 — The Wrong Cup
 
 STATUS:
-WORKING / DEPENDS ON CHAPTER 02 BASELINE.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Create the first object placement that feels wrong specifically because the reader now knows the current arrangement.
@@ -195,44 +195,163 @@ TARGET:
 
 ## Chapter 05 — Adela's Room
 
-JOB:
-Make access / ownership morally complicated.
+STATUS:
+READY.
 
-REQUIRED:
-Inez's caregiver authority is legitimate.
-Mara's discomfort is also legitimate.
+DRAMATIC JOB:
+Move the object engine from shared household space into privacy.
+
+OPENING PRESSURE:
+Celina insists the east room must finally enter the estate inventory.
+Inez agrees to open it but rejects the idea that the room has been untouched since Adela died.
+
+OBJECT BASELINE:
+- establish Adela's dark horn comb on a shallow ceramic dish beside the washstand
+- establish the bedside drawer / personal-storage logic
+- establish which objects Inez routinely handled as caregiver and which she did not
 
 HUMAN EVENT:
-an object is moved by a person for understandable reasons.
+Mara notices evidence that something has already been moved in the room.
+Inez openly explains that she moved it for a practical caregiving / post-death reason.
+No mystery payoff.
+
+RELATIONSHIP MOVEMENT:
+- Celina treats legal family ownership as grounds for inventory access
+- Inez treats years of caregiving access as continuing practical authority
+- Mara sees both claims as partly legitimate
+- Mara becomes uncomfortable with how naturally Inez opens drawers / handles belongings without asking anyone
+
+CULTURE MOVEMENT:
+Keeping Days may delay distribution without freezing maintenance.
+A dead person's room remains part of a functioning household.
+
+THREAD MOVEMENT:
+T3 Celina / Inez
+T5 Adela's order
+T8 estate / house future
+T10 human interference
+
+REQUIRED:
+Adela's comb must become an ordinary, reader-known object before any later return event.
+
+FORBIDDEN:
+- creepy preserved bedroom
+- supernatural event
+- Adela diary that explains plot
+- secret occult object
+- making Inez suspicious merely because she has access
 
 EXIT:
-Mara realizes household access and permission are not the same.
+Mara understands that practical access, legal ownership, and moral permission are three different things.
+
+TARGET:
+2,500-3,200 words.
 
 ## Chapter 06 — Back on the Hook
 
-JOB:
-Create first custody puzzle.
+STATUS:
+READY AFTER CHAPTER 05.
+
+DRAMATIC JOB:
+Turn the fully established front-key routine into the first custody puzzle.
+
+OPENING PRESSURE:
+Keeping Days traffic is thinning, which should make object custody easier to track, not harder.
 
 OBJECT:
 front key.
 
+CUSTODY EVENT:
+Mara believes one person currently has the front key.
+Later it is back on the hook before she sees that person return / hand it off.
+
 RULE:
-Every human explanation remains viable.
+Mara's knowledge must contain a gap.
+At least two living-person transfer paths remain possible.
+
+RELATIONSHIP MOVEMENT:
+Mara begins quietly tracking household behavior without telling everyone.
+That is an early step toward Adela-like surveillance.
+
+CULTURE MOVEMENT:
+shared household access makes perfect custody tracking socially unnatural.
+
+THREAD MOVEMENT:
+T1 object returns
+T2 Mara as resetter
+T5 Adela's order
+T10 human interference
+
+REQUIRED:
+ask people simple custody questions.
+Answers may be incomplete because ordinary people do not log every handoff.
+
+FORBIDDEN:
+- impossible locked-room logic
+- declaring the key moved itself
+- anyone lying solely to manufacture mystery
 
 EXIT:
-Mara chooses to leave something out of place as a private test.
+Mara deliberately returns the key slightly wrong:
+leaning right and leather loop forward.
+She tells nobody.
+It is a private test.
+
+TARGET:
+2,400-3,100 words.
 
 ## Chapter 07 — The Old Shelf
 
-JOB:
-Confirm an arrangement corresponds to childhood.
+STATUS:
+WORKING / AFTER CHAPTER 06.
+
+DRAMATIC JOB:
+Strengthen the older-normal pattern without confirming supernatural agency.
+
+OPENING PRESSURE:
+Mara checks her private key test while trying not to admit to herself that she made one.
+
+OBJECT MOVEMENT:
+- key orientation may have been corrected, but any household member could have done it
+- more importantly, multiple current kitchen objects appear arranged in a recognizably older shelf pattern
+
+HISTORICAL CONFIRMATION:
+the arrangement matches the childhood system beyond a single cup position.
+
+LEA:
+include one ordinary memory that makes her more human:
+preference, complaint, theft, joke, chore avoidance, or sibling irritation.
+
+RELATIONSHIP MOVEMENT:
+Mara asks Inez / Celina about the old arrangement rather than treating her own memory as authority.
+The adults disagree about why the arrangement existed, but agree that it did.
+
+CULTURE MOVEMENT:
+show that household arrangements can encode age, permission, work role, and access rather than decoration.
+
+THREAD MOVEMENT:
+T1 object returns
+T2 Mara surveillance tendency
+T4 Lea
+T5 Adela's order
+T10 human plausibility
 
 REQUIRED:
-Lea named without melodramatic reveal.
-One normal Lea memory.
+at least one living-person explanation remains possible for each movement considered individually.
+
+FORBIDDEN:
+- proof of ghost
+- original Lea cup magically returning
+- expanding supernatural rules
+- dramatic apparition / sound cue
 
 EXIT:
-Mara understands the house may be wrong in time rather than wrong in position.
+Mara can no longer dismiss the pattern as merely "wrong shelf."
+Her working phrase becomes:
+**wrong in time.**
+
+TARGET:
+2,500-3,200 words.
 
 ## Chapter 08 — Throw It Away
 
