@@ -1,6 +1,6 @@
 # NORMAL POSITION — PROJECT STATE
 
-Status: DRAFTING / CHAPTER 05 PUBLISHED
+Status: DRAFTING / CHAPTER 06 PUBLISHED
 
 Working title: **Normal Position**
 
@@ -206,9 +206,9 @@ Pre-draft readiness audit:
 **PASS.**
 
 Published frontier:
-Chapter 05 — Tūtū Lehua's Room.
+Chapter 06 — Back on the Hook.
 
 Next action:
-Chapter 06 — Back on the Hook.
+Chapter 07 — The Old Shelf.
 
 A plain **continue** executes the full chapter pipeline.
