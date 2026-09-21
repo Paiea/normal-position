@@ -532,6 +532,18 @@ At the hotel, weather warnings arrived in messages.
 
 Here, apparently, they arrived in people moving boards.
 
+A woman from two houses down came through the gate carrying a coil of rope and left with the ladder without asking Mara who had approved it. Ten minutes later an older man returned a hammer that did not belong to the Orlans either. Inez took both exchanges without interrupting her work.
+
+Tessa stripped the guest bedding, folded it, and carried it outside to air before she left for Paren's. Lio moved the drying cloths farther east to make room. Nobody announced these adjustments. Space simply changed hands as work required it.
+
+Mara caught herself trying to remember whether the ladder had always been lent that freely.
+
+Then she stopped.
+
+That was exactly the problem.
+
+Her memory kept volunteering for jobs it was no longer qualified to do.
+
 By noon, the compound had become a maintenance site.
 
 Not emergency preparation.
