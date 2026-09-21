@@ -529,7 +529,7 @@ TARGET:
 ## Chapter 11 — The Old Path
 
 STATUS:
-READY.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Begin the preference phase by escalating from old object arrangement to old spatial arrangement.
@@ -751,24 +751,78 @@ TARGET:
 ## Chapter 14 — Same Answer
 
 STATUS:
-STRUCTURAL LOCK / DETAILS FLEXIBLE.
+READY AFTER CHAPTER 13.
 
 DRAMATIC JOB:
-Secure the horror genre before the first impossible event.
+Secure the horror genre before the first impossible event by showing repeated convergence across unrelated practical decisions.
 
-PRESSURE:
-Across unrelated household tasks, different people repeatedly choose positions / routes that converge on the same older household grammar.
+OPENING PRESSURE:
+After the route and Nohea-place events, everyone is trying to keep using the family place normally.
+Malia explicitly avoids testing or staging anything.
 
-MALIA:
-observes without manipulating.
-This matters ethically after the secret key test.
+OBSERVATION RULE:
+Malia records mentally or on ordinary work paper only what people already choose to do.
+She must not move an object in order to provoke a response.
 
-KEONI:
-remains skeptical and materially grounded.
-He agrees the pattern exists before he agrees on cause.
+CONVERGENCE:
+Across one day, at least four separate practical problems receive answers that fit the same older household grammar.
 
-KALEI / NALANI:
-recognize different eras but agree the convergence has become uncomfortable.
+Working domains:
+- where rain gear gets staged
+- which shelf is freed
+- where a chair is moved
+- which route remains open
+- where a food container waits
+- where a temporary sleeping / work item is placed
+
+Do not reuse all exact Chapter 12 components.
+The point is broader grammar, not the same yard trick again.
+
+ACTORS:
+Use at least four different people.
+Keoni must be one of them or directly inspect one result.
+
+RELATIONSHIP MOVEMENT:
+- Nalani and Kalei independently recognize the convergence despite remembering different eras
+- Keoni agrees there is a pattern before agreeing on cause
+- Koa may remain least interested in historical meaning even while participating in current use
+- Malia resists accusation and asks why the same solution keeps emerging
+
+CULTURE MOVEMENT:
+Different family members have legitimate present-day needs.
+The frightening part is not shared family practice itself.
+It is that unrelated current needs keep resolving into one obsolete household grammar.
+
+THREAD MOVEMENT:
+T1 arrangement pattern
+T2 Malia restraint
+T3 Nalani / Kalei shared recognition
+T5 older household grammar
+T6 Keoni skeptical witness
+T7 Koa current normal
+T10 human causality
+T11 preference phase peak
+
+HORROR MOVEMENT:
+Strongest pre-confirmation pressure.
+
+Reader target:
+**I can explain every move, but I no longer believe the total is neutral.**
+
+REQUIRED:
+Keoni must verify at least one convergence from his own expertise rather than merely accepting Malia's interpretation.
+
+REQUIRED ETHICAL BEAT:
+Malia has an opportunity to secretly test the pattern and chooses not to.
+
+FORBIDDEN:
+- airtight impossible movement
+- autonomous door / furniture action
+- supernatural voice or apparition
+- lost time
+- confirmed compulsion
+- Hawaiian spiritual explanation
+- anyone stating the family place is conscious as fact
 
 EXIT:
 Malia stops asking:
@@ -777,14 +831,10 @@ Malia stops asking:
 She asks:
 **Why do we keep choosing the same old answer?**
 
-HORROR TARGET:
-Reader should feel the family place has a preference even though agency remains unproven.
+Keoni cannot answer.
 
-FORBIDDEN:
-- airtight impossible event
-- supernatural voice / apparition
-- Hawaiian spiritual explanation
-- confirmation that anyone was controlled
+TARGET:
+2,800-3,500 words.
 
 ## Chapter 15 — The Comb
 
