@@ -212,7 +212,7 @@ Stories shortened.
 
 Food arrived in smaller quantities.
 
-Keeping Days were not ending exactly, but the compound no longer felt like the center of the village's gravity.
+the days around the service were not ending exactly, but the place no longer felt like the center of the village's gravity.
 
 That suited Malia.
 
