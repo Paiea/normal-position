@@ -38,7 +38,7 @@ Kalei answered, "It fit last year."
 
 Malia sat up.
 
-The compound was already negotiating with itself.
+The place was already negotiating with itself.
 
 She dressed, pushed the bag farther under the bed with her foot so she would not trip over it, and stepped into the main room.
 
@@ -342,7 +342,7 @@ The restraint was offensive.
 
 After breakfast, Keoni came through the gate carrying a length of rope and three small metal brackets in his shirt pocket.
 
-Malia was at the cistern rinsing out the cloth used under the clock.
+Malia was at the catchment tank rinsing out the cloth used under the clock.
 
 "North cove?" she asked.
 
@@ -544,7 +544,7 @@ That was exactly the problem.
 
 Her memory kept volunteering for jobs it was no longer qualified to do.
 
-By noon, the compound had become a maintenance site.
+By noon, the place had become a maintenance site.
 
 Not emergency preparation.
 
