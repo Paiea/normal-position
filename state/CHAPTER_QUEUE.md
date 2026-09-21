@@ -10,19 +10,20 @@
 07 — The Old Shelf
 08 — Throw It Away
 09 — Nothing Happened
-
-## READY
 10 — Keoni's Tools
 
-## UPCOMING
+## READY
 11 — The Old Path
+
+## UPCOMING
 12 — The Clear Way
 13 — Nohea's Place
+14 — Same Answer
+15 — The Comb
 
 ## LOCKED PACING
-10 — expertise limit
 11-14 — preference phase
 15 — first clean supernatural confirmation
 
 ## Manuscript frontier
-009 — Nothing Happened
+010 — Keoni's Tools
