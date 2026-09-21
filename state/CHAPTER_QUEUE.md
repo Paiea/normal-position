@@ -7,18 +7,18 @@
 04 — The Wrong Cup
 05 — Tūtū Lehua's Room
 06 — Back on the Hook
-
-## READY
 07 — The Old Shelf
 
-## UPCOMING
+## READY AFTER ROLLING AUDIT
 08 — Throw It Away
+
+## UPCOMING
 09 — Nothing Happened
 10 — Keoni's Tools
 
-## NEXT CONTRACT EXPANSION
-Before Chapter 08:
-run first rolling audit and expand / repair 08-10.
+## REQUIRED BEFORE CHAPTER 08
+- rolling audit Chapters 04-07
+- expand / repair contracts 08-10
 
 ## Manuscript frontier
-006 — Back on the Hook
+007 — The Old Shelf
