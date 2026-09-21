@@ -1,179 +1,165 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 02.
+Status: ACTIVE THROUGH CHAPTER 03.
 
 ## T1 — OBJECT RETURNS
 State:
-not yet visible.
+not yet visible as supernatural.
 
 Last moved:
-Chapter 02.
+Chapter 03 conceptually.
 
 What changed:
-additional boring normal positions established, especially kitchen cups and return rack.
+book now distinguishes current normal from historical normal before first older-position anomaly.
 
 Pressure:
-0/5.
+1/5.
 
 Next:
-Chapter 04 can now violate a cup position meaningfully.
+Chapter 04 introduces first older arrangement pressure through cup position.
 
 ## T2 — MARA AS RESETTER
 State:
 active.
 
 Last moved:
-Chapter 02.
+Chapter 03.
 
 What changed:
-Mara learns systems she approves of but did not invent.
-She also experiences her own bag being moved for practical household reasons and chooses not to restore it.
+Mara is confidently wrong about current lantern and storm-board locations.
+She accepts that old normal can remain true in memory without being useful now.
 
 Pressure:
-2/5.
+3/5.
 
 Next:
-Chapter 03 should make Mara confidently wrong about current normal.
+Chapter 04 tests whether Mara recognizes an older arrangement before understanding why it matters.
 
 ## T3 — CELINA / INEZ
 State:
 active low-grade conflict.
 
 Last moved:
-Chapter 02.
+Chapter 03 lightly.
 
 What changed:
-Celina attempts estate inventory during Keeping Days.
-Inez refuses to let paperwork displace living household labor.
+estate friction remains present but does not dominate.
 
 Pressure:
 3/5.
 
 Next:
-keep friction practical.
-Do not reveal Lea history yet.
+Chapter 04 lets their different historical reactions surface through cup placement.
 
 ## T4 — LEA
 State:
 background only.
 
 Last moved:
-not directly moved in Chapter 02.
+not directly moved in Chapter 03.
 
 Pressure:
 1/5.
 
 Next:
-Chapter 04 may brush her historical place without full explanation.
+Chapter 04 allows Lea's historical place to brush the scene without full reveal.
 
 ## T5 — ADELA'S ORDER
 State:
-materially present through household systems.
+more complicated.
 
 Last moved:
-Chapter 02.
+Chapter 03.
 
 What changed:
-Mara recognizes that some household order may come from long-standing function rather than merely Adela's personality.
-Green cracked cup kept because it still works and because Adela liked it.
+some placement changes were made by Adela herself for practical late-life reasons.
+Her "order" was not static across decades.
 
 Pressure:
-2/5.
+3/5.
 
 Next:
-Chapter 03 complicates whether Mara remembers old normal correctly.
+older household arrangement starts competing with later Adela normal.
 
 ## T6 — TOMAS'S LIFE
 State:
 active.
 
 Last moved:
-Chapter 02.
+Chapter 03.
 
 What changed:
-generator repair led into pump / tiller work.
-He continues leaving family scenes for real obligations.
+north-cove winch and storm-maintenance work continue independent of family plot.
 
 Pressure:
 1/5.
 
 Next:
-keep his expertise active without turning him into exposition.
+keep lateral work alive.
 
 ## T7 — LIO'S CURRENT NORMAL
 State:
-active.
+active and validated.
 
 Last moved:
-Chapter 02.
+Chapter 03.
 
 What changed:
-Lio correctly handles current guest rooms, cups, chair exchanges, and household logistics.
-Mara is beginning to see that he knows present compound use better than she does.
+Lio correctly identifies current lantern and storm-board positions.
+His knowledge is not comic garnish.
 
 Pressure:
-2/5.
+3/5.
 
 Next:
-Chapter 03 makes that causally explicit.
+retain him as current-house authority.
 
 ## T8 — ESTATE / HOUSE FUTURE
 State:
 active.
 
 Last moved:
-Chapter 02.
-
-What changed:
-Celina manages only limited inventory.
-The clash between mourning obligation and estate timeline is now concrete.
+Chapter 03 lightly through Celina's inventory attempts.
 
 Pressure:
 3/5.
 
 Next:
-remain present but do not dominate Chapter 03.
+Chapter 04 should not let estate plot vanish, but object anomaly takes foreground.
 
 ## T9 — WEATHER
 State:
-ordinary island condition.
+practical pressure increasing.
 
 Last moved:
-Chapter 02.
+Chapter 03.
 
 What changed:
-wind still affects shutters, smoke, and practical household work.
+household begins routine checks for incoming weather.
+No storm emergency.
 
 Pressure:
-1/5.
+2/5.
 
 Next:
-Chapter 03 uses weather preparedness to explain a changed object normal.
+continue practical background pressure without gothic inflation.
 
 ## T10 — HUMAN INTERFERENCE
 State:
 strongly normalized.
 
 Last moved:
-Chapter 02.
+Chapter 03.
 
 What changed:
-many people legitimately move household objects.
-Mara's own bag is moved with permission by living people.
+neighbors, family, repairs, weather, and current needs all legitimately relocate objects.
 
 Pressure:
-2/5.
+3/5.
 
 Next:
-maintain human plausibility when the first older arrangement appears.
+this remains the primary explanation for Chapter 04's cup displacement.
 
 ## Rule
-
-Every active thread records:
-- current state
-- last moved chapter
-- what changed
-- pressure 0-5
-- next likely movement
 
 Do not move every thread every chapter.
