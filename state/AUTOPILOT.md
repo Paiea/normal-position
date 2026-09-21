@@ -121,9 +121,9 @@ Full rehearsal required for:
 - first anomaly
 - first impossible return
 - private-space violation
-- Lea-history reveals
-- Celina/Inez arguments
-- Inez dangerous choice
+- Nohea-history reveals
+- Nalani/Kalei arguments
+- Kalei dangerous choice
 - first bodily coercion
 - storm climax
 - ending new-routine scene
@@ -156,21 +156,21 @@ Understanding a rule should create pressure, not merely safety.
 ## Character control
 
 Every rolling four-chapter block:
-- Tomas must have independent work
-- Inez must have responsibility beyond haunting
-- Celina must pursue a goal beyond reacting to Adela
-- Lio must have present-tense life
-- Mara must sometimes be wrong because another person's expertise matters
+- Keoni must have independent work
+- Kalei must have responsibility beyond haunting
+- Nalani must pursue a goal beyond reacting to Lehua
+- Koa must have present-tense life
+- Malia must sometimes be wrong because another person's expertise matters
 
 Frame-breaker:
-Tomas.
+Keoni.
 
 Present-tense moral danger:
-Inez.
+Kalei.
 
-## Lea control
+## Nohea control
 
-Lea is a dead child who was a person.
+Nohea is a dead child who was a person.
 
 Do not:
 - make her creepy by default
@@ -266,11 +266,11 @@ Allowed autonomously:
 - adjust book length 29-33
 
 Not allowed silently:
-- change Lea history
+- change Nohea history
 - change POV
 - replace culture
 - remove supernatural premise
-- make Lea the revenge ghost
+- make Nohea the revenge ghost
 - introduce cursed-object solution
 - replace ending with exorcism
 - make romance primary
