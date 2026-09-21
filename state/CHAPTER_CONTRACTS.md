@@ -97,7 +97,7 @@ TARGET:
 ## Chapter 03 — Current Normal
 
 STATUS:
-READY AFTER CHAPTER 02.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Prove normal position changes over time even without supernatural interference.
