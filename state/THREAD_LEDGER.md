@@ -1,69 +1,79 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 12.
+Status: ACTIVE THROUGH CHAPTER 13.
 
 ## T1 — OBJECT / ARRANGEMENT RETURNS
 State:
-spatial preference repeated.
+preference now expressed through human-place geometry.
 
 Pressure:
-4/5.
+5/5.
 
 Last moved:
-Chapter 12.
-
-What changed:
-current circulation is restored, then independent human decisions again favor the old diagonal.
+Chapter 13.
 
 Next:
-Chapter 13 shifts from route to human spatial footprint.
+Chapter 14 broadens from one route / one room to repeated older grammar across unrelated tasks.
 
 ## T2 — MALIA AS RESETTER
 State:
-restraint improving.
+restraint substantially improved.
 
 Pressure:
 3/5.
 
 Last moved:
-Chapter 12.
+Chapter 13.
 
 What changed:
-Malia restores current route openly, then refuses to displace useful current objects merely to erase the pattern.
+Malia helps create the pattern without knowing it, then refuses to preserve it once current use needs the objects.
 
 Next:
-Chapter 13 should implicate her through an ordinary practical move she makes without recognizing historical meaning.
+Chapter 14 gives her a chance to secretly test and requires refusal.
 
 ## T3 — NALANI / KALEI
 State:
-historical recognition active.
+shared recognition rising.
 
 Pressure:
 4/5.
 
+Last moved:
+Chapter 13.
+
+What changed:
+Nalani contributes unknowingly; Kalei recognizes and then instinctively corrects chair angle.
+
 Next:
-Chapter 13 Nalani should unknowingly contribute to Nohea's old spatial footprint.
-Kalei later recognizes aggregate.
+Chapter 14 both should recognize broader convergence despite differing historical interpretations.
 
 ## T4 — NOHEA
 State:
-ordinary child identity established; spatial history about to activate.
+lived child + spatial history active.
 
 Pressure:
 4/5.
 
+Last moved:
+Chapter 13.
+
+What changed:
+her old sleeping geometry is reconstructed by current objects.
+No original object returns.
+No desire or agency is implied.
+
 Next:
-Chapter 13 reconstructs her old place without implying desire / agency.
+hold. Chapter 14 should not make every convergence about Nohea.
 
 ## T5 — TŪTŪ LEHUA'S ORDER
 State:
-older household grammar increasingly directional.
+older household grammar increasingly broad.
 
 Pressure:
-4/5.
+5/5.
 
 Next:
-human-place arrangement should reveal role / access logic, not just decorative resemblance.
+Chapter 14 should reveal convergence beyond one person's specific place.
 
 ## T6 — KEONI'S LIFE / EXPERTISE
 State:
@@ -72,14 +82,8 @@ credible skeptical witness.
 Pressure:
 4/5.
 
-Last moved:
-Chapter 12.
-
-What changed:
-he independently confirms route ease again.
-
 Next:
-may remain peripheral to initial Chapter 13 recognition.
+Chapter 14 must verify at least one convergence materially from his own expertise.
 
 ## T7 — KOA'S CURRENT NORMAL
 State:
@@ -89,10 +93,10 @@ Pressure:
 4/5.
 
 Last moved:
-Chapter 12.
+Chapter 13.
 
 What changed:
-Koa repeatedly chooses the old route because current route is inconvenient.
+Koa's current school needs both help create and then dismantle the old arrangement.
 
 ## T8 — ESTATE / FAMILY PLACE FUTURE
 State:
@@ -101,18 +105,15 @@ high.
 Pressure:
 5/5.
 
-Next:
-Chapter 13 crowding / rearrangement may arise from estate / sleeping / storage needs.
+Chapter 13:
+estate storage creates part of reconstruction.
 
 ## T9 — WEATHER
 State:
-active practical influence.
+practical background.
 
 Pressure:
 3/5.
-
-Last moved:
-Chapter 12.
 
 ## T10 — HUMAN INTERFERENCE
 State:
@@ -122,26 +123,18 @@ Pressure:
 5/5.
 
 Last moved:
-Chapter 12.
+Chapter 13.
 
 What changed:
-all route outcomes remain traceable to living people.
-
-Next:
-same rule for Chapter 13.
+every component of Nohea-place reconstruction has known living actor.
 
 ## T11 — PREFERENCE PHASE
 State:
-ACTIVE / STRONGER.
+NEAR PEAK.
 
 Pressure:
-4/5.
-
-Last moved:
-Chapter 12.
-
-What changed:
-old route wins twice through separate configurations.
+5/5.
 
 Next:
-Chapter 13 should make the preference feel capable of expressing through people arranging current life.
+Chapter 14 is final pre-confirmation escalation.
+Reader should feel the aggregate is no longer neutral while proof remains absent.
