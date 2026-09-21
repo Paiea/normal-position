@@ -890,6 +890,66 @@ Kalei pointed at the green cup.
 
 Human explanation.
 
+Aunty Nani appeared in the doorway with an empty food container tucked under one arm.
+
+All three women looked at her.
+
+She stopped.
+
+"What did I do?"
+
+Malia pointed to the pale chipped cup on the top left.
+
+"Did you put that there?"
+
+Aunty Nani looked at it.
+
+"Maybe."
+
+Nalani laughed.
+
+Aunty Nani frowned.
+
+"What?"
+
+"Nothing."
+
+"I washed cups before I left."
+
+"Do you remember that one?"
+
+"No."
+
+"Would you have put it high?"
+
+"If there was room."
+
+Malia looked.
+
+There had been room.
+
+Far left.
+
+Aunty Nani shifted the container under her arm.
+
+"You folks interrogating dishes again?"
+
+"No," Kalei said.
+
+"Yes," Nalani said.
+
+Aunty Nani looked at Malia.
+
+Malia sighed.
+
+"Maybe."
+
+"Good luck."
+
+She walked to the return rack and continued with her day.
+
+Human explanation.
+
 Malia looked at the pale chipped cup, top left.
 
 Koa could have moved it.
