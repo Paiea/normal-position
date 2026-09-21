@@ -1,22 +1,22 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 11.
+Status: ACTIVE THROUGH CHAPTER 12.
 
 ## Front key
 Current:
 normal.
-No Chapter 11 anomaly.
+No Chapter 12 anomaly.
 
 ## Kitchen shelf
 Current:
 normal.
-No Chapter 11 anomaly.
+No Chapter 12 anomaly.
 
 ## Tūtū Lehua's comb
 Current:
 normal ceramic dish.
 No anomaly.
-Reserved for Chapter 15 confirmation if structure holds.
+Reserved for Chapter 15 confirmation.
 
 ## Tūtū Lehua's slippers
 Current:
@@ -27,51 +27,42 @@ No return.
 Current:
 main-house front shelf.
 
-## Keoni's workshop tools
+## Chapter 12 route components
+
+These remain ordinary household objects.
+
+### Laundry
+Opening:
+line restored to usual yard position.
+Later:
+moved under lanai due rain.
+
+### Donation bags
+Staged by Nalani near west-side cookhouse approach due dry-space constraints.
+Some later moved after Aunty Nani catches one.
+
+### Aluminum seat frame
+Keoni stores under workshop overhang because workshop interior lacks room.
+Narrows west approach.
+
+### Glue chair / school-project station
+Koa places near cookhouse overhang because lanai wind interferes with glue and cookhouse interior is unavailable.
+Further narrows west approach.
+
+### North service door
+Used repeatedly by Koa because old diagonal is easiest.
+No autonomous opening / closing.
+
+## Route interpretation
+
 Current:
-functional baseline established Chapter 10.
-No Chapter 11 anomaly.
+historical diagonal remains easier by chapter end.
 
-## Chapter 11 route components
+Important:
+nothing physically compels use.
+Current route remains possible.
 
-These are NOT recurring supernatural objects.
-Track only for spatial continuity.
-
-### Laundry line
-Moved east by Kalei for sun.
-Effect:
-opens central / diagonal yard space.
-
-### Catchment hose
-Used by Keoni, then coiled to workshop side.
-Effect:
-removes crossing obstruction.
-
-### School-project folding table
-Moved by Koa from windy lanai area into more sheltered central position.
-Effect:
-partially blocks current west-door route and deflects circulation.
-
-### Archive boxes
-Moved by Nalani to dry / shaded location.
-Effect:
-narrow part of current central circulation without blocking old diagonal.
-
-### Cooler
-Carried by Aunty Nani.
-She uses north-side cookhouse service access because current route is obstructed.
-
-## Old route
-
-Not an object.
-
-Current state at Chapter 11 exit:
-physically walkable diagonal from main house toward north-side cookhouse service access.
-
-No permanent marker.
-No worn ground.
-No supernatural status.
-
-## Chapter 12 rule
-Malia may help restore current yard flow.
-Track each subsequent independent move and practical motive.
+## Chapter 13 rule
+Do not make route the main event again.
+Shift to an interior human-place configuration using current objects.
+Original Nohea objects must not return.
