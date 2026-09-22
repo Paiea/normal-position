@@ -15,18 +15,19 @@
 12 — The Clear Way
 13 — Nohea's Place
 14 — Same Answer
-
-## READY
 15 — The Comb
 
-## UPCOMING
+## READY
 16 — Three Versions of the Room
+
+## UPCOMING
 17 — What Lehua Watched
 18 — Weather Work
+19 — The Door
 
-## LOCKED PACING
-15 — first clean supernatural confirmation
-16+ — consequences / conflicting normals
+## PHASE
+Confirmed impossible normality.
+Do not pivot into lore encyclopedia.
 
 ## Manuscript frontier
-014 — Same Answer
+015 — The Comb
