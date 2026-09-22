@@ -1,41 +1,36 @@
 # NORMAL POSITION — CURRENT STATE
 
-Status: DRAFTING / CHAPTER 15 PUBLISHED.
+Status: DRAFTING / CHAPTER 16 PUBLISHED.
 
 Current manuscript frontier:
-15 — The Comb.
-
-Next executable chapter:
 16 — Three Versions of the Room.
 
+Next executable chapter:
+17 — What Lehua Watched.
+
 Current day:
-Day 12 after Tūtū Lehua's death, midday / afternoon.
+Day 12 after Tūtū Lehua's death, evening.
 
 Current supernatural confirmation:
-YES — FIRST CLEAN CONFIRMATION.
+YES.
 
-Confirmed event:
-Tūtū Lehua's comb was openly removed, carried off-property by Nalani in the zipped inner pocket of her purse, and later returned to its exact normal dish while Nalani remained away and the purse pocket was found empty.
+Confirmed:
+the comb return in Chapter 15.
 
-Preference phase:
-COMPLETE.
+Current interpretive state:
+the family place does NOT appear to restore one single historical period.
 
-New phase:
-CONFIRMED IMPOSSIBLE NORMALITY / CONFLICTING HISTORICAL STATES.
+Chapter Sixteen establishes:
+- late-Lehua normal remains active in some spaces / objects
+- earlier childhood / pre-Nohea-death grammar surfaces elsewhere
+- current 2026 use remains real and can overwrite or disrupt old configurations
+- Koa continues changing rooms for present needs
+- the lantern can return to its older workshop position through current human use
+- the family tears up the attempt to reduce the phenomenon to one target year
+- proof has widened the interpretive field rather than narrowed it
 
-Chapter Fifteen establishes:
-- family conducts first open agreed test
-- comb leaves under witnessed human custody
-- absence is repeatedly verified
-- comb returns quietly to exact normal dish
-- Nalani remains off-property when return is discovered
-- Nalani's purse pocket remains intact but empty
-- Keoni inspects the facts and accepts that something occurred
-- nobody identifies the phenomenon as Lehua, Nohea, or any specific spirit
-- Malia's central question changes from whether something is happening to what exactly is producing / selecting the old normals
+Structural audit through Chapter 16:
+PASS.
 
 Next plain **continue**:
-draft Chapter 16 — Three Versions of the Room.
-
-Required before Chapter 16:
-keep consequence ahead of lore.
+draft Chapter 17 — What Lehua Watched.
