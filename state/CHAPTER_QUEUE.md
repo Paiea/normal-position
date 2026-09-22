@@ -17,18 +17,18 @@
 14 — Same Answer
 15 — The Comb
 16 — Three Versions of the Room
-
-## READY
 17 — What Lehua Watched
 
-## UPCOMING
+## READY
 18 — Weather Work
+
+## UPCOMING
 19 — The Door
 20 — What Kalei Calls Care
+21 — Old Kitchen
 
 ## PHASE
-Confirmed impossible normality.
-Moral danger ahead of lore escalation.
+Moral danger ahead of louder supernatural escalation.
 
 ## Manuscript frontier
-016 — Three Versions of the Room
+017 — What Lehua Watched
