@@ -1,74 +1,75 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 13.
+Status: ACTIVE THROUGH CHAPTER 14.
 
 ## Front key
 Current:
 normal.
-No Chapter 13 anomaly.
+No Chapter 14 anomaly.
 
 ## Kitchen shelf
 Current:
-normal.
-No Chapter 13 anomaly.
+temporarily adjusted for food / use.
+No impossible movement.
 
 ## Tūtū Lehua's comb
 Current:
-normal ceramic dish.
-No anomaly.
-Reserved for Chapter 15 confirmation.
+normal ceramic dish beside washstand.
+No anomaly through Chapter 14.
+
+Details:
+- dark horn
+- wide teeth
+- one shortened worn tooth
+- reader baseline established Chapter 05
+- Kalei historically maintained / cleaned it during caregiving
+
+Reserved:
+Chapter 15 first clean supernatural confirmation.
 
 ## Tūtū Lehua's slippers
 Current:
 gone.
-No return.
+Do not return.
 
 ## Spare storm lantern
 Current:
 main-house front shelf.
 
-## Chapter 13 current-room objects
+## Chapter 14 ordinary convergence objects
 
-### Spare foam mattress
+### Koa / Keoni rain jackets
 Current:
-laid flat along east wall of flexible north room.
-Reason:
-free wall / floor access for estate storage.
-Still useful there at chapter end.
+old inner-wall pegs near entry because current hooks are full.
+Human placement.
 
-Historical resemblance:
-matches Nohea's old sleeping edge.
+### Nalani chair
+Moved near front windows for phone signal.
+Later moved again by Kalei for current table / food use.
+Human placement.
 
-### Low plastic tote
-Moved by Nalani near foot of mattress.
-Later moved under window.
-No anomaly.
+### Return containers
+Staged low near exit / return access by Aunty Nani and Koa.
+Human placement.
 
-### Chair
-Moved by Koa into room for fan use.
-Kalei later adjusts angle from remembered habit.
-Koa removes it again for laptop / presentation use.
-No anomaly.
+### Workshop delivery objects
+Keoni distributes temporary chair / cooler / buckets / tarp by function while clearing access.
+Human placement.
 
-### Blue plastic tumbler
-Koa leaves on right-side shelf.
-Malia later returns it to him.
-No anomaly.
+## Malia test rule
 
-### Archive boxes
-Temporarily stored in room.
-Kalei later removes them after current need changes.
+Malia considered moving Koa's jacket secretly.
+She did NOT.
 
-## Nohea original objects
+Do not retroactively create a test from this.
 
-Do NOT reintroduce:
-- yellow flowered cup
-- childhood blue crate
-- childhood bedding
-- tin whistle
+## Chapter 15 rule
 
-unless future authority explicitly permits.
+Comb removal must be:
+- openly agreed
+- witnessed
+- off-property / controlled
+- absence independently verified
+- ordinary return paths closed
 
-## Chapter 14 rule
-Broaden the old grammar across multiple domains.
-Do not reuse this room as the main convergence engine.
+Do not introduce another object as confirmation instead.
