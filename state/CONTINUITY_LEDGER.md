@@ -1,101 +1,92 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 13.
+Status: ACTIVE THROUGH CHAPTER 14.
 
 ## Time
 Current:
-evening, Day 11 after Tūtū Lehua's death.
+Day 12 after Tūtū Lehua's death.
 
-## Flexible north room
+## Supernatural state
+No clean supernatural confirmation through Chapter 14.
 
-Current use:
-overflow guest / storage / temporary utility room.
+Preference phase has reached maximum pre-confirmation pressure.
 
-Chapter 13 present-day trigger:
-Koa needs main room for school history presentation group.
+## Chapter 14 convergence domains
 
-### Current Chapter 13 objects
-- spare foam mattress
-- archive boxes
-- low plastic tote
-- ordinary chair
-- old fan
-- Koa's blue plastic tumbler
+### Rain gear
+Current front hooks are full.
+Koa and Keoni use older inner-wall pegs because they function well for wet gear.
 
-No original Nohea object returns.
+Historical association:
+these pegs were used in Malia's childhood, including for children's / household rain gear.
 
-## Nohea childhood footprint
+### Cookhouse shelf
+Kalei shifts cups / bowl placement to free middle shelf for incoming food.
+Result partially recreates older access grammar without repeating Chapter 07 exactly.
 
-Working historical geometry:
-- sleeping place along east wall
-- low storage / blue crate near foot
-- chair near window, angled for access / climbing
-- water cup on right-side shelf
-- clear path toward door
+### Front chair
+Nalani moves a stable chair near front windows because phone signal is better there.
+Position is historically associated with Lehua's frequent sitting / monitoring, but Nalani's motive is current.
 
-This was ordinary child-use space, not a shrine.
+### Return containers
+Aunty Nani and Koa place outgoing / borrowed containers low near exit-access because it is easier and practical.
 
-## Chapter 13 reconstruction
+### Workshop access
+Keoni clears delivery access by sorting objects toward the zones where they function:
+food toward cookhouse, work toward workshop, chair toward main house, dry tarp under shelter.
 
-### Malia
-lays spare mattress flat along east wall to free room / wall access.
+Aggregate:
+different current problems repeatedly resolve into familiar older role / access grammar.
 
-### Nalani
-moves low tote to foot area while stacking estate boxes.
+## Malia ethical state
 
-### Koa
-moves chair into room because the fan needs a stand.
-Leaves current blue tumbler on shelf because it is a shelf.
+Malia considers secretly moving Koa's jacket from old peg to test whether it returns.
 
-### Kalei
-recognizes aggregate immediately.
-Later instinctively adjusts chair to remembered angle before realizing what she has done.
+She refuses.
 
-No movement is unexplained.
+Reason:
+the jacket is Koa's, the peg works, and secret manipulation would turn his current life into experimental material.
 
-## Dismantling
+Malia tells Nalani about the temptation.
 
-Koa takes chair back for laptop use.
-Malia returns Koa's tumbler.
-Nalani moves tote.
-Kalei removes archive boxes after current need changes.
+## Lehua surveillance history
 
-Mattress remains east-wall because it is still useful there.
+Nalani states Lehua sometimes moved an object slightly to see who corrected / used it.
 
-The reconstruction is not preserved for evidence.
+Exact historical object / event remains unimportant.
 
-## Nohea ordinary memory
+Function:
+connects Lehua's surveillance method to Malia's earlier key test.
 
-Her childhood storage included:
-- rocks
-- bottle caps
-- broken pencils
-- pencil shavings she defended as "wood"
+## Keoni threshold
 
-This reinforces lived child specificity.
+Keoni agrees:
+- individual choices all make sense
+- aggregate is weird
+- people can reproduce patterns through memory / habit / what works
+
+When asked whether he would bet this is only the family:
+he says no.
+
+He also refuses to bet supernatural.
+
+This is his pre-confirmation threshold.
 
 ## Relationships
 
 ### Malia / Nalani
-Both independently contribute to old arrangement.
-Nalani resists implication but admits uncertainty.
+Malia voluntarily discloses a possible secret test instead of running it.
+Nalani explicitly warns her not to become good at Lehua-style monitoring.
 
-### Malia / Kalei
-Kalei recognizes the pattern and also unknowingly performs one old correction herself.
+### Malia / Keoni
+Keoni now validates pattern existence without validating cause.
 
-### Malia / Koa
-Koa remains present-tense counterweight and actively breaks the historical arrangement through ordinary use.
-
-## Supernatural baseline
-
-No clean supernatural confirmation through Chapter 13.
-
-Preference phase now reaches:
-- objects
-- routes
-- human spatial footprint
+### Nalani / Kalei
+Both recognize old grammar but disagree whether its persistence reflects Lehua's enforcement or longer practical household logic.
 
 ## Next pressure
 
-Chapter 14 should broaden convergence across unrelated practical decisions and different domains.
-Do not simply recreate Nohea's room again.
+Chapter 15:
+the comb test must be open, agreed, simple, and close ordinary return paths.
+
+No puzzle-box theatrics.
