@@ -1,75 +1,81 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 14.
+Status: ACTIVE THROUGH CHAPTER 15.
 
 ## Front key
 Current:
-normal.
-No Chapter 14 anomaly.
+normal unless later scene changes it.
+Prior events remain historically ambiguous.
 
 ## Kitchen shelf
 Current:
-temporarily adjusted for food / use.
-No impossible movement.
+current-use arrangement with temporary practical shifts.
+Prior collective old pattern remains significant but not retroactively proven supernatural.
 
 ## Tūtū Lehua's comb
+
+Object:
+dark horn comb.
+Wide teeth.
+One shortened worn tooth.
+Pale scratch near spine.
+
+Normal:
+shallow ceramic dish beside washstand in Lehua's room.
+
+### Chapter 15 test
+Openly agreed.
+
+Removal:
+Kalei -> Nalani -> zipped inner purse pocket -> off-property.
+
+Absence:
+independently verified.
+
+Return:
+comb found back in exact ceramic dish while Nalani remains off-property.
+
+Custody evidence:
+Nalani's purse inner pocket is empty and physically intact.
+
+Status:
+FIRST CONFIRMED SUPERNATURAL RETURN.
+
+Interpretive limits:
+does NOT establish:
+- Lehua's ghost
+- consciousness
+- motive
+- exact transport mechanism
+- retroactive supernatural status of all earlier events
+
 Current:
-normal ceramic dish beside washstand.
-No anomaly through Chapter 14.
-
-Details:
-- dark horn
-- wide teeth
-- one shortened worn tooth
-- reader baseline established Chapter 05
-- Kalei historically maintained / cleaned it during caregiving
-
-Reserved:
-Chapter 15 first clean supernatural confirmation.
+back in dish.
 
 ## Tūtū Lehua's slippers
 Current:
 gone.
-Do not return.
+Remain gone.
+
+This still matters:
+not every Lehua object returns.
 
 ## Spare storm lantern
 Current:
 main-house front shelf.
+Old workshop position remains established historical normal.
 
-## Chapter 14 ordinary convergence objects
+## Chapter 16 rule
+Use different established / newly verified historical configurations.
+Do not simply make the comb move again.
 
-### Koa / Keoni rain jackets
-Current:
-old inner-wall pegs near entry because current hooks are full.
-Human placement.
+At least one space should express:
+- late Lehua normal
 
-### Nalani chair
-Moved near front windows for phone signal.
-Later moved again by Kalei for current table / food use.
-Human placement.
+At least one should express:
+- older pre-Nohea-death / childhood normal
 
-### Return containers
-Staged low near exit / return access by Aunty Nani and Koa.
-Human placement.
+At least one should remain:
+- current normal
 
-### Workshop delivery objects
-Keoni distributes temporary chair / cooler / buckets / tarp by function while clearing access.
-Human placement.
-
-## Malia test rule
-
-Malia considered moving Koa's jacket secretly.
-She did NOT.
-
-Do not retroactively create a test from this.
-
-## Chapter 15 rule
-
-Comb removal must be:
-- openly agreed
-- witnessed
-- off-property / controlled
-- absence independently verified
-- ordinary return paths closed
-
-Do not introduce another object as confirmation instead.
+The contradiction is the event.
