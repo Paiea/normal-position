@@ -1,42 +1,43 @@
 # NORMAL POSITION — CURRENT STATE
 
-Status: DRAFTING / CHAPTER 13 PUBLISHED.
+Status: DRAFTING / CHAPTER 14 PUBLISHED.
 
 Current manuscript frontier:
-13 — Nohea's Place.
-
-Next executable chapter:
 14 — Same Answer.
 
+Next executable chapter:
+15 — The Comb.
+
 Current day:
-Day 11 after Tūtū Lehua's death, evening.
+Day 12 after Tūtū Lehua's death.
 
 Current supernatural confirmation:
 none.
 
 Preference phase:
-ACTIVE / NEAR PEAK.
+COMPLETE / PEAK REACHED.
 
 Current reader-facing trajectory:
 - Chapter 04 obsolete cup position
 - Chapter 07 collective old shelf arrangement
 - Chapters 08-10 false negatives / expertise limits
 - Chapter 11 obsolete route re-emerges
-- Chapter 12 current route is restored but old route becomes easier again
-- Chapter 13 current household rearrangement accidentally reconstructs Nohea's childhood spatial footprint
+- Chapter 12 restored current route again loses practical advantage to old route
+- Chapter 13 living people reconstruct Nohea's old spatial footprint
+- Chapter 14 unrelated current decisions across multiple domains converge on older household grammar
 
-Chapter Thirteen establishes:
-- Nohea's childhood sleeping side was along the east wall of the flexible north room
-- her low storage sat near the foot
-- a chair near the window served practical child access
-- her water cup stayed on the right-side shelf
-- Malia, Nalani, and Koa independently recreate this geometry using current objects
-- Kalei instinctively corrects the chair angle from remembered habit, then cannot explain why she did it
-- current use dismantles the reconstruction again
-- Malia chooses not to preserve the pattern as evidence
+Chapter Fourteen establishes:
+- old inner-wall rain-gear pegs are reused for current practical reasons
+- food / cups / return containers sort into familiar older access grammar
+- Nalani independently places a chair in a historically familiar front position for phone signal
+- Keoni's current work sorting independently echoes the same role / access logic
+- Malia refuses a secret jacket test because she will not use Koa's ordinary life as experimental equipment
+- Nalani reveals Lehua sometimes moved objects slightly to see who corrected them
+- Keoni agrees there is a pattern while refusing to name its cause
+- Malia stops asking who moved things and asks why current decisions keep producing the same old answer
 
 Current author truth:
 the family place restores / reasserts repeated household arrangements; exact cosmology unresolved.
 
 Next plain **continue**:
-draft Chapter 14 — Same Answer.
+draft Chapter 15 — The Comb.
