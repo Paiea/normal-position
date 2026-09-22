@@ -751,7 +751,7 @@ TARGET:
 ## Chapter 14 — Same Answer
 
 STATUS:
-READY AFTER CHAPTER 13.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Secure the horror genre before the first impossible event by showing repeated convergence across unrelated practical decisions.
@@ -839,7 +839,7 @@ TARGET:
 ## Chapter 15 — The Comb
 
 STATUS:
-READY AFTER CHAPTER 14 / FIRST CLEAN CONFIRMATION.
+READY / FIRST CLEAN CONFIRMATION.
 
 DRAMATIC JOB:
 Collapse ordinary handoff explanations for the first time without changing the book's governing horror language.
@@ -927,7 +927,177 @@ to:
 TARGET:
 2,900-3,600 words.
 
-## Chapters 16-31
+## Chapter 16 — Three Versions of the Room
+
+STATUS:
+READY AFTER CHAPTER 15.
+
+DRAMATIC JOB:
+Show that supernatural confirmation does not simplify the mechanism.
+Different parts of the family place begin expressing different historical normals.
+
+OPENING PRESSURE:
+The family has just lost the comfort of a fully human explanation.
+Their first instinct is to determine what period / arrangement the place is restoring.
+
+That instinct should fail.
+
+PHYSICAL MOVEMENT:
+Use three distinct configurations tied to different eras.
+
+Working structure:
+1. one main-house area reflects late-life Lehua normal
+2. one cookhouse / shared-use area reflects pre-Nohea-death household grammar
+3. one current-use area retains present-day normal
+
+Exact spaces may mutate in rehearsal.
+
+HORROR MOVEMENT:
+At least one confirmed impossible reset may occur, but do not repeat the comb trick mechanically.
+
+The more important revelation is contradiction:
+the place does not restore one year.
+
+RELATIONSHIP MOVEMENT:
+- Malia wants a single period because one period would be a solvable model
+- Nalani interprets some arrangements through Lehua's later control
+- Kalei identifies older / earlier household use that predates those rules
+- Keoni insists on separating what is physically confirmed from what is interpretation
+
+CULTURE MOVEMENT:
+Household practice changes across generations.
+Do not imply "tradition" is a static preserved system.
+Current family use is as real as older use.
+
+THREAD MOVEMENT:
+T1 confirmed supernatural behavior
+T2 Malia model-building
+T3 Nalani / Kalei historical disagreement
+T5 conflicting Lehua / pre-Lehua normals
+T6 Keoni verification
+T10 human action still matters
+new thread: conflicting historical states
+
+REQUIRED:
+At least two family members independently date / identify different arrangements.
+
+REQUIRED PAYOFF:
+The family cannot reduce the phenomenon to:
+"the house is going back to before Nohea died"
+or
+"Lehua's ghost is restoring her rules."
+
+FORBIDDEN:
+- single-year answer
+- ghost identification
+- lore dump
+- sacred Hawaiian explanation
+- rules that suddenly make the phenomenon easy to manage
+
+EXIT:
+Malia understands:
+there is no single past state.
+
+TARGET:
+2,900-3,600 words.
+
+## Chapter 17 — What Lehua Watched
+
+STATUS:
+READY AFTER CHAPTER 16.
+
+DRAMATIC JOB:
+Turn Lehua's placement habits from family characterization into morally active evidence and implicate Malia's own professional instincts.
+
+OPENING PRESSURE:
+After Chapter 16 proves multiple historical states can surface, the family searches for practical records that might show how Lehua herself tracked household order over time.
+
+EVIDENCE LANE:
+Do not use a secret diary exposition dump.
+
+Prefer ordinary records / physical systems such as:
+- household notebook
+- repair / bill notes
+- handwritten reminders
+- labeled envelopes
+- small placement checks
+- ordinary remarks remembered by Nalani / Kalei
+
+The evidence should show Lehua used position changes to learn:
+- who came in
+- who touched what
+- who lied
+- who ignored instructions
+
+POSSIBLE SUPERNATURAL HINT:
+One or two old notes may ambiguously suggest Lehua noticed objects returning / being corrected without knowing who did it.
+
+Keep ambiguous.
+Do not prove she understood the phenomenon.
+
+RELATIONSHIP MOVEMENT:
+- Nalani reads Lehua's behavior primarily as surveillance / control
+- Kalei insists some practices were practical household management
+- Malia sees both and recognizes her own chain-of-custody thinking, reset habits, and secret key test in the same lineage
+- Keoni refuses to let old notes become omniscient evidence
+
+CULTURE MOVEMENT:
+Do not equate elder authority or Hawaiian family responsibility with surveillance.
+This is Lehua's personal use of household order.
+
+THREAD MOVEMENT:
+T2 Malia / Lehua mirror
+T3 Nalani / Kalei
+T5 Lehua order
+T6 Keoni skepticism
+T10 human responsibility after supernatural proof
+surveillance thread becomes explicit
+
+HORROR MOVEMENT:
+Primarily moral / interpretive.
+The supernatural can stay quiet.
+
+REQUIRED:
+Malia must identify at least one specific behavior of her own that matches Lehua's method.
+
+REQUIRED:
+Evidence of Lehua's control must coexist with evidence that some of the same systems genuinely kept a difficult household functioning.
+
+FORBIDDEN:
+- villain diary
+- Lehua confession monologue
+- proof Lehua caused the haunting
+- proof Lehua knew the cosmology
+- flattening Kalei into defender or Nalani into sole truth-teller
+
+EXIT:
+Malia recognizes that she did not merely inherit Lehua's eye for order.
+She has been rehearsing some of Lehua's methods.
+
+TARGET:
+2,800-3,500 words.
+
+## Chapters 18-31
+
+Use STORY_MAP.md as working contracts until each chapter enters the next-three queue.
+
+Before drafting Chapter N:
+expand Chapter N plus N+1 and N+2 to the full contract fields:
+- dramatic job
+- opening pressure
+- object baseline
+- horror movement
+- relationship movement
+- culture movement
+- thread movement
+- required setup/payoff
+- forbidden reveal
+- exit state
+- target length
+
+Do not over-lock exact blocking more than three chapters ahead.
+
+
 
 Use STORY_MAP.md as working contracts until each chapter enters the next-three queue.
 
