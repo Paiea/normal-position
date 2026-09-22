@@ -930,7 +930,7 @@ TARGET:
 ## Chapter 16 — Three Versions of the Room
 
 STATUS:
-READY AFTER CHAPTER 15.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Show that supernatural confirmation does not simplify the mechanism.
@@ -1160,7 +1160,110 @@ Malia recognizes the route, but the stronger realization is:
 TARGET:
 2,800-3,500 words.
 
-## Chapters 19-31
+## Chapter 19 — The Door
+
+STATUS:
+READY AFTER CHAPTER 18.
+
+DRAMATIC JOB:
+Reveal the first hard piece of the Nohea-storm truth without using supernatural evidence as a shortcut to family confession.
+
+OPENING PRESSURE:
+Weather preparation and older routes have already made the storm past harder to ignore.
+Nalani reaches a point where continuing the simplified family story becomes more corrosive than speaking.
+
+REVEAL:
+Nalani tells Malia that Tūtū Lehua knew Nohea was outside before the detached cookhouse failed.
+
+This is the locked fact.
+
+Do NOT reveal the full storm sequence yet.
+
+RELATIONSHIP MOVEMENT:
+- Malia learns the family story she grew up with was materially incomplete
+- Nalani admits she tried to open the main storm door
+- Nalani states Lehua stopped her
+- Kalei may know the disclosure is happening or enter later, but this chapter belongs primarily to Nalani / Malia
+- Keoni should not be used as a referee for morality
+
+MALIA:
+Her childhood memory should gain context, not transform into a recovered hidden scene.
+She may recognize fragments:
+- shouting
+- Nalani moving toward the door
+- Lehua stopping somebody
+- impact outside
+
+Do not invent new repressed-memory detail.
+
+NALANI:
+The confession should cost her.
+She has protected Malia, avoided Lehua, and protected herself through silence.
+Do not make her confession clean or noble.
+
+CULTURE MOVEMENT:
+Family silence is family-specific, not a cultural rule.
+Do not generalize avoidance or elder deference into Hawaiian identity.
+
+HORROR MOVEMENT:
+Primarily human / moral.
+
+The supernatural can remain quiet.
+
+The revelation should make the earlier house-order problem more dangerous because Lehua's commitment to procedure once intersected with a real life-or-death decision.
+
+THREAD MOVEMENT:
+T3 Nalani / Kalei fracture
+T4 Nohea storm truth
+T5 Lehua care / control
+T8 estate / leave-stay pressure
+T10 human responsibility
+prepare T13 storm-door choice
+
+REQUIRED:
+Nalani must distinguish:
+"she knew"
+from
+"she wanted Nohea hurt."
+
+REQUIRED:
+Malia must understand enough to be angry without the narration declaring Lehua morally simple.
+
+FORBIDDEN:
+- full Chapter 24 reconstruction
+- proof Lehua was objectively right or wrong
+- supernatural coercion causing Lehua's choice
+- revenge-ghost interpretation
+- storm as punishment
+- memory magic
+
+EXIT:
+Malia leaves the main house because she cannot process the revelation inside the place where the door decision happened.
+
+TARGET:
+2,900-3,600 words.
+
+## Chapters 20-31
+
+Use STORY_MAP.md as working contracts until each chapter enters the next-three queue.
+
+Before drafting Chapter N:
+expand Chapter N plus N+1 and N+2 to the full contract fields:
+- dramatic job
+- opening pressure
+- object baseline
+- horror movement
+- relationship movement
+- culture movement
+- thread movement
+- required setup/payoff
+- forbidden reveal
+- exit state
+- target length
+
+Do not over-lock exact blocking more than three chapters ahead.
+
+
 
 Use STORY_MAP.md as working contracts until each chapter enters the next-three queue.
 
