@@ -760,6 +760,104 @@ Koa saw.
 
 At six thirty, they ate.
 
+Before anyone sat, Kalei moved the serving spoons.
+
+Not far.
+
+From the center of the table to the shallow tray near her end.
+
+Malia looked.
+
+Kalei caught her.
+
+"What?"
+
+"Why there?"
+
+"Because Koa keeps reaching across everybody."
+
+Koa, already reaching across everybody, said, "False."
+
+Kalei slapped his wrist lightly with a napkin.
+
+"Evidence."
+
+He withdrew.
+
+Malia looked at the tray.
+
+She remembered it.
+
+Not from childhood.
+
+Later.
+
+High school visits.
+
+Adult cousins.
+
+Too many people at the table.
+
+Tūtū Lehua had eventually started keeping serving tools near the person actually portioning food instead of in the middle where children dragged sleeves through dishes.
+
+Late household normal.
+
+Post-Nohea.
+
+Probably long after.
+
+Nalani saw Malia looking.
+
+"What now?"
+
+"Nothing."
+
+Nalani raised an eyebrow.
+
+Malia corrected herself.
+
+"That tray is late."
+
+Kalei looked down.
+
+"Late what?"
+
+"Late Lehua."
+
+Kalei thought.
+
+Then nodded.
+
+"Yeah."
+
+Koa looked between them.
+
+"You have eras for spoons now."
+
+Malia pointed at the cookhouse.
+
+"The cups are older."
+
+Then at the tray.
+
+"That is later."
+
+Koa ate rice.
+
+"So the haunting has bad version control."
+
+Keoni laughed.
+
+Malia did not want to.
+
+She did anyway.
+
+Then the joke stopped being funny.
+
+Because yes.
+
+That was exactly the problem.
+
 The chart stayed on the table under a serving bowl.
 
 Nobody moved it.
@@ -1266,6 +1364,26 @@ The north room was current until it wasn't and then current again.
 Proof had not organized anything.
 
 It had only removed one excuse.
+
+Malia had expected certainty to narrow the field.
+
+Instead, certainty had widened it.
+
+Before the comb, every old arrangement could still be dismissed as people.
+
+After the comb, people remained involved in almost everything, but one impossible event now sat underneath the rest like a cracked foundation.
+
+It did not tell them which earlier moments belonged to the same mechanism.
+
+It did not tell them whether the mechanism preferred one era.
+
+It did not tell them whether "return" meant memory, habit, architecture, or something more active.
+
+It only prevented them from saying none of it could be real.
+
+That was much less useful than Malia had imagined.
+
+
 
 At nine, Malia stood in Tūtū Lehua's room.
 
