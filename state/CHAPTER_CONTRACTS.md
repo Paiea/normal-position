@@ -1004,7 +1004,7 @@ TARGET:
 ## Chapter 17 — What Lehua Watched
 
 STATUS:
-READY AFTER CHAPTER 16.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Turn Lehua's placement habits from family characterization into morally active evidence and implicate Malia's own professional instincts.
@@ -1243,7 +1243,119 @@ Malia leaves the main house because she cannot process the revelation inside the
 TARGET:
 2,900-3,600 words.
 
-## Chapters 20-31
+## Chapter 20 — What Kalei Calls Care
+
+STATUS:
+READY AFTER CHAPTER 19.
+
+DRAMATIC JOB:
+Give Kalei's interpretation of Lehua's storm-door choice and force the care / control argument into the present tense.
+
+OPENING PRESSURE:
+Chapter 19 leaves Malia angry with Nalani, Lehua, and the family story itself.
+Kalei refuses to let Nalani's version stand as the only interpretation.
+
+HISTORICAL ARGUMENT:
+Kalei agrees on the hard fact:
+Lehua knew Nohea was outside.
+
+Kalei does NOT claim:
+- Lehua was simply right
+- Nalani was wrong to try the door
+- Nohea's death was unavoidable
+
+Kalei argues:
+opening the main door during the strongest gust cycle could have exposed everyone inside to severe danger.
+
+Her interpretation should be grounded in:
+- remembered weather
+- door force
+- debris risk
+- household layout
+- who was inside
+
+Keoni may contribute mechanical / weather context if naturally present, but he is not moral referee.
+
+RELATIONSHIP MOVEMENT:
+- Malia understands Kalei's reasoning
+- Malia rejects the idea that understanding makes the decision acceptable
+- Kalei becomes angry at decades of being cast as Lehua's defender
+- Nalani / Kalei do not reconcile
+
+PRESENT-TENSE MIRROR:
+Before chapter end, Kalei uses household access / authority to stop or delay a current family action because she believes immediate freedom creates greater danger.
+
+Working lane:
+weather / property access / someone intending to leave or cross the yard before conditions are ready.
+
+This current choice must be:
+- rational enough to understand
+- controlling enough to resist
+- made by Kalei without asking permission
+
+Malia recognizes the Lehua pattern immediately.
+
+CULTURE MOVEMENT:
+Do not frame caregiving, elder respect, or kuleana as inherently coercive.
+The issue is unilateral authority justified through care.
+
+HORROR MOVEMENT:
+Human / moral first.
+Supernatural behavior may remain quiet.
+
+THREAD MOVEMENT:
+T2 Malia / control recognition
+T3 Nalani / Kalei fracture
+T5 Lehua care / control
+T9 weather
+T10 human responsibility
+T13 storm-door truth
+prepare present-tense controlling choice for Chapter 22
+
+REQUIRED:
+Kalei must be right about at least one material risk.
+
+REQUIRED:
+Malia must be able to say, in effect:
+I understand why you did that, and you still do not get to decide for everyone.
+
+FORBIDDEN:
+- making Kalei secretly villainous
+- instant apology
+- Lehua moral acquittal
+- Lehua moral condemnation by narration
+- supernatural force causing Kalei's choice
+- cultural essentialism
+
+EXIT:
+Kalei uses household knowledge / access to block a current action "for safety."
+
+She does not immediately retract.
+
+TARGET:
+2,900-3,600 words.
+
+## Chapters 21-31
+
+Use STORY_MAP.md as working contracts until each chapter enters the next-three queue.
+
+Before drafting Chapter N:
+expand Chapter N plus N+1 and N+2 to the full contract fields:
+- dramatic job
+- opening pressure
+- object baseline
+- horror movement
+- relationship movement
+- culture movement
+- thread movement
+- required setup/payoff
+- forbidden reveal
+- exit state
+- target length
+
+Do not over-lock exact blocking more than three chapters ahead.
+
+
 
 Use STORY_MAP.md as working contracts until each chapter enters the next-three queue.
 
