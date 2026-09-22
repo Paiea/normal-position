@@ -16,18 +16,19 @@
 13 — Nohea's Place
 14 — Same Answer
 15 — The Comb
-
-## READY
 16 — Three Versions of the Room
 
-## UPCOMING
+## READY
 17 — What Lehua Watched
+
+## UPCOMING
 18 — Weather Work
 19 — The Door
+20 — What Kalei Calls Care
 
 ## PHASE
 Confirmed impossible normality.
-Do not pivot into lore encyclopedia.
+Moral danger ahead of lore escalation.
 
 ## Manuscript frontier
-015 — The Comb
+016 — Three Versions of the Room
