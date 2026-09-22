@@ -1,116 +1,114 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 13.
+Status: ACTIVE THROUGH CHAPTER 14.
 
 ## T1 — OBJECT / ARRANGEMENT RETURNS
 State:
-preference now expressed through human-place geometry.
+pattern confirmed as pattern, mechanism unconfirmed.
 
 Pressure:
 5/5.
 
-Last moved:
-Chapter 13.
-
 Next:
-Chapter 14 broadens from one route / one room to repeated older grammar across unrelated tasks.
+Chapter 15 converts pattern into first impossible object return.
 
 ## T2 — MALIA AS RESETTER
 State:
-restraint substantially improved.
+restraint materially improved.
 
 Pressure:
-3/5.
+4/5.
 
 Last moved:
-Chapter 13.
+Chapter 14.
 
 What changed:
-Malia helps create the pattern without knowing it, then refuses to preserve it once current use needs the objects.
+Malia refuses a secret test and accepts uncertainty.
 
 Next:
-Chapter 14 gives her a chance to secretly test and requires refusal.
+Chapter 15 test may proceed only openly with consent / shared knowledge.
 
 ## T3 — NALANI / KALEI
 State:
-shared recognition rising.
+shared recognition, interpretive disagreement.
 
 Pressure:
 4/5.
 
 Last moved:
-Chapter 13.
-
-What changed:
-Nalani contributes unknowingly; Kalei recognizes and then instinctively corrects chair angle.
+Chapter 14.
 
 Next:
-Chapter 14 both should recognize broader convergence despite differing historical interpretations.
+Chapter 15 confirmation should produce different reactions, not instant unity.
 
 ## T4 — NOHEA
 State:
-lived child + spatial history active.
+ordinary child + spatial history established.
 
 Pressure:
 4/5.
 
-Last moved:
-Chapter 13.
-
-What changed:
-her old sleeping geometry is reconstructed by current objects.
-No original object returns.
-No desire or agency is implied.
+Chapter 14:
+held appropriately.
 
 Next:
-hold. Chapter 14 should not make every convergence about Nohea.
+Chapter 15 comb confirmation must remain Lehua-linked / system-linked, not Nohea ghost.
 
 ## T5 — TŪTŪ LEHUA'S ORDER
 State:
-older household grammar increasingly broad.
+historical grammar strongly active.
 
 Pressure:
 5/5.
 
+Last moved:
+Chapter 14.
+
+What changed:
+Nalani reveals Lehua sometimes used small placement changes to monitor household behavior.
+
 Next:
-Chapter 14 should reveal convergence beyond one person's specific place.
+comb confirmation makes normality materially active without proving Lehua's ghost.
 
 ## T6 — KEONI'S LIFE / EXPERTISE
 State:
-credible skeptical witness.
+skeptical witness at threshold.
 
 Pressure:
-4/5.
+5/5.
+
+Last moved:
+Chapter 14.
+
+What changed:
+Keoni recognizes aggregate pattern and will not bet it is only human habit.
 
 Next:
-Chapter 14 must verify at least one convergence materially from his own expertise.
+Chapter 15 must let him inspect physical / custody facts.
 
 ## T7 — KOA'S CURRENT NORMAL
 State:
-strong.
+active.
 
 Pressure:
 4/5.
 
 Last moved:
-Chapter 13.
+Chapter 14.
 
 What changed:
-Koa's current school needs both help create and then dismantle the old arrangement.
+his current jacket becomes opportunity for Malia to test; she refuses.
 
 ## T8 — ESTATE / FAMILY PLACE FUTURE
 State:
-high.
+high but not primary.
 
 Pressure:
 5/5.
 
-Chapter 13:
-estate storage creates part of reconstruction.
-
 ## T9 — WEATHER
 State:
-practical background.
+ordinary practical influence.
 
 Pressure:
 3/5.
@@ -123,18 +121,23 @@ Pressure:
 5/5.
 
 Last moved:
-Chapter 13.
+Chapter 14.
 
 What changed:
-every component of Nohea-place reconstruction has known living actor.
+all preference-phase events still have visible human causality.
+
+Next:
+Chapter 15 must genuinely close ordinary human return paths for the first time.
 
 ## T11 — PREFERENCE PHASE
 State:
-NEAR PEAK.
+COMPLETE.
 
 Pressure:
 5/5.
 
+Outcome:
+reader should feel pattern is no longer neutral.
+
 Next:
-Chapter 14 is final pre-confirmation escalation.
-Reader should feel the aggregate is no longer neutral while proof remains absent.
+convert to impossible normality, then retire this as primary phase.
