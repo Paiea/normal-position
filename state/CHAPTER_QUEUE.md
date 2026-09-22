@@ -14,18 +14,19 @@
 11 — The Old Path
 12 — The Clear Way
 13 — Nohea's Place
-
-## READY
 14 — Same Answer
 
-## UPCOMING
+## READY
 15 — The Comb
+
+## UPCOMING
 16 — Three Versions of the Room
 17 — What Lehua Watched
+18 — Weather Work
 
 ## LOCKED PACING
-14 — preference phase peak
 15 — first clean supernatural confirmation
+16+ — consequences / conflicting normals
 
 ## Manuscript frontier
-013 — Nohea's Place
+014 — Same Answer
