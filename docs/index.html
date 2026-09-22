@@ -85,5 +85,7 @@ fetch('manifest.json',{cache:'no-store'}).then(r=>r.json()).then(m=>{
  list.innerHTML=rs.map((r,i)=>'<a class="chapter" href="chapters/'+encodeURIComponent(r.id)+'/"><span class="chapter-no">'+String(i+1).padStart(2,'0')+'</span><span class="chapter-title">'+r.title+'</span><span class="chapter-go">Read</span></a>').join('');
 }).catch(()=>{});
 </script>
+
+<a href="https://paiea.github.io/bookshelf/" aria-label="Open Paiea Bookshelf" style="position:fixed;left:16px;bottom:16px;z-index:9999;padding:10px 14px;border:1px solid rgba(255,255,255,.24);border-radius:999px;background:rgba(10,10,10,.72);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);color:#fff;text-decoration:none;font:600 12px/1 system-ui,-apple-system,sans-serif;letter-spacing:.08em;text-transform:uppercase;box-shadow:0 8px 24px rgba(0,0,0,.22)">← Bookshelf</a>
 </body>
 </html>
