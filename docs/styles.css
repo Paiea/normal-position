@@ -18,11 +18,11 @@ a{color:inherit}.shell{width:min(calc(100% - 2rem),var(--max));margin:auto}
 .sitebar .shell{min-height:3.6rem;display:flex;align-items:center;justify-content:space-between;gap:1rem}
 .brand{text-decoration:none;font:800 .68rem/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase}
 .nav{display:flex;gap:1rem}.nav a{text-decoration:none;color:var(--muted);font:700 .66rem/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.1em;text-transform:uppercase}
-.hero{min-height:86vh;display:grid;align-items:center;padding:5rem 0 4rem}
+.hero{min-height:86vh;display:grid;align-items:center;padding:5rem 0 4rem;background:linear-gradient(90deg,rgba(8,12,10,.86) 0%,rgba(8,12,10,.62) 46%,rgba(8,12,10,.28) 72%,rgba(8,12,10,.48) 100%),linear-gradient(180deg,rgba(8,12,10,.08),rgba(8,12,10,.58)),url("assets/NormalPosition.png") center/cover no-repeat}
 .hero-grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(18rem,.55fr);gap:clamp(2rem,7vw,7rem);align-items:end}
 h1{margin:.45rem 0 .5rem;max-width:10ch;font-size:clamp(4rem,10vw,8.5rem);line-height:.82;letter-spacing:-.06em;font-weight:500}
 .hero-line{max-width:31rem;font-size:clamp(1.2rem,2.1vw,1.6rem);color:var(--soft)}
-.room{border:1px solid var(--line);padding:1.1rem;background:rgba(255,255,255,.018)}
+.room{border:1px solid rgba(233,228,216,.2);padding:1.1rem;background:rgba(10,14,12,.74);backdrop-filter:blur(8px);box-shadow:0 1.2rem 3rem rgba(0,0,0,.22)}
 .room-title{display:flex;justify-content:space-between;gap:1rem;border-bottom:1px solid var(--line);padding-bottom:.7rem;margin-bottom:.7rem}
 .room-title span:last-child{color:var(--rust)}
 .object-row{display:grid;grid-template-columns:1fr auto;gap:1rem;padding:.75rem 0;border-bottom:1px solid var(--line);color:var(--soft)}
