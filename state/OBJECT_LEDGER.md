@@ -1,46 +1,61 @@
 # NORMAL POSITION — OBJECT LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 16.
+Status: ACTIVE THROUGH CHAPTER 17.
 
 ## Front key
 Current:
-normal unless current use changes it.
-Earlier ambiguity remains unresolved.
+normal.
+
+Historical significance:
+Lehua used key orientation as access evidence.
+
+Malia used a secret altered orientation in Chapter 06.
+
+Do not run another secret key test.
 
 ## Kitchen shelf
-Chapter 16:
-partially drifts toward an older-than-Malia childhood grammar through living use.
-No clean supernatural return established.
+Current:
+active household use.
+Historical grammar remains layered / ambiguous.
 
 ## Tūtū Lehua's comb
 Current:
-ceramic dish beside washstand.
+ceramic dish.
 First confirmed supernatural return remains Chapter 15.
-Do not repeat test immediately.
+No Chapter 17 movement.
 
 ## Tūtū Lehua's slippers
 Current:
 gone.
 
 ## Spare storm lantern
-Chapter 16:
-Koa moves it from current front-shelf normal to old workshop top peg because he needs front-shelf area for wet shoes.
+Current / recent:
+older workshop peg after Koa moved it there for practical reasons.
 
-This is human movement.
+Chapter 18 weather prep may legitimately relocate it as part of safety procedure.
 
-Interpretation:
-old practical normal can reappear through current use.
-
-## Flexible north room
+## Green household notebook
 Current:
-foam mattress flat on east wall / floor for present use.
-Tote removed by Koa.
-Current-use state remains active.
+active documentary object.
 
-One ambiguous upright mattress reset occurred and was later undone by Koa.
+Properties:
+- green vinyl cover
+- bent corners
+- clear tape on spine
+- ordinary household records
+- practical notes mixed with access / surveillance notes
 
-Do not treat it as second clean proof.
+Important:
+NOT occult.
+NOT a supernatural instruction manual.
+NOT proof Lehua knew mechanism.
 
-## Chapter 17 object rule
-Prefer records, labels, notes, and ordinary household systems.
-Do not use a newly returning object as the chapter's main engine.
+## Nalani withheld notebook page
+Content not yet revealed.
+Hold for Chapter 19.
+
+## Chapter 18 object rule
+Use storm-prep objects for actual work:
+shutters, fasteners, towels, hose, lantern, tools, food, loose yard items.
+
+Do not turn them into clue inventory.
