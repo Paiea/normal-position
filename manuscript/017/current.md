@@ -1082,6 +1082,53 @@ Shoes deliberately crossed.
 
 Trap.
 
+Malia turned one more page.
+
+SCHOOL CASH  
+envelope under phone book  
+twenties front, fives back  
+if order changes count before asking
+
+Nalani read it over her shoulder.
+
+"Jesus."
+
+Kalei looked too.
+
+Then sighed.
+
+"We lost money once."
+
+"How much?" Malia asked.
+
+"I don't remember."
+
+"Did this help?"
+
+"Probably."
+
+Nalani laughed once.
+
+"Of course it helped."
+
+Malia looked at her.
+
+Nalani pointed at the note.
+
+"That's the problem. The creepy thing worked."
+
+Kalei did not argue.
+
+Neither did Malia.
+
+A household system could catch missing money.
+
+It could also turn everyone who touched an envelope into a suspect before anyone had admitted there was a problem.
+
+Same eye.
+
+Different cost.
+
 Same eye.
 
 Different use.
