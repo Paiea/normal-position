@@ -1580,7 +1580,7 @@ Nalani saw.
 
 Malia looked at the comb.
 
-For fourteen chapters of her life, the question had been whether anything was happening beyond people.
+Since she came home, the question had been whether anything was happening beyond people.
 
 That question was gone.
 
