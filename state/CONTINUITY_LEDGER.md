@@ -1,92 +1,95 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 14.
+Status: ACTIVE THROUGH CHAPTER 15.
 
 ## Time
 Current:
-Day 12 after Tūtū Lehua's death.
+Day 12 after Tūtū Lehua's death, midday / afternoon.
 
-## Supernatural state
-No clean supernatural confirmation through Chapter 14.
+## First clean supernatural confirmation
 
-Preference phase has reached maximum pre-confirmation pressure.
+Object:
+Tūtū Lehua's dark horn comb.
 
-## Chapter 14 convergence domains
+Identifiers:
+- dark horn
+- wide teeth
+- one shortened worn tooth
+- pale scratch near spine
 
-### Rain gear
-Current front hooks are full.
-Koa and Keoni use older inner-wall pegs because they function well for wet gear.
+Normal location:
+shallow ceramic dish beside washstand in Lehua's room.
 
-Historical association:
-these pegs were used in Malia's childhood, including for children's / household rain gear.
+### Removal sequence
+- family openly discusses test
+- Kalei physically picks up comb
+- hands it to Nalani
+- Nalani puts comb into inner zip pocket of black nylon purse
+- Nalani zips inner pocket and purse
+- Keoni verifies ceramic dish is empty
+- Nalani leaves family place carrying purse
 
-### Cookhouse shelf
-Kalei shifts cups / bowl placement to free middle shelf for incoming food.
-Result partially recreates older access grammar without repeating Chapter 07 exactly.
+### Absence checks
+Malia, Kalei, and Keoni verify empty dish at different times.
 
-### Front chair
-Nalani moves a stable chair near front windows because phone signal is better there.
-Position is historically associated with Lehua's frequent sitting / monitoring, but Nalani's motive is current.
+No one reports touching or returning comb.
 
-### Return containers
-Aunty Nani and Koa place outgoing / borrowed containers low near exit-access because it is easier and practical.
+### Return
+While Nalani remains off-property:
+- Kalei finds comb back in ceramic dish
+- Malia and Keoni independently see it
+- nobody touches initially
+- Keoni checks room / window / immediate physical routes
+- comb identifiers match established object
 
-### Workshop access
-Keoni clears delivery access by sorting objects toward the zones where they function:
-food toward cookhouse, work toward workshop, chair toward main house, dry tarp under shelter.
+### Nalani custody check
+While still away:
+- Nalani stops vehicle
+- checks zipped inner pocket
+- comb is absent
+- she states purse remained on her / passenger seat under her control
 
-Aggregate:
-different current problems repeatedly resolve into familiar older role / access grammar.
+After returning:
+- Nalani turns pocket inside out
+- Keoni inspects stitching / pocket
+- no physical breach found
 
-## Malia ethical state
+Current interpretation:
+first materially confirmed impossible normality.
 
-Malia considers secretly moving Koa's jacket from old peg to test whether it returns.
+## Reactions
 
-She refuses.
+### Malia
+accepts phenomenon is real.
+Does not know mechanism / agent.
 
-Reason:
-the jacket is Koa's, the peg works, and secret manipulation would turn his current life into experimental material.
+### Nalani
+strong aversion.
+Initially refuses to return immediately.
+Rejects identifying event as Lehua or Nohea.
 
-Malia tells Nalani about the temptation.
+### Kalei
+disturbed.
+Does not claim Lehua.
 
-## Lehua surveillance history
+### Keoni
+crosses threshold:
+acknowledges something happened after inspecting facts.
+Still resists unsupported explanation.
 
-Nalani states Lehua sometimes moved an object slightly to see who corrected / used it.
+## Comb current state
+Returned to ceramic dish.
+Malia eventually touches / inspects it and replaces it in normal orientation.
 
-Exact historical object / event remains unimportant.
+Important:
+do not treat this as evidence that Lehua's ghost returned it.
 
-Function:
-connects Lehua's surveillance method to Malia's earlier key test.
-
-## Keoni threshold
-
-Keoni agrees:
-- individual choices all make sense
-- aggregate is weird
-- people can reproduce patterns through memory / habit / what works
-
-When asked whether he would bet this is only the family:
-he says no.
-
-He also refuses to bet supernatural.
-
-This is his pre-confirmation threshold.
-
-## Relationships
-
-### Malia / Nalani
-Malia voluntarily discloses a possible secret test instead of running it.
-Nalani explicitly warns her not to become good at Lehua-style monitoring.
-
-### Malia / Keoni
-Keoni now validates pattern existence without validating cause.
-
-### Nalani / Kalei
-Both recognize old grammar but disagree whether its persistence reflects Lehua's enforcement or longer practical household logic.
+## Human responsibility
+Still active.
+Confirmation does not retroactively prove every prior event supernatural.
 
 ## Next pressure
 
-Chapter 15:
-the comb test must be open, agreed, simple, and close ordinary return paths.
-
-No puzzle-box theatrics.
+Chapter 16:
+different spaces express different historical normals.
+The family attempts to identify one target period and fails.
