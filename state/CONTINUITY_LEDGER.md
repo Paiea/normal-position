@@ -1,95 +1,81 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 15.
+Status: ACTIVE THROUGH CHAPTER 16.
 
 ## Time
 Current:
-Day 12 after Tūtū Lehua's death, midday / afternoon.
+Day 12 after Tūtū Lehua's death, evening.
 
-## First clean supernatural confirmation
+## Post-confirmation model
 
-Object:
-Tūtū Lehua's dark horn comb.
+Chapter 15:
+supernatural return confirmed.
 
-Identifiers:
-- dark horn
-- wide teeth
-- one shortened worn tooth
-- pale scratch near spine
+Chapter 16:
+family attempts to identify one historical target state.
 
-Normal location:
-shallow ceramic dish beside washstand in Lehua's room.
+Result:
+FAIL.
 
-### Removal sequence
-- family openly discusses test
-- Kalei physically picks up comb
-- hands it to Nalani
-- Nalani puts comb into inner zip pocket of black nylon purse
-- Nalani zips inner pocket and purse
-- Keoni verifies ceramic dish is empty
-- Nalani leaves family place carrying purse
+## Historical-state examples
 
-### Absence checks
-Malia, Kalei, and Keoni verify empty dish at different times.
+### Late Lehua / post-Nohea
+- comb in ceramic dish
+- front lantern as mobility-era normal
+- serving-spoon tray near person portioning food
 
-No one reports touching or returning comb.
+### Older household / childhood
+- cookhouse shelf partially reproduces earlier access grammar
+- lantern old workshop peg
+- route / cup systems predate some of Lehua's later standardization
 
-### Return
-While Nalani remains off-property:
-- Kalei finds comb back in ceramic dish
-- Malia and Keoni independently see it
-- nobody touches initially
-- Keoni checks room / window / immediate physical routes
-- comb identifiers match established object
+### Current
+- flexible north room continues adapting to Koa's present use
+- tote removed for current storage
+- mattress flattened again for possible current sleepover
+- current household needs repeatedly alter old configurations
 
-### Nalani custody check
-While still away:
-- Nalani stops vehicle
-- checks zipped inner pocket
-- comb is absent
-- she states purse remained on her / passenger seat under her control
+## North-room mattress
 
-After returning:
-- Nalani turns pocket inside out
-- Keoni inspects stitching / pocket
-- no physical breach found
+At one point found folded upright again against east wall.
 
-Current interpretation:
-first materially confirmed impossible normality.
+No one claims responsibility.
 
-## Reactions
+Human gaps remain.
+
+Keoni notes dust line consistent with prior long-term upright storage.
+
+Koa later unfolds mattress for a current future use.
+
+Status:
+ambiguous, not required as clean proof.
+
+## Chart
+
+Malia / Nalani create a simple "WHEN?" chart.
+
+It is later torn up by Malia because it encourages forcing all evidence into one period.
+
+## Relationships
 
 ### Malia
-accepts phenomenon is real.
-Does not know mechanism / agent.
+accepts there is no single past state.
+Stops trying to force one-year model.
 
 ### Nalani
-strong aversion.
-Initially refuses to return immediately.
-Rejects identifying event as Lehua or Nohea.
+initially gravitates toward "before Nohea" as a possible organizing period.
 
 ### Kalei
-disturbed.
-Does not claim Lehua.
+complicates timeline by naming multiple household changes across decades.
 
 ### Keoni
-crosses threshold:
-acknowledges something happened after inspecting facts.
-Still resists unsupported explanation.
+continues separating fact from interpretation and resists language of desire / intention.
 
-## Comb current state
-Returned to ceramic dish.
-Malia eventually touches / inspects it and replaces it in normal orientation.
-
-Important:
-do not treat this as evidence that Lehua's ghost returned it.
-
-## Human responsibility
-Still active.
-Confirmation does not retroactively prove every prior event supernatural.
+### Koa
+offers current-use pressure and jokes that the haunting has "bad version control."
 
 ## Next pressure
 
-Chapter 16:
-different spaces express different historical normals.
-The family attempts to identify one target period and fails.
+Chapter 17:
+Lehua's placement habits become morally active evidence.
+Do not convert them into cosmology.
