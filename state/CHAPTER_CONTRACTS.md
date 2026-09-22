@@ -839,7 +839,7 @@ TARGET:
 ## Chapter 15 — The Comb
 
 STATUS:
-READY / FIRST CLEAN CONFIRMATION.
+COMPLETE / PUBLISHED.
 
 DRAMATIC JOB:
 Collapse ordinary handoff explanations for the first time without changing the book's governing horror language.
@@ -1077,7 +1077,110 @@ She has been rehearsing some of Lehua's methods.
 TARGET:
 2,800-3,500 words.
 
-## Chapters 18-31
+## Chapter 18 — Weather Work
+
+STATUS:
+READY AFTER CHAPTER 17.
+
+DRAMATIC JOB:
+Let the supernatural pressure recede while storm preparation, repair, and reciprocal obligation move to the foreground.
+
+OPENING PRESSURE:
+Forecasted worsening weather creates practical work across the family place and nearby households.
+
+PRIMARY ACTORS:
+Keoni should carry much of the chapter's external work.
+Koa should have at least one current-life responsibility.
+Malia participates without turning every movement into evidence.
+
+WORK:
+Use grounded preparation such as:
+- checking gutters / catchment
+- securing loose yard items
+- testing shutters / fasteners
+- moving tools / fuel / food
+- helping a neighbor with a practical repair
+- deciding what can stay outside
+
+Exact tasks may mutate under rehearsal.
+
+HORROR MOVEMENT:
+Quiet.
+
+No new supernatural rule.
+No major impossible return.
+The chapter should prove the book still has ordinary life after confirmation.
+
+SPATIAL PAYOFF:
+During storm preparation, a sequence of entirely sensible safety movements recreates part of a childhood / older household route.
+
+This should occur late and almost incidentally.
+
+Important:
+the route reappears because storm procedure and old household design once solved similar practical problems.
+
+RELATIONSHIP MOVEMENT:
+- Keoni's expertise matters more than Malia's pattern model
+- Nalani may interpret preparation through remembered danger
+- Kalei's confidence in household procedure should rise
+- Malia notices how quickly practical safety can become authority
+
+CULTURE MOVEMENT:
+Show reciprocal neighborhood / family work.
+Preparation is collective labor, not mystical tradition.
+
+THREAD MOVEMENT:
+T3 Nalani / Kalei
+T6 Keoni competence
+T7 Koa current life
+T9 weather
+T10 human action after supernatural proof
+T12 conflicting states / old routes
+prepare T13 door / storm-history revelation
+
+REQUIRED:
+At least one substantial scene whose value would survive if the haunting were removed.
+
+REQUIRED:
+Weather competence must be practical, not prophetic.
+
+FORBIDDEN:
+- storm as supernatural punishment
+- ʻāina / weather described as angry
+- supernatural escalation just because weather worsens
+- Nohea apparition / voice
+- revealing Lehua's storm decision yet
+
+EXIT:
+A sensible storm-prep routine recreates an older childhood route without anyone intending it.
+
+Malia recognizes the route, but the stronger realization is:
+**some old normals survived because they were good at keeping people safe.**
+
+TARGET:
+2,800-3,500 words.
+
+## Chapters 19-31
+
+Use STORY_MAP.md as working contracts until each chapter enters the next-three queue.
+
+Before drafting Chapter N:
+expand Chapter N plus N+1 and N+2 to the full contract fields:
+- dramatic job
+- opening pressure
+- object baseline
+- horror movement
+- relationship movement
+- culture movement
+- thread movement
+- required setup/payoff
+- forbidden reveal
+- exit state
+- target length
+
+Do not over-lock exact blocking more than three chapters ahead.
+
+
 
 Use STORY_MAP.md as working contracts until each chapter enters the next-three queue.
 
