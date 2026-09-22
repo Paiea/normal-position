@@ -1,81 +1,107 @@
 # NORMAL POSITION — CONTINUITY LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 16.
+Status: ACTIVE THROUGH CHAPTER 17.
 
 ## Time
 Current:
-Day 12 after Tūtū Lehua's death, evening.
+transition into Day 13 after Tūtū Lehua's death.
 
-## Post-confirmation model
+## Green household notebook
 
-Chapter 15:
-supernatural return confirmed.
+Ordinary family-place operational record.
 
-Chapter 16:
-family attempts to identify one historical target state.
+Contains:
+- catchment / pump history
+- roof / repair notes
+- utilities / bills
+- medication tracking
+- freezer / food handling
+- borrowed household items
+- access observations
+- placement-based checks
 
-Result:
-FAIL.
+## Documented Lehua methods
 
-## Historical-state examples
+### Front key
+Note:
+key hook high
+west key low
+check loop flat
+if loop forward ask who came in
 
-### Late Lehua / post-Nohea
-- comb in ceramic dish
-- front lantern as mobility-era normal
-- serving-spoon tray near person portioning food
+Function:
+access monitoring.
 
-### Older household / childhood
-- cookhouse shelf partially reproduces earlier access grammar
-- lantern old workshop peg
-- route / cup systems predate some of Lehua's later standardization
+### Teenage Malia curfew
+Note records:
+- expected return time
+- sand on step
+- key state
+- Lehua not hearing gate
 
-### Current
-- flexible north room continues adapting to Koa's present use
-- tote removed for current storage
-- mattress flattened again for possible current sleepover
-- current household needs repeatedly alter old configurations
+Function:
+cross-checking statement against physical evidence.
 
-## North-room mattress
+### Crossed shoes
+Lehua deliberately alters pair orientation:
+left straight
+right crossed
+see who fixes
 
-At one point found folded upright again against east wall.
+Function:
+secret behavioral test.
 
-No one claims responsibility.
+This directly parallels Malia's Chapter 06 key-orientation test.
 
-Human gaps remain.
+### School cash envelope
+Lehua records denomination order and advises counting if order changes.
 
-Keoni notes dust line consistent with prior long-term upright storage.
+Function:
+practical theft / loss detection that also turns handling into suspicion.
 
-Koa later unfolds mattress for a current future use.
+### Medication tray
+Morning / night position indicates whether a dose was likely taken.
+
+Function:
+caregiving safety.
+
+### Freezer basket
+Physical obstruction / placement protects against loose seal until repair.
+
+Function:
+practical household protection.
+
+## Possible old unexplained-placement notes
+
+Examples:
+- window cloth back in prior position with no admitted mover
+- broom found on opposite wall, possibly wind / child / unknown
 
 Status:
-ambiguous, not required as clean proof.
+AMBIGUOUS.
 
-## Chart
+Do not treat as proof Lehua knew the supernatural mechanism.
 
-Malia / Nalani create a simple "WHEN?" chart.
+## Nalani withheld page
 
-It is later torn up by Malia because it encourages forcing all evidence into one period.
+Near chapter end:
+Nalani finds a notebook page she refuses to discuss that day.
 
-## Relationships
+Kalei recognizes significance.
 
-### Malia
-accepts there is no single past state.
-Stops trying to force one-year model.
+Do NOT reveal exact content before Chapter 19 unless new authority requires it.
 
-### Nalani
-initially gravitates toward "before Nohea" as a possible organizing period.
+## Malia ethical state
 
-### Kalei
-complicates timeline by naming multiple household changes across decades.
+Malia explicitly distinguishes:
+- professional systems with known tracking rules
+from
+- secret tests used as leverage
 
-### Keoni
-continues separating fact from interpretation and resists language of desire / intention.
-
-### Koa
-offers current-use pressure and jokes that the haunting has "bad version control."
+She recognizes her own key test as Lehua-method behavior.
 
 ## Next pressure
 
-Chapter 17:
-Lehua's placement habits become morally active evidence.
-Do not convert them into cosmology.
+Chapter 18:
+worsening weather creates practical family / neighborhood work.
+Supernatural activity quiet.
