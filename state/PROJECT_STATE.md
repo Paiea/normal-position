@@ -1,6 +1,6 @@
 # NORMAL POSITION — PROJECT STATE
 
-Status: DRAFTING / CHAPTER 15 PUBLISHED
+Status: DRAFTING / CHAPTER 16 PUBLISHED
 
 Working title: **Normal Position**
 
@@ -206,9 +206,9 @@ Pre-draft readiness audit:
 **PASS.**
 
 Published frontier:
-Chapter 15 — The Comb.
+Chapter 16 — Three Versions of the Room.
 
 Next action:
-Chapter 16 — Three Versions of the Room.
+Chapter 17 — What Lehua Watched.
 
 A plain **continue** executes the full chapter pipeline.
