@@ -1,149 +1,122 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 15.
+Status: ACTIVE THROUGH CHAPTER 16.
 
-## T1 — OBJECT / ARRANGEMENT RETURNS
+## T1 — SUPERNATURAL RETURN
 State:
-SUPERNATURAL RETURN CONFIRMED.
+confirmed.
+
+Pressure:
+5/5.
+
+Next:
+hold volume steady. Do not confirm every old anomaly.
+
+## T2 — MALIA / RESET / SURVEILLANCE
+State:
+ethical restraint improved, interpretive model destabilized.
 
 Pressure:
 5/5.
 
 Last moved:
-Chapter 15.
-
-What changed:
-comb returns under custody conditions that close credible ordinary handoff paths.
+Chapter 16.
 
 Next:
-Chapter 16 expands from one confirmed object to conflicting historical configurations.
-
-## T2 — MALIA AS RESETTER
-State:
-interpretive model must change.
-
-Pressure:
-5/5.
-
-Last moved:
-Chapter 15.
-
-What changed:
-Malia loses the comfort of "probably human" while preserving improved ethical restraint.
-
-Next:
-she will want one historical target state because one state would be manageable.
+Chapter 17 explicitly confronts Lehua-method mirror.
 
 ## T3 — NALANI / KALEI
 State:
-shared confirmation, divergent emotional relation.
+shared proof, divergent historical reading.
 
 Pressure:
 5/5.
 
-Last moved:
-Chapter 15.
-
-What changed:
-both reject immediate ghost identification, but Nalani responds by wanting distance while Kalei remains physically engaged with the house.
+Next:
+Chapter 17 should sharpen control-versus-management disagreement without resolving it.
 
 ## T4 — NOHEA
 State:
-ordinary child / spatial history established.
+ordinary child + storm-history absence.
 
 Pressure:
 4/5.
 
-Chapter 15:
-correctly NOT implicated.
-
 Next:
-hold against revenge-ghost interpretation.
+hold in Chapter 17-18.
 
-## T5 — TŪTŪ LEHUA'S ORDER
+## T5 — LEHUA'S ORDER
 State:
-materially active normality confirmed through Lehua-owned comb.
+confirmed as one historical layer, not sole layer.
 
 Pressure:
 5/5.
 
-Important:
-this does NOT confirm Lehua as agent.
-
 Next:
-Chapter 16 must show states that cannot all be explained as Lehua's late-life preferred arrangement.
+Chapter 17 turns her use of placement into documented behavior.
 
-## T6 — KEONI'S LIFE / EXPERTISE
+## T6 — KEONI
 State:
-skeptical witness crosses evidentiary threshold.
+skeptical confirmed witness.
 
 Pressure:
 5/5.
+
+Next:
+remain evidence-disciplined.
+
+## T7 — KOA CURRENT NORMAL
+State:
+strong.
+
+Pressure:
+4/5.
 
 Last moved:
-Chapter 15.
-
-What changed:
-Keoni inspects custody / room facts and acknowledges something occurred.
+Chapter 16.
 
 Next:
-he must continue separating fact from interpretation.
+keep active around current household use.
 
-## T7 — KOA'S CURRENT NORMAL
-State:
-active but absent from core Chapter 15 test.
-
-Pressure:
-4/5.
-
-Next:
-current normal should remain one of the competing states.
-
-## T8 — ESTATE / FAMILY PLACE FUTURE
+## T8 — ESTATE / FAMILY PLACE
 State:
 high.
 
 Pressure:
 5/5.
 
-Confirmation increases stakes but does not automatically decide sell / stay / distribute.
-
 ## T9 — WEATHER
 State:
-practical background.
+building toward practical preparation.
 
 Pressure:
 3/5.
 
-## T10 — HUMAN INTERFERENCE
+Next:
+Chapter 18 foregrounds.
+
+## T10 — HUMAN RESPONSIBILITY
 State:
-still relevant, no longer sufficient for all events.
+critical.
+
+Pressure:
+5/5.
+
+Next:
+Chapter 17 strengthens through Lehua's surveillance practices.
+
+## T12 — CONFLICTING HISTORICAL STATES
+State:
+ACTIVE.
 
 Pressure:
 5/5.
 
 Last moved:
-Chapter 15.
-
-What changed:
-first event cannot credibly be returned to human hands.
-
-Next:
-do not use supernatural proof to erase possible human manipulation elsewhere.
-
-## T11 — PREFERENCE PHASE
-State:
-COMPLETE / RETIRED AS PRIMARY PHASE.
-
-Outcome:
-successful.
-
-## T12 — CONFLICTING HISTORICAL STATES
-State:
-READY.
-
-Start:
 Chapter 16.
 
-Question:
-if the family place restores old normal, **which old normal?**
+What changed:
+single-year restoration model fails.
+
+Next:
+carry forward as background complexity.
