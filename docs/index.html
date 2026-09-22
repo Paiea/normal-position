@@ -85,7 +85,6 @@ fetch('manifest.json',{cache:'no-store'}).then(r=>r.json()).then(m=>{
  list.innerHTML=rs.map((r,i)=>'<a class="chapter" href="chapters/'+encodeURIComponent(r.id)+'/"><span class="chapter-no">'+String(i+1).padStart(2,'0')+'</span><span class="chapter-title">'+r.title+'</span><span class="chapter-go">Read</span></a>').join('');
 }).catch(()=>{});
 </script>
-
-<a href="https://paiea.github.io/bookshelf/" aria-label="Open Paiea Bookshelf" style="position:fixed;left:16px;bottom:16px;z-index:9999;padding:10px 14px;border:1px solid rgba(255,255,255,.24);border-radius:999px;background:rgba(10,10,10,.72);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);color:#fff;text-decoration:none;font:600 12px/1 system-ui,-apple-system,sans-serif;letter-spacing:.08em;text-transform:uppercase;box-shadow:0 8px 24px rgba(0,0,0,.22)">← Bookshelf</a>
+<a data-paiea-bookshelf="true" href="https://paiea.github.io/bookshelf/" aria-label="Open Paiea Bookshelf" title="Bookshelf" style="position:fixed;left:max(12px,env(safe-area-inset-left));bottom:max(12px,env(safe-area-inset-bottom));z-index:9999;width:42px;height:42px;display:grid;place-items:center;border:1px solid rgba(255,255,255,.22);border-radius:999px;background:rgba(10,10,10,.68);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);color:#fff;text-decoration:none;box-shadow:0 8px 24px rgba(0,0,0,.22)"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.5c2.7-.8 5.3-.5 8 1.2v12c-2.7-1.7-5.3-2-8-1.2z"/><path d="M20 5.5c-2.7-.8-5.3-.5-8 1.2v12c2.7-1.7 5.3-2 8-1.2z"/></svg></a>
 </body>
 </html>
