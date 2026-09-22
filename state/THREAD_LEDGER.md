@@ -1,122 +1,143 @@
 # NORMAL POSITION — THREAD LEDGER
 
-Status: ACTIVE THROUGH CHAPTER 16.
+Status: ACTIVE THROUGH CHAPTER 17.
 
 ## T1 — SUPERNATURAL RETURN
 State:
-confirmed.
+confirmed, quiet.
 
 Pressure:
-5/5.
+4/5.
 
 Next:
-hold volume steady. Do not confirm every old anomaly.
+hold during Chapter 18.
 
 ## T2 — MALIA / RESET / SURVEILLANCE
 State:
-ethical restraint improved, interpretive model destabilized.
+mirror with Lehua explicit.
 
 Pressure:
 5/5.
 
 Last moved:
-Chapter 16.
+Chapter 17.
+
+What changed:
+Malia recognizes her secret key test as the same method as Lehua's deliberate placement traps.
 
 Next:
-Chapter 17 explicitly confronts Lehua-method mirror.
+Chapter 18 should test whether she can defer to practical expertise without turning storm prep into data collection.
 
 ## T3 — NALANI / KALEI
 State:
-shared proof, divergent historical reading.
+control-versus-care disagreement sharpened.
 
 Pressure:
 5/5.
 
+Last moved:
+Chapter 17.
+
+What changed:
+Kalei concedes some Lehua tests crossed a line while defending practical systems.
+Nalani finds a page she refuses to discuss yet.
+
 Next:
-Chapter 17 should sharpen control-versus-management disagreement without resolving it.
+weather / storm preparation increases pressure toward Chapter 19 disclosure.
 
 ## T4 — NOHEA
 State:
-ordinary child + storm-history absence.
+held appropriately.
 
 Pressure:
 4/5.
 
 Next:
-hold in Chapter 17-18.
+mostly hold Chapter 18.
 
 ## T5 — LEHUA'S ORDER
 State:
-confirmed as one historical layer, not sole layer.
+human method documented.
 
 Pressure:
 5/5.
 
+Last moved:
+Chapter 17.
+
 Next:
-Chapter 17 turns her use of placement into documented behavior.
+storm prep should show some old procedures were practically effective.
 
 ## T6 — KEONI
 State:
-skeptical confirmed witness.
-
-Pressure:
-5/5.
-
-Next:
-remain evidence-disciplined.
-
-## T7 — KOA CURRENT NORMAL
-State:
-strong.
+evidence-disciplined.
 
 Pressure:
 4/5.
 
-Last moved:
-Chapter 16.
+Next:
+Chapter 18 foregrounds his weather / material competence.
+
+## T7 — KOA CURRENT NORMAL
+State:
+active.
+
+Pressure:
+4/5.
 
 Next:
-keep active around current household use.
+give him a real storm-prep responsibility.
 
 ## T8 — ESTATE / FAMILY PLACE
 State:
-high.
+active but secondary to weather.
+
+Pressure:
+4/5.
+
+## T9 — WEATHER
+State:
+READY TO FOREGROUND.
+
+Pressure:
+4/5.
+
+Start:
+Chapter 18.
+
+## T10 — HUMAN RESPONSIBILITY
+State:
+central.
 
 Pressure:
 5/5.
 
-## T9 — WEATHER
+Last moved:
+Chapter 17.
+
+What changed:
+the novel explicitly separates supernatural confirmation from human surveillance / coercion.
+
+## T12 — CONFLICTING HISTORICAL STATES
 State:
-building toward practical preparation.
+active background.
+
+Pressure:
+4/5.
+
+Next:
+storm prep should naturally recreate one old route without suggesting one true era.
+
+## T13 — STORM-DOOR TRUTH
+State:
+primed.
 
 Pressure:
 3/5.
 
-Next:
-Chapter 18 foregrounds.
-
-## T10 — HUMAN RESPONSIBILITY
-State:
-critical.
-
-Pressure:
-5/5.
+Setup:
+Nalani withheld notebook page.
 
 Next:
-Chapter 17 strengthens through Lehua's surveillance practices.
-
-## T12 — CONFLICTING HISTORICAL STATES
-State:
-ACTIVE.
-
-Pressure:
-5/5.
-
-Last moved:
-Chapter 16.
-
-What changed:
-single-year restoration model fails.
-
-Next:
-carry forward as background complexity.
+Chapter 18 weather work increases emotional pressure.
+Chapter 19 delivers first hard fact.
