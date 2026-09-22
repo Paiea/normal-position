@@ -518,6 +518,22 @@ Because moving it secretly would mean using his ordinary life as equipment.
 
 Malia lowered her hand.
 
+The answer she would not get sat there with the jacket.
+
+If she moved it, she might learn something.
+
+If she left it, she might never know whether the old peg mattered.
+
+That was the price.
+
+Not danger.
+
+Not proof.
+
+Uncertainty.
+
+For once, she chose it.
+
 Nalani was watching from the table.
 
 "You okay?"
